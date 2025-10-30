@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Button?>
+
+<VBox xmlns="http://javafx.com/javafx/21"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.ustadim_yeni.AnasayfaController"
+      alignment="CENTER" spacing="20">
+
+    <Button text="İdari Para Cezası (İPC) Hesaplama" prefWidth="300" onAction="#goToIpc"/>
+    <Button text="Prime Esas Kazanç (PEK) Hesaplama" prefWidth="300" onAction="#goToPek"/>
+    <Button text="Mevzuat Kaynakları" prefWidth="300" onAction="#goToMevzuat"/>
+
+</VBox>

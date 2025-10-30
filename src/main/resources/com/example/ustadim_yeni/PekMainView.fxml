@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Button?>
+
+<VBox xmlns="http://javafx.com/javafx/21"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.ustadim_yeni.PekController"
+      alignment="TOP_CENTER" spacing="10" style="-fx-padding: 20;">
+
+    <Button text="Ana Sayfaya Geri Dön" onAction="#goToAnasayfa"/>
+    <Label text="Prime Esas Kazanç (PEK) Hesaplama Ekranı"/>
+
+</VBox>
