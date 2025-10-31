@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<VBox xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" spacing="10" style="-fx-padding: 15;">
+    <Label text="KANUN 6331: TEHLİKE SINIFI VE ÇALIŞAN SEÇİMİ" style="-fx-font-weight: bold;"/>
+</VBox>

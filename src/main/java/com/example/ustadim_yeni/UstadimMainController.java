@@ -13,16 +13,17 @@ public class UstadimMainController {
     @FXML
     private BorderPane mainBorderPane;
 
-    // Uygulamanın CENTER alanındaki FXML içeriğini değiştiren metot
-// UstadimMainController.java içinde:
+    private FooterController footerController;
+    @FXML
+    public void initialize() {
+        // FXML yükleyicileri, fx:include kullanıldığında initialize içinde çalışır.
+        // Footer Controller'ı yakalamak için UstadimMainView.fxml'de değişiklik yapmalıyız.
+    }
 
-    // Uygulamanın CENTER alanındaki FXML içeriğini değiştiren metot
-// UstadimMainController.java içinde:
-
-    // Uygulamanın CENTER alanındaki FXML içeriğini değiştiren metot
-// UstadimMainController.java içinde:
-
-    // Uygulamanın CENTER alanındaki FXML içeriğini değiştiren metot
+    // Dışarıdan FooterController'ı almak için (ve IpcController'ın kullanması için)
+    public FooterController getFooterController() {
+        return footerController;
+    }
     public void setCenter(String fxmlFileName) {
         try {
             // Kesin FXML yolu: resources/com/example/ustadim_yeni

@@ -11,6 +11,6 @@
         <fx:include source="AnasayfaView.fxml"/>
     </center>
     <bottom>
-        <fx:include source="FooterView.fxml"/>
+       <fx:include fx:id="footer" source="FooterView.fxml"/>
     </bottom>
 </BorderPane>
