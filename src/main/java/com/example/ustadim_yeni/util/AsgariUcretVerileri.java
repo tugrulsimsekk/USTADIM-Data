@@ -12,6 +12,7 @@ public class AsgariUcretVerileri {
 
     static {
         Map<String, Double> map = new HashMap<>();
+        map.put("2025-01", 26005.50);
 
         // 2024 Yılı (Örn: İkinci dönem 07-12)
         map.put("2024-07", 20002.50); // Temmuz 2024

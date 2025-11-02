@@ -6,20 +6,26 @@
 <?import javafx.scene.layout.HBox?>
 
 <VBox xmlns="http://javafx.com/javafx/21"
-      xmlns:fx="http://javafx.com/fxml/1" spacing="15" style="-fx-padding: 15;"
-    fx:controller="com.example.ustadim_yeni.Ipc5510Controller">
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.ustadim_yeni.Ipc5510Controller"
+      spacing="15"
+      style="-fx-padding: 15;">
+
     <Label text="KANUN 5510: CEZA TÜRÜ SEÇİMİ" style="-fx-font-weight: bold; -fx-font-size: 14pt;"/>
 
     <HBox spacing="10" alignment="CENTER_LEFT">
         <Label text="Fiilin İşlendiği Tarih:"/>
         <DatePicker fx:id="tarihSecici5510"/>
-
     </HBox>
 
     <Label text="1. Ceza Türünü Seçiniz:"/>
+    <ComboBox fx:id="cezaTuruSecici5510"
+              prefWidth="400"
+              promptText="Lütfen kanun maddesini seçiniz..."
+              onAction="#cezaSecildi"/>
 
-    <ComboBox fx:id="cezaTuruSecici5510" prefWidth="400" promptText="Lütfen kanun maddesini seçiniz..." onAction="#cezaSecildi"/>
-
-    <VBox fx:id="dinamikGirisAlani5510" spacing="10" style="-fx-padding: 10; -fx-border-color: lightgray;"/>
+    <VBox fx:id="dinamikGirisAlani5510"
+          spacing="10"
+          style="-fx-padding: 10; -fx-border-color: lightgray;"/>
 
 </VBox>
