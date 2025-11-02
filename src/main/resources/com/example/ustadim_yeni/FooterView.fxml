@@ -16,6 +16,7 @@
     <TitledPane text="İdari Para Cezası (İPC) Toplamları" prefWidth="750" collapsible="false">
         <VBox spacing="5" style="-fx-padding: 5;">
             <TableView fx:id="ipcTableView" prefHeight="220" VBox.vgrow="ALWAYS"> <columns>
+                <TableColumn fx:id="ipcKolonKanun" text="Kanun" />
                 <TableColumn fx:id="ipcKolonMadde" text="Madde" prefWidth="70"/>
                 <TableColumn fx:id="ipcKolonDetay" text="Detay" prefWidth="250"/>
                 <TableColumn fx:id="ipcKolonTarih" text="Tarih" prefWidth="90"/>

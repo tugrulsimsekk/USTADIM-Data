@@ -17,6 +17,9 @@ public class FooterController {
     // Statik erişim için
     private static FooterController instance;
 
+
+    @FXML
+    private TableColumn<IpcHesaplamaKaydi, String> ipcKolonKanun;
     @FXML
     private TableView<IpcHesaplamaKaydi> ipcTableView;
     // Kolonlar doğru tipte tanımlanmalıdır
@@ -41,6 +44,7 @@ public class FooterController {
         ipcTableView.setItems(ipcKayitlari);
 
         // Kolonları modeldeki alanlara bağlama
+        ipcKolonKanun.setCellValueFactory(new PropertyValueFactory<>("kanunTuru"));
         ipcKolonMadde.setCellValueFactory(new PropertyValueFactory<>("kanunMaddeKodu"));
         ipcKolonDetay.setCellValueFactory(new PropertyValueFactory<>("ozelDetay"));
         ipcKolonTutar.setCellValueFactory(new PropertyValueFactory<>("hesaplananCezaFormatted"));
