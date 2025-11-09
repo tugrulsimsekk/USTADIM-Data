@@ -8,9 +8,9 @@ import javafx.fxml.FXML;
 import javafx.scene.control.*;
 import javafx.scene.layout.VBox;
 import java.time.LocalDate;
-import java.util.Arrays;
 import java.util.List;
-import javafx.event.ActionEvent;
+
+import com.example.ustadim_yeni.util.JsonDataLoader;
 
 public class Ipc5510Controller {
 
@@ -25,7 +25,8 @@ public class Ipc5510Controller {
     // --- INITIALIZE ---
     @FXML
     public void initialize() {
-        cezaTuruSecici5510.setItems(FXCollections.observableArrayList(getCezaListesi()));
+        List<Ceza5510Turu> cezalar = JsonDataLoader.loadCezalar();
+        cezaTuruSecici5510.setItems(FXCollections.observableArrayList(cezalar));
     }
 
     // --- AKSİYONLAR ---
@@ -156,8 +157,9 @@ public class Ipc5510Controller {
         }
 
         double brütAsgariUcret = AsgariUcretVerileri.getUcretByTarih(fiilTarihi);
-        if (brütAsgariUcret <= 0.0) {
-            new Alert(Alert.AlertType.WARNING, "Seçilen tarih için AU bilgisi yok.").showAndWait();
+        if (brütAsgariUcret < 0) {
+            new Alert(Alert.AlertType.WARNING,
+                    "⚠️ Seçilen tarih için henüz asgari ücret verisi oluşturulmamıştır.").showAndWait();
             return;
         }
 
@@ -364,58 +366,5 @@ public class Ipc5510Controller {
         } catch (NumberFormatException e) {
             new Alert(Alert.AlertType.ERROR, "Lütfen geçerli bir sayı giriniz.").showAndWait();
         }
-    }
-
-    // --- VERİ LİSTESİ ---
-    private List<Ceza5510Turu> getCezaListesi() {
-        return Arrays.asList(
-                // SIRA: KOD, KANUN YERİ, AÇIKLAMA, KRİTER, KATSAI, ALT SINIR, ÜST SINIR
-                new Ceza5510Turu("a.1.", "Md. 102/a-1", "Sigortalı işe giriş bildirgesinin süresinde verilmemesi", "Sigortalı sayısı kadar", 1.0, 0.0, 9999.0),
-                new Ceza5510Turu("a.2.", "Md. 102/a-2", "Sigortalı işe giriş bildirgesinin süresinde verilmemesi (Müfettiş tespiti)", "Sigortalı sayısı kadar", 2.0, 0.0, 9999.0),
-                new Ceza5510Turu("a.3.", "Md. 102/a-3", "Sigortalı işe giriş bildirgesinin süresinde verilmemesinin 1 yıl içinde tekrarı", "Sigortalı sayısı kadar", 5.0, 0.0, 9999.0), // Tekrar bilgisi burada sabitlendi
-
-                new Ceza5510Turu("b.1.", "Md. 102/b-1", "İş yeri tescil bildirgesinin geç verilmesi (Kamu/Bilanço)", "Sabit", 3.0, 0.0, 9999.0),
-                new Ceza5510Turu("b.2.", "Md. 102/b-2", "İş yeri tescil bildirgesinin geç verilmesi (Diğer Defterler)", "Sabit", 2.0, 0.0, 9999.0),
-                new Ceza5510Turu("b.3.", "Md. 102/b-3", "İş yeri tescil bildirgesinin geç verilmesi (Defter Tutmayan)", "Sabit", 1.0, 0.0, 9999.0),
-
-                new Ceza5510Turu("c.1.", "Md. 102/c-1", "APHB/M&PHB, eksik gün belgelerinin verilmemesi (Asıl)", "APHB eksik verme", 0.2, 0.0, 2.0),
-                new Ceza5510Turu("c.2.", "Md. 102/c-2", "APHB/M&PHB, eksik gün belgelerinin verilmemesi (Ek)", "APHB eksik verme", 0.125, 0.0, 2.0),
-                new Ceza5510Turu("c.3.", "Md. 102/c-3", "APHB/M&PHB, eksik gün belgelerinin verilmemesi (Resen Düzenleme)", "APHB eksik verme", 0.5, 0.0, 2.0),
-                new Ceza5510Turu("c.4.", "Md. 102/c-4", "APHB/M&PHB, eksik gün belgelerinin verilmemesi (Müfettiş Tespiti)", "APHB eksik verme", 2.0, 0.0, 9999.0),
-
-                new Ceza5510Turu("d.", "Md. 102/d", "Eksik işçilik tutarının mal edildiği her bir ay için", "Her bir ay için", 2.0, 0.0, 9999.0),
-
-                new Ceza5510Turu("e.1.", "Md. 102/e-1", "Kayıt/belge ibraz edilmemesi (Bilanço esası)", "Sabit", 12.0, 0.0, 9999.0),
-                new Ceza5510Turu("e.2.", "Md. 102/e-2", "Kayıt/belge ibraz edilmemesi (Diğer defterler)", "Sabit", 6.0, 0.0, 9999.0),
-                new Ceza5510Turu("e.3.", "Md. 102/e-3", "Kayıt/belge ibraz edilmemesi (Defter tutmak zorunda olmayanlar)", "Sabit", 3.0, 0.0, 9999.0),
-                new Ceza5510Turu("e.4.", "Md. 102/e-4", "Defter geçersizliği", "Sabit", 0.5, 0.0, 9999.0),
-                new Ceza5510Turu("e.5.", "Md. 102/e-5", "Bordro geçersizliği", "Sabit", 0.5, 0.0, 9999.0),
-
-                new Ceza5510Turu("f.", "Md. 102/f", "Asgari işçilik uygulaması ve uzlaşma", "Sabit", 2.0, 0.0, 9999.0),
-
-                new Ceza5510Turu("h.", "Md. 102/h", "Ticaret sicili memurlukları ile kurum ve kuruluşlar", "Sabit", 1.0, 0.0, 9999.0),
-
-                new Ceza5510Turu("ı.1", "Md. 102/ı-1", "Görevini yerine getirene engel olma", "Sabit", 5.0, 0.0, 9999.0),
-                new Ceza5510Turu("ı.2","Md. 102/ı-2", "Görevini yerine getirene cebir ve tehdit yapılması", "Sabit", 10.0, 1.0, 9999.0),
-
-
-                new Ceza5510Turu("i.1", "Md. 102/i-1", "100’üncü madde kapsamında istenen belgenin ibraz edilmemesi", "Sabit", 5.0, 0.0, 9999.0),
-                new Ceza5510Turu("i.2", "Md. 102/i-2", "100’üncü madde kapsamında istenen belgenin geç ibraz edilmesi", "Sabit", 2.0, 0.0, 9999.0),
-
-                new Ceza5510Turu("i.3", "Md. 102/i-3", "İş göremezlik ödeneği için belgenin Kurum'a geç verilmesi", "Sabit", 0.1, 0.0, 9999.0),
-                new Ceza5510Turu("i.4", "Md. 102/i-4", "İş göremezlik ödeneği için belgenin Kurum'a verilmemesi", "Sabit", 0.5, 0.0, 9999.0),
-
-                new Ceza5510Turu("j.", "Md. 102/j", "Sigortalı işten ayrılış bildirgesinin verilmemesi veya geç verilmesi", "Sigortalı sayısı kadar", 0.1, 0.0, 9999.0),
-
-                new Ceza5510Turu("m.1.", "Md. 102/m-1", "Muhtasar ve APHB: Günü ve primi eksik (Asıl)", "APHB eksik verme", 0.2, 0.0, 2.0),
-                new Ceza5510Turu("m.2.", "Md. 102/m-2", "Muhtasar ve APHB: Günü ve primi eksik – (Ek)", "APHB eksik verme", 0.125, 0.0, 2.0),
-                new Ceza5510Turu("m.3.", "Md. 102/m-3", "Muhtasar ve APHB: Günü ve primi eksik – (Resen Düzenleme)", "APHB eksik verme", 0.5, 0.0, 2.0),
-                new Ceza5510Turu("m.4.a", "Md. 102/m-4a", "Muhtasar ve APHB: Müfettiş tespiti – Bilanço esası", "APHB eksik verme", 1, 0.0, 3.0),
-                new Ceza5510Turu("m.4.b", "Md. 102/m-4b", "Muhtasar ve APHB: Müfettiş tespiti – Diğer defterler", "APHB eksik verme", 0.5, 0.0, 2.0),
-                new Ceza5510Turu("m.4.c", "Md. 102/m-4c", "Muhtasar ve APHB: Müfettiş tespiti – Defter tutmak zorunda olmayanlar", "APHB eksik verme", 0.34, 0.0, 1.0),
-                new Ceza5510Turu("m.4.ç", "Md. 102/m-4ç", "Muhtasar ve APHB: Müfettiş tespiti – Günü tam ama primi eksik", "APHB eksik verme", 1.0, 0.1, 2.0),
-
-                new Ceza5510Turu("n.", "Md. 102/n", "Meslek kodlarının hatalı/yanlış bildirilmesi", "Sigortalı sayısı kadar", 0.1, 0.0, 1.0)
-        );
     }
 }

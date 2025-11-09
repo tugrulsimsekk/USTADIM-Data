@@ -1,0 +1,1948 @@
+{
+  "cezalar6331": [
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-04-23",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 3699.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3082.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 3699.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 4932.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3699.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 4932.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 7398.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2015-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2466.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2603.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2603.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 3904.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3253.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 3904.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 5206.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3904.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 5206.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 7809.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2603.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2603.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2603.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2603.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2603.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2603.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2603.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2603.0
+    },
+    {
+      "tarih": "2016-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2603.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2702.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2702.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 4053.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3377.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 4053.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 5404.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 4053.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 5404.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 8106.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2702.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2702.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2702.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2702.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2702.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2702.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 2702.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 2702.0
+    },
+    {
+      "tarih": "2017-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 2702.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3092.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 3092.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 4638.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3865.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 4638.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 6184.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 4638.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 6184.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 9276.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3092.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 3092.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 3092.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3092.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 3092.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 3092.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3092.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 3092.0
+    },
+    {
+      "tarih": "2018-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 3092.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3825.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 3825.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 5737.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 4781.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 5737.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 7650.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 5737.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 7650.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 11475.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3825.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 3825.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 3825.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3825.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 3825.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 3825.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 3825.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 3825.0
+    },
+    {
+      "tarih": "2019-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 3825.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 4688.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 4688.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 7032.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 5860.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 7032.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 9376.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 7032.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 9376.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 14064.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 4688.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 4688.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 4688.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 4688.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 4688.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 4688.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 4688.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 4688.0
+    },
+    {
+      "tarih": "2020-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 4688.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 5115.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 5115.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 7672.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 6393.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 7672.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 10230.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 7672.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 10230.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 15345.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 5115.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 5115.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 5115.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 5115.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 5115.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 5115.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 5115.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 5115.0
+    },
+    {
+      "tarih": "2021-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 5115.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 6966.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 6966.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 10449.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 8707.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 10449.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 13932.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 10449.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 13932.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 20898.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 6966.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 6966.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 6966.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 6966.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 6966.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 6966.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 6966.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 6966.0
+    },
+    {
+      "tarih": "2022-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 6966.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 15529.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 15529.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 23293.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 19411.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 23293.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 31058.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 23293.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 31058.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 46857.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 15529.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 15529.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 15529.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 15529.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 15529.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 15529.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 15529.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 15529.0
+    },
+    {
+      "tarih": "2023-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 15529.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 24607.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 24607.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 36910.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 30758.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 36910.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 49214.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 36910.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 49214.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 73821.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 24607.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 24607.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 24607.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 24607.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 24607.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 24607.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 24607.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 24607.0
+    },
+    {
+      "tarih": "2024-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 24607.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 35416.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 35416.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 53124.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 44270.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 53124.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 70832.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 53124.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 70832.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - İŞVERENİN 3 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "İşveren",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 106248.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 35416.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 35416.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "AZ TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 35416.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 35416.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 35416.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 35416.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10'DAN AZ",
+      "tutar": 35416.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "10-49 ARASI",
+      "tutar": 35416.0
+    },
+    {
+      "tarih": "2025-01-01",
+      "madde": "26",
+      "aciklama": "İş kazasının bildirilmemesi - SHS'NİN 10 GÜN İÇİNDE BİLDİRMEMESİ",
+      "sorumluk": "SHS",
+      "tehlikeSinifi": "ÇOK TEHLİKELİ",
+      "calisanSayisiAraligi": "50'DEN FAZLA",
+      "tutar": 35416.0
+    }
+  ]
+}
