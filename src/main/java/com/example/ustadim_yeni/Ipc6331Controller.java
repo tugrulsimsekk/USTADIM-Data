@@ -5,6 +5,7 @@ import javafx.scene.control.*;
 import javafx.scene.layout.VBox;
 import javafx.collections.FXCollections;
 import com.example.ustadim_yeni.util.JsonDataLoader;
+import com.example.ustadim_yeni.model.IpcHesaplamaKaydi;
 import java.time.LocalDate;
 import java.util.Map;
 
@@ -46,8 +47,23 @@ public class Ipc6331Controller {
             new Alert(Alert.AlertType.WARNING, "Seçilen kriterler için ceza bulunamadı.").showAndWait();
         } else {
             double tutar = ceza.get("tutar");
-            new Alert(Alert.AlertType.INFORMATION,
-                    String.format("6331 Cezası: %.2f TL", tutar)).showAndWait();
+
+            // Tabloya ekle
+            IpcHesaplamaKaydi yeniKayit = new IpcHesaplamaKaydi(
+                    "26",
+                    "6331",
+                    tarih,
+                    tutar,
+                    tutar,
+                    sorumluk + " - " + tehlike + " - " + calisanlar
+            );
+
+            FooterController footer = FooterController.getInstance();
+            if (footer != null) {
+                footer.addIpcKaydi(yeniKayit);
+                new Alert(Alert.AlertType.INFORMATION,
+                        String.format("6331 Cezası Eklendi: %.2f TL", tutar)).showAndWait();
+            }
         }
     }
 }

@@ -8,6 +8,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 // PAKET ADINDAKİ DEĞİŞİKLİK BURAYA YANSITILDI
 
+import com.example.ustadim_yeni.util.UpdateChecker;
 
 public class HelloApplication extends Application {
 
@@ -25,7 +26,8 @@ public class HelloApplication extends Application {
         stage.setTitle("ÜSTADIM - Hesaplama ve Mevzuat Yönetimi");
         stage.setScene(scene);
         stage.show();
-
+// Güncelleme kontrolü
+        UpdateChecker.checkAndUpdateFiles();
         mainControllerInstance = fxmlLoader.getController();
     }
 
