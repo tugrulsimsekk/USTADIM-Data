@@ -1,0 +1,84 @@
+{
+  "primOranlari": [
+    {
+      "kod": "4a",
+      "aciklama": "4/a",
+      "uzunVadeli": 0.09,
+      "kisaVadeli": 0.00,
+      "gss": 0.05,
+      "issizlik": 0.01,
+      "toplamCalisanPayi": 0.15,
+      "tavanKatsayi": 7.5,
+      "tabanKatsayi": 1.0
+    },
+    {
+      "kod": "SGDP",
+      "aciklama": "SGDP'li",
+      "sgdpPrimi": 0.075,
+      "toplamCalisanPayi": 0.075,
+      "tavanKatsayi": 7.5,
+      "tabanKatsayi": 1.0
+    },
+    {
+      "kod": "5g",
+      "aciklama": "5/g Yurt Dışında Çalışan Türk İşçileri",
+      "uzunVadeli": 0.00,
+      "kisaVadeli": 0.00,
+      "gss": 0.05,
+      "issizlik": 0.01,
+      "toplamCalisanPayi": 0.06,
+      "tavanKatsayi": 3.0,
+      "tabanKatsayi": 1.0
+    },
+    {
+      "kod": "EK5_TARIM",
+      "aciklama": "Ek 5: Tarım/Orman İşlerinde Süreksiz Çalışanlar",
+      "uzunVadeli": 0.20,
+      "gss": 0.125,
+      "isKazasi": 0.02,
+      "toplamCalisanPayi": 0.345,
+      "tavanKatsayi": 7.5,
+      "tabanKatsayi": 1.0
+    },
+    {
+      "kod": "EK6_TAKSI",
+      "aciklama": "Ek 6: Taksi/Dolmuş Kısmi Çalışanları",
+      "uzunVadeli": 0.20,
+      "gss": 0.125,
+      "toplamCalisanPayi": 0.325,
+      "tavanKatsayi": 7.5,
+      "tabanKatsayi": 1.0
+    },
+
+    {
+      "kod": "EK9_10_UZERI_NORMAL",
+      "aciklama": "Ek 9: Ev Hizmetlerinde 10 Gün ve Üzeri Çalışanlar - Normal",
+      "uzunVadeli": 0.09,
+      "kisaVadeli": 0.00,
+      "gss": 0.05,
+      "issizlik": 0.01,
+      "toplamCalisanPayi": 0.15,
+      "tavanKatsayi": 7.5,
+      "tabanKatsayi": 1.0
+    },
+    {
+      "kod": "EK9_10_UZERI_SGDP",
+      "aciklama": "Ek 9: Ev Hizmetleri 10 Gün ve Üzeri Çalışanlar -  SGDP'li",
+      "sgdpPrimi": 0.075,
+      "toplamCalisanPayi": 0.075,
+      "tavanKatsayi": 7.5,
+      "tabanKatsayi": 1.0
+    },
+    {
+      "kod": "EK9_10_ALTI",
+      "aciklama": "Ek 9: Ev Hizmetleri 10 Günden Az Çalışanlar",
+      "uzunVadeli": 0.20,
+      "gss": 0.125,
+      "toplamCalisanPayi": 0.325,
+      "tavanKatsayi": 1.0,
+      "tabanKatsayi": 1.0,
+      "ozelDurum": "AYLIK_SABIT",
+      "aylikSabitOran": 0.325
+    }
+  ]
+}

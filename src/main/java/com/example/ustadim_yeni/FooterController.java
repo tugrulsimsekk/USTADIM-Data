@@ -121,4 +121,53 @@ public class FooterController {
     private void temizlePekTablosu(ActionEvent event) {
         // PEK temizleme mantığı buraya gelecek
     }
+    // ===== NAVIGATION METHODS =====
+
+    @FXML
+    private void goToAnasayfa(ActionEvent event) {
+        UstadimMainController mainController = HelloApplication.getMainController();
+        if (mainController != null) {
+            mainController.setCenter("AnasayfaView.fxml");
+        }
+    }
+
+    @FXML
+    private void goToIpc5510(ActionEvent event) {
+        UstadimMainController mainController = HelloApplication.getMainController();
+        if (mainController != null) {
+            mainController.setCenter("Ipc5510MainView.fxml");
+        }
+    }
+
+    @FXML
+    private void goToIpc6331(ActionEvent event) {
+        UstadimMainController mainController = HelloApplication.getMainController();
+        if (mainController != null) {
+            mainController.setCenter("Ipc6331MainView.fxml");
+        }
+    }
+
+    @FXML
+    private void goToMevzuat(ActionEvent event) {
+        UstadimMainController mainController = HelloApplication.getMainController();
+        if (mainController != null) {
+            mainController.setCenter("MevzuatView.fxml");
+        }
+    }
+
+    @FXML
+    private void goToPek(ActionEvent event) {
+        UstadimMainController mainController = HelloApplication.getMainController();
+        if (mainController != null) {
+            mainController.setCenter("PekMainView.fxml");
+        }
+    }
+
+    @FXML
+    private void goToIpc(ActionEvent event) {
+        UstadimMainController mainController = HelloApplication.getMainController();
+        if (mainController != null) {
+            mainController.setCenter("IpcView.fxml");
+        }
+    }
 }

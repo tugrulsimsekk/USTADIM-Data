@@ -1,0 +1,118 @@
+{
+  "gelirVergisiDilimleri": {
+    "2025": [
+      { "ust": 158000, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 330000, "oran": 0.20, "sabitVergi": 23700 },
+      { "ust": 1200000, "oran": 0.27, "sabitVergi": 58100 },
+      { "ust": 4300000, "oran": 0.35, "sabitVergi": 293000 },
+      { "ust": 999999999, "oran": 0.40, "sabitVergi": 1378000 }
+    ],
+    "2024": [
+      { "ust": 110000, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 230000, "oran": 0.20, "sabitVergi": 16500 },
+      { "ust": 870000, "oran": 0.27, "sabitVergi": 40500 },
+      { "ust": 3000000, "oran": 0.35, "sabitVergi": 213300 },
+      { "ust": 999999999, "oran": 0.40, "sabitVergi": 958800 }
+    ],
+    "2023": [
+      { "ust": 70000, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 150000, "oran": 0.20, "sabitVergi": 10500 },
+      { "ust": 550000, "oran": 0.27, "sabitVergi": 26500 },
+      { "ust": 1900000, "oran": 0.35, "sabitVergi": 134500 },
+      { "ust": 999999999, "oran": 0.40, "sabitVergi": 607000 }
+    ],
+    "2022": [
+      { "ust": 32000, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 70000, "oran": 0.20, "sabitVergi": 4800 },
+      { "ust": 250000, "oran": 0.27, "sabitVergi": 12400 },
+      { "ust": 880000, "oran": 0.35, "sabitVergi": 61000 },
+      { "ust": 999999999, "oran": 0.40, "sabitVergi": 281500 }
+    ],
+    "2021": [
+      { "ust": 24000, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 53000, "oran": 0.20, "sabitVergi": 3600 },
+      { "ust": 190000, "oran": 0.27, "sabitVergi": 9400 },
+      { "ust": 650000, "oran": 0.35, "sabitVergi": 46390 },
+      { "ust": 999999999, "oran": 0.40, "sabitVergi": 207390 }
+    ],
+    "2020": [
+      { "ust": 22000, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 49000, "oran": 0.20, "sabitVergi": 3300 },
+      { "ust": 180000, "oran": 0.27, "sabitVergi": 8700 },
+      { "ust": 600000, "oran": 0.35, "sabitVergi": 44070 },
+      { "ust": 999999999, "oran": 0.40, "sabitVergi": 191070 }
+    ],
+    "2019": [
+      { "ust": 18000, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 40000, "oran": 0.20, "sabitVergi": 2700 },
+      { "ust": 148000, "oran": 0.27, "sabitVergi": 7100 },
+      { "ust": 999999999, "oran": 0.35, "sabitVergi": 36260 }
+    ],
+    "2018": [
+      { "ust": 14800, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 34000, "oran": 0.20, "sabitVergi": 2220 },
+      { "ust": 120000, "oran": 0.27, "sabitVergi": 6060 },
+      { "ust": 999999999, "oran": 0.35, "sabitVergi": 29280 }
+    ],
+    "2017": [
+      { "ust": 13000, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 30000, "oran": 0.20, "sabitVergi": 1950 },
+      { "ust": 110000, "oran": 0.27, "sabitVergi": 5350 },
+      { "ust": 999999999, "oran": 0.35, "sabitVergi": 26950 }
+    ],
+    "2016": [
+      { "ust": 12600, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 30000, "oran": 0.20, "sabitVergi": 1890 },
+      { "ust": 110000, "oran": 0.27, "sabitVergi": 5370 },
+      { "ust": 999999999, "oran": 0.35, "sabitVergi": 26970 }
+    ],
+    "2015": [
+      { "ust": 12000, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 29000, "oran": 0.20, "sabitVergi": 1800 },
+      { "ust": 106000, "oran": 0.27, "sabitVergi": 5200 },
+      { "ust": 999999999, "oran": 0.35, "sabitVergi": 25990 }
+    ],
+    "2014": [
+      { "ust": 11000, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 27000, "oran": 0.20, "sabitVergi": 1650 },
+      { "ust": 97000, "oran": 0.27, "sabitVergi": 4850 },
+      { "ust": 999999999, "oran": 0.35, "sabitVergi": 23750 }
+    ],
+    "2013": [
+      { "ust": 10700, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 26000, "oran": 0.20, "sabitVergi": 1605 },
+      { "ust": 94000, "oran": 0.27, "sabitVergi": 4665 },
+      { "ust": 999999999, "oran": 0.35, "sabitVergi": 23025 }
+    ],
+    "2012": [
+      { "ust": 10000, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 25000, "oran": 0.20, "sabitVergi": 1500 },
+      { "ust": 88000, "oran": 0.27, "sabitVergi": 4500 },
+      { "ust": 999999999, "oran": 0.35, "sabitVergi": 21510 }
+    ],
+    "2011": [
+      { "ust": 9400, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 23000, "oran": 0.20, "sabitVergi": 1410 },
+      { "ust": 80000, "oran": 0.27, "sabitVergi": 4130 },
+      { "ust": 999999999, "oran": 0.35, "sabitVergi": 19520 }
+    ],
+    "2010": [
+      { "ust": 8800, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 22000, "oran": 0.20, "sabitVergi": 1320 },
+      { "ust": 76200, "oran": 0.27, "sabitVergi": 3960 },
+      { "ust": 999999999, "oran": 0.35, "sabitVergi": 18594 }
+    ],
+    "2009": [
+      { "ust": 8700, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 22000, "oran": 0.20, "sabitVergi": 1305 },
+      { "ust": 50000, "oran": 0.27, "sabitVergi": 3965 },
+      { "ust": 999999999, "oran": 0.35, "sabitVergi": 11525 }
+    ],
+    "2008": [
+      { "ust": 7800, "oran": 0.15, "sabitVergi": 0 },
+      { "ust": 19800, "oran": 0.20, "sabitVergi": 1170 },
+      { "ust": 44700, "oran": 0.27, "sabitVergi": 3570 },
+      { "ust": 999999999, "oran": 0.35, "sabitVergi": 10293 }
+    ]
+  }
+}

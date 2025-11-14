@@ -11,9 +11,10 @@
     <description>5510 ve 6331 Kanunu Ceza Hesaplama Uygulaması</description>
 
     <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>21</maven.compiler.source>
-        <maven.compiler.target>21</maven.compiler.target>
+            <maven.compiler.source>21</maven.compiler.source>
+            <maven.compiler.target>21</maven.compiler.target>
+            <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
         <javafx.version>21</javafx.version>
         <javafx.maven.plugin.version>0.0.8</javafx.maven.plugin.version>
         <junit.version>5.8.1</junit.version>

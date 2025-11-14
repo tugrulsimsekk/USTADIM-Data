@@ -34,7 +34,7 @@
         </VBox>
     </TitledPane>
 
-    <TitledPane text="PEK Toplamları" prefWidth="450" collapsible="false" HBox.hgrow="ALWAYS"> <VBox spacing="5" style="-fx-padding: 5;">
+    <TitledPane text="Prime Esas Kazanç (PEK) Toplamları" prefWidth="750" collapsible="false" HBox.hgrow="ALWAYS"> <VBox spacing="5" style="-fx-padding: 5;">
         <TableView fx:id="pekTableView" prefHeight="220" VBox.vgrow="ALWAYS"> <columns>
             <TableColumn fx:id="pekKolonSigortali" text="Sigortalı" prefWidth="150"/>
             <TableColumn fx:id="pekKolonTutar" text="Tutar" prefWidth="150"/>

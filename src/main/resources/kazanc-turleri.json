@@ -1,0 +1,131 @@
+{
+  "kazancTurleri": [
+    {
+      "kod": "UCRET",
+      "ad": "Ücret",
+      "primeTabi": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "PRIM",
+      "ad": "Prim",
+      "primeTabi": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "IKRAMIYE",
+      "ad": "İkramiye",
+      "primeTabi": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "YEMEK_YARDIMI",
+      "ad": "Yemek Yardımı",
+      "primeTabi": "KISMI",
+      "hesaplama": "YEMEK",
+      "formul": "Brüt Günlük AU × 0.06 × Çalışılan Gün",
+      "istisnaTuru": "GUNLUK",
+      "istisnaOrani": 0.06
+    },
+    {
+      "kod": "COCUK_ZAMMI",
+      "ad": "Çocuk Zammı",
+      "primeTabi": "KISMI",
+      "hesaplama": "COCUK",
+      "formul": "Brüt Aylık AU × 0.02 × Çocuk Sayısı (Max 2)",
+      "istisnaTuru": "AYLIK",
+      "istisnaOrani": 0.02,
+      "maxCocuk": 2
+    },
+    {
+      "kod": "AILE_ZAMMI",
+      "ad": "Aile Zammı",
+      "primeTabi": "KISMI",
+      "hesaplama": "AILE",
+      "formul": "Brüt Aylık AU × 0.10",
+      "istisnaTuru": "AYLIK",
+      "istisnaOrani": 0.10
+    },
+    {
+      "kod": "OZEL_SAGLIK_BES",
+      "ad": "Özel Sağlık Sigortası + BES",
+      "primeTabi": "KISMI",
+      "hesaplama": "SAGLIK_BES",
+      "formul": "Brüt Aylık AU × 0.30",
+      "istisnaTuru": "AYLIK",
+      "istisnaOrani": 0.30
+    },
+    {
+      "kod": "AYNI_YARDIM",
+      "ad": "Ayni Yardım (Nakdi)",
+      "primeTabi": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "OLUM_YARDIMI",
+      "ad": "Ölüm Yardımı",
+      "primeTabi": false,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "DOGUM_YARDIMI",
+      "ad": "Doğum Yardımı",
+      "primeTabi": false,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "EVLENME_YARDIMI",
+      "ad": "Evlenme Yardımı",
+      "primeTabi": false,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "GOREV_YOLLUGU",
+      "ad": "Görev Yolluğu",
+      "primeTabi": false,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "SEYYAR_GOREV_TAZ",
+      "ad": "Seyyar Görev Tazminatı",
+      "primeTabi": false,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "KIDEM_TAZ",
+      "ad": "Kıdem Tazminatı",
+      "primeTabi": false,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "IS_SONU_TAZ",
+      "ad": "İş Sonu Tazminatı",
+      "primeTabi": false,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "KESIF_UCRETI",
+      "ad": "Keşif Ücreti",
+      "primeTabi": false,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "IHBAR_TAZ",
+      "ad": "İhbar Tazminatı",
+      "primeTabi": false,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "KASA_TAZ",
+      "ad": "Kasa Tazminatı",
+      "primeTabi": false,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "DIGER",
+      "ad": "Diğer Ödemeler",
+      "primeTabi": true,
+      "hesaplama": "TAM"
+    }
+  ]
+}
