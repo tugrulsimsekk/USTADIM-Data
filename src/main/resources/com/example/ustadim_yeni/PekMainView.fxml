@@ -2,15 +2,12 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<ScrollPane xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1"
-            fx:controller="com.example.ustadim_yeni.PekController"
-            fitToWidth="true" style="-fx-background-color: #f5f5f5;">
-
-    <VBox spacing="10" style="-fx-padding: 15;">
+<VBox xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.ustadim_yeni.PekController"
+      spacing="10" style="-fx-padding: 15; -fx-background-color: #f5f5f5;">
 
         <VBox alignment="CENTER" spacing="10" style="-fx-padding: 15 0 10 0; -fx-background-color: #f5f5f5;">
             <Button text="Ana Sayfaya Geri Dön" onAction="#goToAnasayfa"/>
-
             <Label text="PRİME ESAS KAZANÇ HESAPLAMA" style="-fx-font-weight: bold;"/>
         </VBox>
 
@@ -25,8 +22,8 @@
                 <ColumnConstraints minWidth="200"/>
             </columnConstraints>
 
-            <Label text="Hesaplama Tipi:" GridPane.columnIndex="0" GridPane.rowIndex="0"/>
-            <ComboBox fx:id="hesaplamaTipiCombo" GridPane.columnIndex="1" GridPane.rowIndex="0" maxWidth="Infinity"/>
+            <Label text="Hesaplama Yöntemi:" GridPane.columnIndex="0" GridPane.rowIndex="0"/>
+            <ComboBox fx:id="hesaplamaYontemiCombo" GridPane.columnIndex="1" GridPane.rowIndex="0" maxWidth="Infinity"/>
 
             <Label text="Sigortalılık Statüsü:" GridPane.columnIndex="2" GridPane.rowIndex="0"/>
             <ComboBox fx:id="sigortalilikStatuCombo" GridPane.columnIndex="3" GridPane.rowIndex="0" maxWidth="Infinity"/>
@@ -42,9 +39,10 @@
             </HBox>
         </GridPane>
 
-        <!-- ORTA PANEL -->
-        <HBox spacing="10" prefHeight="400">
+        <!-- ORTA PANEL - SABİT YÜKSEKLİK -->
+        <HBox spacing="10" prefHeight="275" minHeight="275" maxHeight="275">
 
+            <!-- SOL: KAZANÇ -->
             <!-- SOL: KAZANÇ -->
             <VBox spacing="10" prefWidth="742" minWidth="742" maxWidth="742">
 
@@ -73,40 +71,50 @@
                     </HBox>
                 </VBox>
 
-                <!-- KAZANÇ TABLOSU -->
+                <!-- KAZANÇ TABLOSU - SCROLLABLE -->
                 <VBox spacing="8" VBox.vgrow="ALWAYS"
                       style="-fx-background-color: white; -fx-border-color: #ccc; -fx-border-width: 1;
                              -fx-border-radius: 5; -fx-padding: 10;">
 
                     <Label text="KAZANÇ LİSTESİ" style="-fx-font-weight: bold; -fx-font-size: 12;"/>
 
-                    <TableView fx:id="kazanclarTable" VBox.vgrow="ALWAYS" prefHeight="280">
-                        <columns>
-                            <TableColumn fx:id="kazancTuruColumn" text="Kazanç Türü" prefWidth="220"/>
-                            <TableColumn fx:id="kazancTutarColumn" text="Tutar (TL)" prefWidth="100"/>
-                            <TableColumn fx:id="primeTabiColumn" text="Prime Tabi (TL)" prefWidth="110"/>
-                            <TableColumn fx:id="silColumn" text="Sil" prefWidth="60"/>
-                        </columns>
-                    </TableView>
+                        <TableView fx:id="kazanclarTable" prefHeight="145">
+                            <columns>
+                                <TableColumn fx:id="kazancTuruColumn" text="Kazanç Türü" prefWidth="220"/>
+                                <TableColumn fx:id="kazancTutarColumn" text="Tutar (TL)" prefWidth="100"/>
+                                <TableColumn fx:id="primeTabiColumn" text="Prime Tabi (TL)" prefWidth="110"/>
+                                <TableColumn fx:id="silColumn" text="Sil" prefWidth="60"/>
+                            </columns>
+                        </TableView>
 
-                    <!-- TOPLAM -->
-                    <Separator/>
-                    <HBox spacing="10" alignment="CENTER_RIGHT" style="-fx-padding: 5;">
-                        <Label text="TOPLAM:" style="-fx-font-weight: bold; -fx-font-size: 13;"/>
-                        <Label fx:id="toplamLabel" text="0.00 TL"
-                               style="-fx-font-weight: bold; -fx-font-size: 13; -fx-text-fill: #2196F3;"/>
+                    <!-- TOPLAM - TABLO ALTINDA -->
+                    <HBox spacing="10" alignment="CENTER_LEFT" style="-fx-padding: 5 0 0 0;">
+                        <Label text="TOPLAM TUTAR:" style="-fx-font-weight: bold; -fx-font-size: 11;"/>
+                        <Label fx:id="toplamTutarLabel" text="0.00 TL"
+                               style="-fx-font-weight: bold; -fx-font-size: 11; -fx-text-fill: #2196F3;"/>
+
+                        <Region prefWidth="20"/>
+
+                        <Label text="TOPLAM PRİME TABİ:" style="-fx-font-weight: bold; -fx-font-size: 11;"/>
+                        <Label fx:id="toplamPrimeTabiLabel" text="0.00 TL"
+                               style="-fx-font-weight: bold; -fx-font-size: 11; -fx-text-fill: #4CAF50;"/>
+
+                        <Region HBox.hgrow="ALWAYS"/>
+
+                        <Button text="📅 SİGORTALININ AYLIK KAZANÇLARINA EKLE" onAction="#kazanclariAylaraEkle"
+                                style="-fx-background-color: #FF9800; -fx-text-fill: white;
+                                       -fx-font-weight: bold; -fx-padding: 5 12; -fx-font-size: 11;"/>
                     </HBox>
                 </VBox>
 
             </VBox>
 
-            <!-- SAĞ: KÜMÜLATİF -->
-            <VBox fx:id="kumulatifPanel" spacing="8" HBox.hgrow="ALWAYS"
+            <!-- SAĞ: SİGORTALININ AYLIK KAZANÇLARI -->
+            <VBox fx:id="kumulatifPanel" spacing="5" HBox.hgrow="ALWAYS"
                   style="-fx-background-color: white; -fx-border-color: #ccc; -fx-border-width: 1;
-                         -fx-border-radius: 5; -fx-padding: 12;"
-                  managed="false" visible="false">
+                         -fx-border-radius: 5; -fx-padding: 10;">
 
-                <Label text="KÜMÜLATİF VERGİ İÇİN AYLIK GİRİŞ"
+                <Label text="SİGORTALININ AYLIK KAZANÇLARI"
                        style="-fx-font-weight: bold; -fx-font-size: 13;"/>
                 <Separator/>
 
@@ -114,17 +122,17 @@
                             style="-fx-background-color: transparent; -fx-border-color: transparent;">
                     <VBox fx:id="aylikKazanclarBox" spacing="8"/>
                 </ScrollPane>
+
+                <Separator/>
+
+                <Button text="HESAPLA" onAction="#hesaplaPek"
+                        style="-fx-background-color: #2196F3; -fx-text-fill: white;
+                               -fx-font-size: 12; -fx-font-weight: bold; -fx-padding: 6 30;"/>
             </VBox>
 
         </HBox>
 
         <!-- ALT PANEL -->
-        <HBox alignment="CENTER">
-            <Button text="HESAPLA" onAction="#hesaplaPek"
-                    style="-fx-background-color: #2196F3; -fx-text-fill: white;
-                           -fx-font-size: 13; -fx-font-weight: bold; -fx-padding: 8 50;"/>
-        </HBox>
-
         <VBox fx:id="sonucPanel" spacing="8"
               style="-fx-background-color: #E3F2FD; -fx-border-color: #2196F3; -fx-border-width: 2;
                      -fx-border-radius: 5; -fx-padding: 12;"
@@ -136,5 +144,3 @@
         </VBox>
 
     </VBox>
-
-</ScrollPane>

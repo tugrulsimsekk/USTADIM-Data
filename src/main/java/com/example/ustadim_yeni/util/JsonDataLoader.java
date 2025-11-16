@@ -13,6 +13,9 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import com.example.ustadim_yeni.model.PrimOranlari;
 import com.example.ustadim_yeni.model.KazancTuru;
+import com.example.ustadim_yeni.model.AsgariUcret;
+import java.nio.charset.StandardCharsets;
+import java.io.InputStream;
 
 public class JsonDataLoader {
 
@@ -439,5 +442,57 @@ public class JsonDataLoader {
         }
 
         return kazancTurleriList;
+    }
+    public static AsgariUcret getAsgariUcretByYil(int yil) {
+        return getAsgariUcretByYilAy(yil, 1); // Ocak ayını varsayılan al
+    }
+
+    public static AsgariUcret getAsgariUcretByYilAy(int yil, int ay) {
+        List<AsgariUcret> liste = loadAsgariUcretler();
+
+        // Önce tam eşleşme ara (yıl ve ay)
+        for (AsgariUcret au : liste) {
+            if (au.yil() == yil && au.ay() <= ay) {
+                return au;
+            }
+        }
+
+        // Bulunamazsa sadece yıla bak
+        for (AsgariUcret au : liste) {
+            if (au.yil() == yil) {
+                return au;
+            }
+        }
+
+        return null;
+    }
+    public static List<AsgariUcret> loadAsgariUcretler() {
+        try {
+            InputStream is = JsonDataLoader.class.getResourceAsStream("/asgariucret.json");
+            if (is == null) {
+                System.err.println("asgariucret.json bulunamadı!");
+                return new ArrayList<>();
+            }
+
+            String jsonContent = new String(is.readAllBytes(), StandardCharsets.UTF_8);
+            JSONObject root = new JSONObject(jsonContent);
+            JSONArray jsonArray = root.getJSONArray("asgariUcretler");
+
+            List<AsgariUcret> liste = new ArrayList<>();
+            for (int i = 0; i < jsonArray.length(); i++) {
+                JSONObject obj = jsonArray.getJSONObject(i);
+                AsgariUcret au = new AsgariUcret(
+                        obj.getInt("yil"),
+                        obj.getInt("ay"),
+                        obj.getDouble("brut")
+                );
+                liste.add(au);
+            }
+            return liste;
+        } catch (Exception e) {
+            System.err.println("Asgari ücret yüklenirken hata: " + e.getMessage());
+            e.printStackTrace();
+            return new ArrayList<>();
+        }
     }
 }
