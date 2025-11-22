@@ -1,5 +1,6 @@
 package com.example.ustadim_yeni;
 
+import com.example.ustadim_yeni.util.JsonDataLoader;
 import javafx.fxml.FXML;
 import javafx.event.ActionEvent;
 import javafx.scene.control.*;
@@ -9,7 +10,6 @@ import javafx.scene.layout.VBox;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import com.example.ustadim_yeni.model.KazancTuru;
-import com.example.ustadim_yeni.util.JsonDataLoader;
 import com.example.ustadim_yeni.model.AylikKazanc;
 import java.util.List;
 import java.util.HashMap;
@@ -17,7 +17,6 @@ import java.util.Map;
 import com.example.ustadim_yeni.model.KazancKaydi;
 import java.util.ArrayList;
 import javafx.scene.layout.Region;
-import javafx.scene.layout.Priority;
 import org.json.JSONObject;
 
 public class PekController {

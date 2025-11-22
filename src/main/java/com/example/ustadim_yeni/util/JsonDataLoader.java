@@ -489,7 +489,7 @@ public class JsonDataLoader {
     // Vergi Muafiyetleri Yükleme
     public static List<JSONObject> loadVergiMuafiyetleri() {
         try {
-            InputStream is = JsonDataLoader.class.getResourceAsStream("/data/vergi-muafiyetleri.json");
+            InputStream is = JsonDataLoader.class.getResourceAsStream("/vergi-muafiyetleri.json");
             if (is == null) {
                 System.err.println("vergi-muafiyetleri.json bulunamadı!");
                 return new ArrayList<>();
@@ -523,7 +523,7 @@ public class JsonDataLoader {
     // Damga Vergisi Oranı
     public static double getDamgaVergisiOrani(int yil, int ay) {
         try {
-            InputStream is = JsonDataLoader.class.getResourceAsStream("/data/damgavergisi.json");
+            InputStream is = JsonDataLoader.class.getResourceAsStream("/damgavergisi.json");
             if (is == null) {
                 return 0.00759; // Varsayılan
             }
@@ -555,7 +555,7 @@ public class JsonDataLoader {
     // Gelir Vergisi Dilimleri
     public static List<JSONObject> getGelirVergisiDilimleri(int yil) {
         try {
-            InputStream is = JsonDataLoader.class.getResourceAsStream("/data/gelir-vergisi-dilimleri.json");
+            InputStream is = JsonDataLoader.class.getResourceAsStream("/gelir-vergisi-dilimleri.json");
             if (is == null) {
                 return new ArrayList<>();
             }
@@ -586,7 +586,7 @@ public class JsonDataLoader {
     // İstisna Tutarları
     public static double getGelirVergisiIstisnasi(int yil, int ay) {
         try {
-            InputStream is = JsonDataLoader.class.getResourceAsStream("/data/istisna-tutarlari.json");
+            InputStream is = JsonDataLoader.class.getResourceAsStream("/istisna-tutarlari.json");
             if (is == null) {
                 return 0;
             }
@@ -617,7 +617,7 @@ public class JsonDataLoader {
 
     public static double getDamgaVergisiIstisnasi(int yil, int ay) {
         try {
-            InputStream is = JsonDataLoader.class.getResourceAsStream("/data/istisna-tutarlari.json");
+            InputStream is = JsonDataLoader.class.getResourceAsStream("/istisna-tutarlari.json");
             if (is == null) {
                 return 0;
             }
