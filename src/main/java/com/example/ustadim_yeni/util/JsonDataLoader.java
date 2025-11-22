@@ -11,11 +11,9 @@ import java.util.List;
 import java.util.Map;
 import org.json.JSONArray;
 import org.json.JSONObject;
-import com.example.ustadim_yeni.model.PrimOranlari;
 import com.example.ustadim_yeni.model.KazancTuru;
 import com.example.ustadim_yeni.model.AsgariUcret;
 import java.nio.charset.StandardCharsets;
-import java.io.InputStream;
 
 public class JsonDataLoader {
 
@@ -128,55 +126,7 @@ public class JsonDataLoader {
 
         return result;
     }
-    public static List<PrimOranlari> loadPrimOranlari() {
-        List<PrimOranlari> primOranlariList = new ArrayList<>();
 
-        try {
-            InputStream inputStream = JsonDataLoader.class.getResourceAsStream("/prim-oranlari.json");
-
-            if (inputStream == null) {
-                System.out.println("⚠️ prim-oranlari.json dosyası bulunamadı!");
-                return new ArrayList<>();
-            }
-
-            BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
-            StringBuilder sb = new StringBuilder();
-            String line;
-            while ((line = reader.readLine()) != null) {
-                sb.append(line);
-            }
-
-            JSONObject jsonObject = new JSONObject(sb.toString());
-            JSONArray primOranlariArray = jsonObject.getJSONArray("primOranlari");
-
-            for (int i = 0; i < primOranlariArray.length(); i++) {
-                JSONObject prim = primOranlariArray.getJSONObject(i);
-
-                PrimOranlari primOranlari = new PrimOranlari(
-                        prim.getString("kod"),
-                        prim.getString("aciklama"),
-                        prim.optDouble("uzunVadeli", 0.0),
-                        prim.optDouble("kisaVadeli", 0.0),
-                        prim.optDouble("gss", 0.0),
-                        prim.optDouble("issizlik", 0.0),
-                        prim.has("sgdpPrimi") ? prim.getDouble("sgdpPrimi") : null,
-                        prim.has("isKazasi") ? prim.getDouble("isKazasi") : null,
-                        prim.getDouble("toplamCalisanPayi"),
-                        prim.getDouble("tavanKatsayi"),
-                        prim.getDouble("tabanKatsayi"),
-                        prim.optString("ozelDurum", null),
-                        prim.has("aylikSabitOran") ? prim.getDouble("aylikSabitOran") : null
-                );
-                primOranlariList.add(primOranlari);
-            }
-
-        } catch (Exception e) {
-            System.out.println("❌ Hata: " + e.getMessage());
-            e.printStackTrace();
-        }
-
-        return primOranlariList;
-    }
     public static Map<String, Double> loadAsgariUcret(int yil, int ay) {
         Map<String, Double> result = new HashMap<>();
 
@@ -253,6 +203,7 @@ public class JsonDataLoader {
 
         return result;
     }
+
     public static double loadDamgaVergisiOrani(int yil, int ay) {
         try {
             InputStream inputStream = JsonDataLoader.class.getResourceAsStream("/damga-vergisi.json");
@@ -294,6 +245,7 @@ public class JsonDataLoader {
 
         return 0.00759; // Varsayılan
     }
+
     public static List<Map<String, Double>> loadGelirVergisiDilimleri(int yil) {
         List<Map<String, Double>> dilimler = new ArrayList<>();
 
@@ -338,6 +290,7 @@ public class JsonDataLoader {
 
         return dilimler;
     }
+
     public static Map<String, Double> loadIstisnaTutarlari(int yil, int ay) {
         Map<String, Double> result = new HashMap<>();
         result.put("gelirVergisi", 0.0);
@@ -391,6 +344,7 @@ public class JsonDataLoader {
 
         return result;
     }
+
     public static List<KazancTuru> loadKazancTurleri() {
         List<KazancTuru> kazancTurleriList = new ArrayList<>();
 
@@ -443,6 +397,7 @@ public class JsonDataLoader {
 
         return kazancTurleriList;
     }
+
     public static AsgariUcret getAsgariUcretByYil(int yil) {
         return getAsgariUcretByYilAy(yil, 1); // Ocak ayını varsayılan al
     }
@@ -466,6 +421,7 @@ public class JsonDataLoader {
 
         return null;
     }
+
     public static List<AsgariUcret> loadAsgariUcretler() {
         try {
             InputStream is = JsonDataLoader.class.getResourceAsStream("/asgariucret.json");
@@ -493,6 +449,200 @@ public class JsonDataLoader {
             System.err.println("Asgari ücret yüklenirken hata: " + e.getMessage());
             e.printStackTrace();
             return new ArrayList<>();
+        }
+    }
+
+    // Prim Oranları Yükleme
+    public static List<JSONObject> loadPrimOranlari() {
+        try {
+            InputStream is = JsonDataLoader.class.getResourceAsStream("/data/prim-oranlari.json");
+            if (is == null) {
+                System.err.println("prim-oranlari.json bulunamadı!");
+                return new ArrayList<>();
+            }
+
+            String jsonContent = new String(is.readAllBytes(), StandardCharsets.UTF_8);
+            JSONObject root = new JSONObject(jsonContent);
+            JSONArray jsonArray = root.getJSONArray("primOranlari");
+
+            List<JSONObject> liste = new ArrayList<>();
+            for (int i = 0; i < jsonArray.length(); i++) {
+                liste.add(jsonArray.getJSONObject(i));
+            }
+            return liste;
+        } catch (Exception e) {
+            System.err.println("Prim oranları yüklenirken hata: " + e.getMessage());
+            return new ArrayList<>();
+        }
+    }
+
+    public static JSONObject getPrimOranByBelgeNo(String belgeNo) {
+        List<JSONObject> liste = loadPrimOranlari();
+        for (JSONObject obj : liste) {
+            if (obj.getString("belgeNo").equals(belgeNo)) {
+                return obj;
+            }
+        }
+        return null;
+    }
+
+    // Vergi Muafiyetleri Yükleme
+    public static List<JSONObject> loadVergiMuafiyetleri() {
+        try {
+            InputStream is = JsonDataLoader.class.getResourceAsStream("/data/vergi-muafiyetleri.json");
+            if (is == null) {
+                System.err.println("vergi-muafiyetleri.json bulunamadı!");
+                return new ArrayList<>();
+            }
+
+            String jsonContent = new String(is.readAllBytes(), StandardCharsets.UTF_8);
+            JSONObject root = new JSONObject(jsonContent);
+            JSONArray jsonArray = root.getJSONArray("vergiMuafiyetleri");
+
+            List<JSONObject> liste = new ArrayList<>();
+            for (int i = 0; i < jsonArray.length(); i++) {
+                liste.add(jsonArray.getJSONObject(i));
+            }
+            return liste;
+        } catch (Exception e) {
+            System.err.println("Vergi muafiyetleri yüklenirken hata: " + e.getMessage());
+            return new ArrayList<>();
+        }
+    }
+
+    public static JSONObject getVergiMuafiyetByBelgeNo(String belgeNo) {
+        List<JSONObject> liste = loadVergiMuafiyetleri();
+        for (JSONObject obj : liste) {
+            if (obj.getString("belgeNo").equals(belgeNo)) {
+                return obj;
+            }
+        }
+        return null;
+    }
+
+    // Damga Vergisi Oranı
+    public static double getDamgaVergisiOrani(int yil, int ay) {
+        try {
+            InputStream is = JsonDataLoader.class.getResourceAsStream("/data/damgavergisi.json");
+            if (is == null) {
+                return 0.00759; // Varsayılan
+            }
+
+            String jsonContent = new String(is.readAllBytes(), StandardCharsets.UTF_8);
+            JSONObject root = new JSONObject(jsonContent);
+            JSONArray jsonArray = root.getJSONArray("damgaVergisi");
+
+            String arananTarih = String.format("%d-%02d-01", yil, ay);
+
+            for (int i = 0; i < jsonArray.length(); i++) {
+                JSONObject obj = jsonArray.getJSONObject(i);
+                String baslangic = obj.getString("baslangic");
+                String bitis = obj.getString("bitis");
+
+                if (arananTarih.compareTo(baslangic) >= 0 && arananTarih.compareTo(bitis) <= 0) {
+                    return obj.getDouble("oran");
+                }
+            }
+
+            return 0.00759; // Varsayılan
+
+        } catch (Exception e) {
+            System.err.println("Damga vergisi oranı alınırken hata: " + e.getMessage());
+            return 0.00759;
+        }
+    }
+
+    // Gelir Vergisi Dilimleri
+    public static List<JSONObject> getGelirVergisiDilimleri(int yil) {
+        try {
+            InputStream is = JsonDataLoader.class.getResourceAsStream("/data/gelir-vergisi-dilimleri.json");
+            if (is == null) {
+                return new ArrayList<>();
+            }
+
+            String jsonContent = new String(is.readAllBytes(), StandardCharsets.UTF_8);
+            JSONObject root = new JSONObject(jsonContent);
+            JSONObject dilimler = root.getJSONObject("gelirVergisiDilimleri");
+
+            if (!dilimler.has(String.valueOf(yil))) {
+                return new ArrayList<>();
+            }
+
+            JSONArray yilDilimleri = dilimler.getJSONArray(String.valueOf(yil));
+            List<JSONObject> liste = new ArrayList<>();
+
+            for (int i = 0; i < yilDilimleri.length(); i++) {
+                liste.add(yilDilimleri.getJSONObject(i));
+            }
+
+            return liste;
+
+        } catch (Exception e) {
+            System.err.println("Gelir vergisi dilimleri alınırken hata: " + e.getMessage());
+            return new ArrayList<>();
+        }
+    }
+
+    // İstisna Tutarları
+    public static double getGelirVergisiIstisnasi(int yil, int ay) {
+        try {
+            InputStream is = JsonDataLoader.class.getResourceAsStream("/data/istisna-tutarlari.json");
+            if (is == null) {
+                return 0;
+            }
+
+            String jsonContent = new String(is.readAllBytes(), StandardCharsets.UTF_8);
+            JSONObject root = new JSONObject(jsonContent);
+            JSONObject istisnalar = root.getJSONObject("istisnaTutarlari");
+
+            if (!istisnalar.has(String.valueOf(yil))) {
+                return 0;
+            }
+
+            JSONObject yilIstisnalar = istisnalar.getJSONObject(String.valueOf(yil));
+            JSONObject gvIstisnalar = yilIstisnalar.getJSONObject("gelirVergisi");
+
+            String ayStr = String.format("%02d", ay);
+            if (gvIstisnalar.has(ayStr)) {
+                return gvIstisnalar.getDouble(ayStr);
+            }
+
+            return 0;
+
+        } catch (Exception e) {
+            System.err.println("Gelir vergisi istisnası alınırken hata: " + e.getMessage());
+            return 0;
+        }
+    }
+
+    public static double getDamgaVergisiIstisnasi(int yil, int ay) {
+        try {
+            InputStream is = JsonDataLoader.class.getResourceAsStream("/data/istisna-tutarlari.json");
+            if (is == null) {
+                return 0;
+            }
+
+            String jsonContent = new String(is.readAllBytes(), StandardCharsets.UTF_8);
+            JSONObject root = new JSONObject(jsonContent);
+            JSONObject istisnalar = root.getJSONObject("istisnaTutarlari");
+
+            if (!istisnalar.has(String.valueOf(yil))) {
+                return 0;
+            }
+
+            JSONObject yilIstisnalar = istisnalar.getJSONObject(String.valueOf(yil));
+            JSONObject dvIstisnalar = yilIstisnalar.getJSONObject("damgaVergisi");
+
+            String ayStr = String.format("%02d", ay);
+            if (dvIstisnalar.has(ayStr)) {
+                return dvIstisnalar.getDouble(ayStr);
+            }
+
+            return 0;
+
+        } catch (Exception e) {
+            System.err.println("Damga vergisi istisnası alınırken hata: " + e.getMessage());
+            return 0;
         }
     }
 }

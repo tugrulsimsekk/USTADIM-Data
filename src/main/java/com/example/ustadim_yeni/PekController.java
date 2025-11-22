@@ -8,7 +8,6 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import com.example.ustadim_yeni.model.PrimOranlari;
 import com.example.ustadim_yeni.model.KazancTuru;
 import com.example.ustadim_yeni.util.JsonDataLoader;
 import com.example.ustadim_yeni.model.AylikKazanc;
@@ -19,11 +18,12 @@ import com.example.ustadim_yeni.model.KazancKaydi;
 import java.util.ArrayList;
 import javafx.scene.layout.Region;
 import javafx.scene.layout.Priority;
+import org.json.JSONObject;
 
 public class PekController {
 
     @FXML private ComboBox<String> hesaplamaYontemiCombo;
-    @FXML private ComboBox<PrimOranlari> sigortalilikStatuCombo;
+    @FXML private ComboBox<String> sigortalilikStatuCombo;
     @FXML private ComboBox<Integer> yilCombo;
     @FXML private ComboBox<String> ayCombo;
     @FXML private TextField calismaGunuInput;
@@ -52,6 +52,9 @@ public class PekController {
 
     @FXML private Label toplamTutarLabel;
     @FXML private Label toplamPrimeTabiLabel;
+    
+    // Belge numarası ve açıklama haritası
+    private Map<String, String> belgeMap = new HashMap<>();
 
     @FXML
     public void initialize() {
@@ -62,11 +65,21 @@ public class PekController {
         ));
         hesaplamaYontemiCombo.setValue("Brüt → Net");
 
-        // Sigortalılık Statüsü
-        List<PrimOranlari> primOranlariList = JsonDataLoader.loadPrimOranlari();
-        sigortalilikStatuCombo.setItems(FXCollections.observableArrayList(primOranlariList));
-        if (!primOranlariList.isEmpty()) {
-            sigortalilikStatuCombo.setValue(primOranlariList.get(0));
+        // Sigortalılık Statüsü - JSONObject'ten String'e çevrildi
+        List<JSONObject> primOranlariList = JsonDataLoader.loadPrimOranlari();
+        ObservableList<String> sigortalikListesi = FXCollections.observableArrayList();
+        
+        for (JSONObject obj : primOranlariList) {
+            String belgeNo = obj.getString("belgeNo");
+            String aciklama = obj.getString("aciklama");
+            String displayText = belgeNo + " - " + aciklama;
+            sigortalikListesi.add(displayText);
+            belgeMap.put(displayText, belgeNo); // Mapping için
+        }
+        
+        sigortalilikStatuCombo.setItems(sigortalikListesi);
+        if (!sigortalikListesi.isEmpty()) {
+            sigortalilikStatuCombo.setValue(sigortalikListesi.get(0));
         }
 
         // Yıl
@@ -249,8 +262,7 @@ public class PekController {
                 aylikKazanc.addKazanc(kayit);
             }
 
-            // Prime esas toplamı hesapla (şimdilik basit toplam)
-// Prime esas toplamı hesapla - TÜM kazançlardan
+            // Prime esas toplamı hesapla - TÜM kazançlardan
             double toplamPrimeEsas = aylikKazanc.getKazanclar().stream()
                     .mapToDouble(KazancKaydi::getPrimeTabiTutar)
                     .sum();
@@ -286,7 +298,7 @@ public class PekController {
         for (Map.Entry<String, AylikKazanc> entry : sortedList) {
             AylikKazanc aylikKazanc = entry.getValue();
 
-// AY KARTI - TEK SATIRDA
+            // AY KARTI - TEK SATIRDA
             HBox ayKarti = new HBox(15);
             ayKarti.setAlignment(javafx.geometry.Pos.CENTER_LEFT);
             ayKarti.setStyle("-fx-background-color: #F5F5F5; -fx-padding: 8; -fx-border-color: #ddd; -fx-border-width: 1; -fx-border-radius: 3; -fx-background-radius: 3;");
