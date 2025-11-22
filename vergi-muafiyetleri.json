@@ -1,0 +1,135 @@
+{
+  "vergiMuafiyetleri": [
+    {
+      "belgeNo": "21",
+      "kod": "5g",
+      "aciklama": "Yurt Dışında Çalışan Türk İşçileri",
+      "gelirVergisiMuafiyeti": {
+        "2023": {
+          "muaf": true,
+          "aciklama": "2023 ve sonrası gelir vergisinden muaf"
+        },
+        "2022": {
+          "muaf": false,
+          "aciklama": "Gelir vergisine tabi"
+        },
+        "2021": {
+          "muaf": false,
+          "aciklama": "Gelir vergisine tabi"
+        },
+        "2020": {
+          "muaf": false,
+          "aciklama": "Gelir vergisine tabi"
+        }
+      },
+      "damgaVergisiMuafiyeti": {
+        "muaf": false,
+        "aciklama": "Damga vergisine tabi"
+      }
+    },
+    {
+      "belgeNo": "1",
+      "kod": "4a",
+      "aciklama": "Hizmet Akdi İle Çalışanlar",
+      "gelirVergisiMuafiyeti": {
+        "muaf": false,
+        "aciklama": "Gelir vergisine tabi"
+      },
+      "damgaVergisiMuafiyeti": {
+        "muaf": false,
+        "aciklama": "Damga vergisine tabi"
+      }
+    },
+    {
+      "belgeNo": "2",
+      "kod": "SGDP",
+      "aciklama": "SGDP'li Çalışanlar",
+      "gelirVergisiMuafiyeti": {
+        "muaf": false,
+        "aciklama": "Gelir vergisine tabi"
+      },
+      "damgaVergisiMuafiyeti": {
+        "muaf": false,
+        "aciklama": "Damga vergisine tabi"
+      }
+    },
+    {
+      "belgeNo": "7",
+      "kod": "ADAY_CIRAK",
+      "aciklama": "Aday Çırak, Çırak",
+      "gelirVergisiMuafiyeti": {
+        "muaf": true,
+        "aciklama": "Öğrenci olduğu için muaf"
+      },
+      "damgaVergisiMuafiyeti": {
+        "muaf": true,
+        "aciklama": "Öğrenci olduğu için muaf"
+      }
+    },
+    {
+      "belgeNo": "22",
+      "kod": "STAJYER_BURSLU",
+      "aciklama": "Stajyer/Burslu Öğrenciler",
+      "gelirVergisiMuafiyeti": {
+        "muaf": true,
+        "aciklama": "Öğrenci olduğu için muaf"
+      },
+      "damgaVergisiMuafiyeti": {
+        "muaf": true,
+        "aciklama": "Öğrenci olduğu için muaf"
+      }
+    },
+    {
+      "belgeNo": "42",
+      "kod": "ADAY_CIRAK_MUAF",
+      "aciklama": "Aday Çırak (Bakmakla Yükümlü Olunmayan)",
+      "gelirVergisiMuafiyeti": {
+        "muaf": true,
+        "aciklama": "Öğrenci olduğu için muaf"
+      },
+      "damgaVergisiMuafiyeti": {
+        "muaf": true,
+        "aciklama": "Öğrenci olduğu için muaf"
+      }
+    },
+    {
+      "belgeNo": "43",
+      "kod": "STAJYER_MUAF",
+      "aciklama": "Stajyer (Bakmakla Yükümlü Olunmayan)",
+      "gelirVergisiMuafiyeti": {
+        "muaf": true,
+        "aciklama": "Öğrenci olduğu için muaf"
+      },
+      "damgaVergisiMuafiyeti": {
+        "muaf": true,
+        "aciklama": "Öğrenci olduğu için muaf"
+      }
+    },
+    {
+      "belgeNo": "49",
+      "kod": "MESLEKI_TEKNIK_ORTA",
+      "aciklama": "Mesleki Teknik Ortaöğretim Öğrencisi",
+      "gelirVergisiMuafiyeti": {
+        "muaf": true,
+        "aciklama": "Öğrenci olduğu için muaf"
+      },
+      "damgaVergisiMuafiyeti": {
+        "muaf": true,
+        "aciklama": "Öğrenci olduğu için muaf"
+      }
+    },
+    {
+      "belgeNo": "50",
+      "kod": "MESLEKI_TEKNIK_MUAF",
+      "aciklama": "Mesleki Teknik Ortaöğretim Öğrencisi (Bakmakla Yükümlü Olunmayan)",
+      "gelirVergisiMuafiyeti": {
+        "muaf": true,
+        "aciklama": "Öğrenci olduğu için muaf"
+      },
+      "damgaVergisiMuafiyeti": {
+        "muaf": true,
+        "aciklama": "Öğrenci olduğu için muaf"
+      }
+    }
+  ]
+}
