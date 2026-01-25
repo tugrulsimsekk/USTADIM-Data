@@ -4,127 +4,298 @@
       "kod": "UCRET",
       "ad": "Ücret",
       "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "FAZLA_MESAI",
+      "ad": "Fazla Mesai",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
       "hesaplama": "TAM"
     },
     {
       "kod": "PRIM",
       "ad": "Prim",
       "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
       "hesaplama": "TAM"
     },
     {
       "kod": "IKRAMIYE",
       "ad": "İkramiye",
       "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
       "hesaplama": "TAM"
     },
     {
-      "kod": "YEMEK_YARDIMI",
-      "ad": "Yemek Yardımı",
-      "primeTabi": "KISMI",
-      "hesaplama": "YEMEK",
-      "formul": "Brüt Günlük AU × 0.06 × Çalışılan Gün",
-      "istisnaTuru": "GUNLUK",
-      "istisnaOrani": 0.06
+      "kod": "AVANS",
+      "ad": "Avans",
+      "primeTabi": false,
+      "gelirVergisine": false,
+      "damgaVergisine": true,
+      "hesaplama": "YOK"
     },
     {
-      "kod": "COCUK_ZAMMI",
-      "ad": "Çocuk Zammı",
-      "primeTabi": "KISMI",
-      "hesaplama": "COCUK",
-      "formul": "Brüt Aylık AU × 0.02 × Çocuk Sayısı (Max 2)",
-      "istisnaTuru": "AYLIK",
-      "istisnaOrani": 0.02,
-      "maxCocuk": 2
-    },
-    {
-      "kod": "AILE_ZAMMI",
-      "ad": "Aile Zammı",
-      "primeTabi": "KISMI",
-      "hesaplama": "AILE",
-      "formul": "Brüt Aylık AU × 0.10",
-      "istisnaTuru": "AYLIK",
-      "istisnaOrani": 0.10
-    },
-    {
-      "kod": "OZEL_SAGLIK_BES",
-      "ad": "Özel Sağlık Sigortası + BES",
-      "primeTabi": "KISMI",
-      "hesaplama": "SAGLIK_BES",
-      "formul": "Brüt Aylık AU × 0.30",
-      "istisnaTuru": "AYLIK",
-      "istisnaOrani": 0.30
-    },
-    {
-      "kod": "AYNI_YARDIM",
-      "ad": "Ayni Yardım (Nakdi)",
+      "kod": "KONUT_NAKDI",
+      "ad": "Konut (Nakdi)",
       "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
       "hesaplama": "TAM"
     },
     {
-      "kod": "OLUM_YARDIMI",
-      "ad": "Ölüm Yardımı",
+      "kod": "UCRETLI_IZIN",
+      "ad": "Ücretli İzin",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "BAYRAM_HARCLIGI",
+      "ad": "Bayram Harçlığı",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "HUZUR_HAKKI",
+      "ad": "Huzur Hakkı",
       "primeTabi": false,
+      "gelirVergisine": "KISMI",
+      "gvIstisnaTuru": "AU_KADARI",
+      "damgaVergisine": "KISMI",
+      "dvIstisnaTuru": "AU_KADARI",
       "hesaplama": "YOK"
     },
     {
-      "kod": "DOGUM_YARDIMI",
-      "ad": "Doğum Yardımı",
+      "kod": "NAKIT_YOL_UCRETI",
+      "ad": "Nakdi Ödenen Yol Ücreti",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "AKBIL_TASIT_KARTI",
+      "ad": "Akbil - Taşıt Kartı",
       "primeTabi": false,
+      "gelirVergisine": "KISMI",
+      "gvIstisnaTuru": "TASIT_KARTI",
+      "damgaVergisine": true,
       "hesaplama": "YOK"
     },
     {
-      "kod": "EVLENME_YARDIMI",
-      "ad": "Evlenme Yardımı",
+      "kod": "YEMEK_NAKDI",
+      "ad": "Yemek (Nakdi)",
+      "primeTabi": "KISMI",
+      "pekIstisnaTuru": "YEMEK_SGK",
+      "hesaplama": "YEMEK",
+      "formul": "Brüt Günlük AU × %6 × Çalışılan Gün",
+      "istisnaTuru": "GUNLUK",
+      "istisnaOrani": 0.06,
+      "gelirVergisine": "KISMI",
+      "gvIstisnaTuru": "YEMEK_VERGI",
+      "damgaVergisine": false
+    },
+    {
+      "kod": "KRES_YARDIMI_AYNI",
+      "ad": "Kreş Yardımı (Sadece Kadın Çalışan için) (Ayni)",
       "primeTabi": false,
+      "gelirVergisine": "KISMI",
+      "gvIstisnaTuru": "AU_YUZDE_50",
+      "damgaVergisine": true,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "KRES_YARDIMI_NAKDI",
+      "ad": "Kreş Yardımı (Sadece Kadın Çalışan için) (Nakdi)",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "KIDEM_TAZMINATI",
+      "ad": "Kıdem Tazminatı",
+      "primeTabi": false,
+      "gelirVergisine": false,
+      "damgaVergisine": true,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "IHBAR_TAZMINATI",
+      "ad": "İhbar Tazminatı",
+      "primeTabi": false,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "KASA_TAZMINATI",
+      "ad": "Kasa Tazminatı",
+      "primeTabi": false,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
       "hesaplama": "YOK"
     },
     {
       "kod": "GOREV_YOLLUGU",
       "ad": "Görev Yolluğu",
       "primeTabi": false,
+      "gelirVergisine": false,
+      "damgaVergisine": true,
       "hesaplama": "YOK"
     },
     {
-      "kod": "SEYYAR_GOREV_TAZ",
+      "kod": "EVLENME_YARDIMI",
+      "ad": "Evlenme Yardımı",
+      "primeTabi": false,
+      "gelirVergisine": true,
+      "damgaVergisine": false,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "COCUK_YARDIMI",
+      "ad": "Çocuk Yardımı",
+      "primeTabi": "KISMI",
+      "hesaplama": "COCUK",
+      "formul": "Brüt Aylık AU × 0.02 × Çocuk Sayısı (Max 2)",
+      "istisnaTuru": "AYLIK",
+      "istisnaOrani": 0.02,
+      "maxCocuk": 2,
+      "gelirVergisine": true,
+      "damgaVergisine": true
+    },
+    {
+      "kod": "DOGUM_YARDIMI",
+      "ad": "Doğum Yardımı",
+      "primeTabi": false,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "AILE_YARDIMI",
+      "ad": "Aile Yardımı",
+      "primeTabi": "KISMI",
+      "hesaplama": "AILE",
+      "formul": "Brüt Aylık AU × 0.10",
+      "istisnaTuru": "AYLIK",
+      "istisnaOrani": 0.10,
+      "gelirVergisine": true,
+      "damgaVergisine": true
+    },
+    {
+      "kod": "OLUM_YARDIMI",
+      "ad": "Ölüm Yardımı",
+      "primeTabi": false,
+      "gelirVergisine": false,
+      "damgaVergisine": true,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "EGITIM_YARDIMI",
+      "ad": "Eğitim Yardımı",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "BES_OZEL_SAGLIK",
+      "ad": "BES + Özel Sağlık Sigortası",
+      "primeTabi": "KISMI",
+      "hesaplama": "SAGLIK_BES",
+      "formul": "Brüt Aylık AU × 0.30",
+      "istisnaTuru": "AYLIK",
+      "istisnaOrani": 0.30,
+      "gelirVergisine": true,
+      "damgaVergisine": true
+    },
+    {
+      "kod": "DIGER_GV_TABI",
+      "ad": "Diğer (Gelir Vergisine Tabi - Damga Vergisine Tabi Değil)",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": false,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "DIGER_DV_TABI",
+      "ad": "Diğer (Gelir Vergisine Tabi Değil - Damga Vergisine Tabi)",
+      "primeTabi": true,
+      "gelirVergisine": false,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "ELEKTRIK_DOGALGAZ",
+      "ad": "Elektrik, Doğalgaz ve Diğer Isınma Giderleri",
+      "primeTabi": "KISMI",
+      "pekIstisnaTuru": "ELEKTRIK_DOGALGAZ",
+      "gelirVergisine": "KISMI",
+      "gvIstisnaTuru": "ELEKTRIK_DOGALGAZ",
+      "damgaVergisine": true,
+      "hesaplama": "ELEKTRIK",
+      "istisnaBilgisi": {
+        "baslangic": "2022-11-09",
+        "bitis": "2023-06-30",
+        "tutar": 1000
+      }
+    },
+    {
+      "kod": "SEYYAR_GOREV_TAZMINATI",
       "ad": "Seyyar Görev Tazminatı",
       "primeTabi": false,
-      "hesaplama": "YOK"
-    },
-    {
-      "kod": "KIDEM_TAZ",
-      "ad": "Kıdem Tazminatı",
-      "primeTabi": false,
-      "hesaplama": "YOK"
-    },
-    {
-      "kod": "IS_SONU_TAZ",
-      "ad": "İş Sonu Tazminatı",
-      "primeTabi": false,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
       "hesaplama": "YOK"
     },
     {
       "kod": "KESIF_UCRETI",
       "ad": "Keşif Ücreti",
       "primeTabi": false,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
       "hesaplama": "YOK"
     },
     {
-      "kod": "IHBAR_TAZ",
-      "ad": "İhbar Tazminatı",
+      "kod": "IS_BASLATMAMA_TAZMINATI",
+      "ad": "İşe Başlatmama Tazminatı",
       "primeTabi": false,
+      "gelirVergisine": false,
+      "damgaVergisine": true,
       "hesaplama": "YOK"
     },
     {
-      "kod": "KASA_TAZ",
-      "ad": "Kasa Tazminatı",
+      "kod": "KOTU_NIYET_TAZMINATI",
+      "ad": "Kötü Niyet Tazminatı",
       "primeTabi": false,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
       "hesaplama": "YOK"
     },
     {
-      "kod": "DIGER",
-      "ad": "Diğer Ödemeler",
+      "kod": "SENDIKAL_TAZMINAT",
+      "ad": "Sendikal Tazminat",
+      "primeTabi": false,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "BOSTA_GECEN_SURE",
+      "ad": "Boşta Geçen Süre Tazminatı",
       "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
       "hesaplama": "TAM"
     }
   ]

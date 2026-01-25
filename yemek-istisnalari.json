@@ -1,0 +1,170 @@
+{
+  "yemekIstisnalari": {
+    "sgk": {
+      "2025": {
+        "tur": "SABIT",
+        "tutar": 158,
+        "aciklama": "Günlük sabit tutar"
+      },
+      "2024": {
+        "tur": "SABIT",
+        "tutar": 121.5,
+        "aciklama": "Günlük sabit tutar"
+      },
+      "2023": {
+        "tur": "ORAN",
+        "oran": 0.2365,
+        "aciklama": "Günlük Brüt Asgari Ücretin %23.65'i"
+      },
+      "2022": {
+        "tur": "ORAN",
+        "oran": 0.06,
+        "aciklama": "Günlük Brüt Asgari Ücretin %6'sı × Fiilen çalışılan gün sayısı"
+      },
+      "2021": {
+        "tur": "ORAN",
+        "oran": 0.06,
+        "aciklama": "Günlük Brüt Asgari Ücretin %6'sı × Fiilen çalışılan gün sayısı"
+      },
+      "2020": {
+        "tur": "ORAN",
+        "oran": 0.06,
+        "aciklama": "Günlük Brüt Asgari Ücretin %6'sı × Fiilen çalışılan gün sayısı"
+      },
+      "2019": {
+        "tur": "ORAN",
+        "oran": 0.06,
+        "aciklama": "Günlük Brüt Asgari Ücretin %6'sı × Fiilen çalışılan gün sayısı"
+      },
+      "2018": {
+        "tur": "ORAN",
+        "oran": 0.06,
+        "aciklama": "Günlük Brüt Asgari Ücretin %6'sı × Fiilen çalışılan gün sayısı"
+      },
+      "2017": {
+        "tur": "ORAN",
+        "oran": 0.06,
+        "aciklama": "Günlük Brüt Asgari Ücretin %6'sı × Fiilen çalışılan gün sayısı"
+      },
+      "2016": {
+        "tur": "ORAN",
+        "oran": 0.06,
+        "aciklama": "Günlük Brüt Asgari Ücretin %6'sı × Fiilen çalışılan gün sayısı"
+      },
+      "2015": {
+        "tur": "ORAN",
+        "oran": 0.06,
+        "aciklama": "Günlük Brüt Asgari Ücretin %6'sı × Fiilen çalışılan gün sayısı"
+      },
+      "2014": {
+        "tur": "ORAN",
+        "oran": 0.06,
+        "aciklama": "Günlük Brüt Asgari Ücretin %6'sı × Fiilen çalışılan gün sayısı"
+      },
+      "2013": {
+        "tur": "ORAN",
+        "oran": 0.06,
+        "aciklama": "Günlük Brüt Asgari Ücretin %6'sı × Fiilen çalışılan gün sayısı"
+      },
+      "2012": {
+        "tur": "ORAN",
+        "oran": 0.06,
+        "aciklama": "Günlük Brüt Asgari Ücretin %6'sı"
+      },
+      "2011": {
+        "tur": "SABIT",
+        "tutar": 10.7,
+        "aciklama": "Günlük sabit tutar"
+      },
+      "2010": {
+        "tur": "SABIT",
+        "tutar": 10,
+        "aciklama": "Günlük sabit tutar"
+      },
+      "2009": {
+        "tur": "SABIT",
+        "tutar": 10,
+        "aciklama": "Günlük sabit tutar"
+      },
+      "2008": {
+        "tur": "SABIT",
+        "tutar": 9,
+        "aciklama": "Günlük sabit tutar"
+      }
+    },
+    "gelirVergisi": {
+      "2025": {
+        "tutar": 264,
+        "aciklama": "KDV DAHİL"
+      },
+      "2024": {
+        "tutar": 187,
+        "aciklama": "KDV DAHİL"
+      },
+      "2023": {
+        "tutar": 121,
+        "aciklama": "KDV DAHİL"
+      },
+      "2022": {
+        "tutar": 34,
+        "aciklama": "Yıllık ortalama"
+      },
+      "2021": {
+        "tutar": 25,
+        "aciklama": ""
+      },
+      "2020": {
+        "tutar": 23,
+        "aciklama": ""
+      },
+      "2019": {
+        "tutar": 19,
+        "aciklama": ""
+      },
+      "2018": {
+        "tutar": 16,
+        "aciklama": ""
+      },
+      "2017": {
+        "tutar": 14,
+        "aciklama": ""
+      },
+      "2016": {
+        "tutar": 13.7,
+        "aciklama": ""
+      },
+      "2015": {
+        "tutar": 13,
+        "aciklama": ""
+      },
+      "2014": {
+        "tutar": 12,
+        "aciklama": ""
+      },
+      "2013": {
+        "tutar": 12,
+        "aciklama": ""
+      },
+      "2012": {
+        "tutar": 11.7,
+        "aciklama": ""
+      },
+      "2011": {
+        "tutar": 10.7,
+        "aciklama": ""
+      },
+      "2010": {
+        "tutar": 10,
+        "aciklama": ""
+      },
+      "2009": {
+        "tutar": 10,
+        "aciklama": ""
+      },
+      "2008": {
+        "tutar": 9,
+        "aciklama": ""
+      }
+    }
+  }
+}

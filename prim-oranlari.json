@@ -52,8 +52,8 @@
         "toplam": 0.01
       },
       "toplamHisse": 0.01,
-      "tavanKatsayi": 7.5,
-      "tabanKatsayi": 1.0
+      "tavanKatsayi": 3.75,
+      "tabanKatsayi": 0.5
     },
     {
       "belgeNo": "12",
@@ -137,6 +137,7 @@
         "toplam": 0.05
       },
       "isverenHissesi": {
+        "kisaVadeli": 0.02,
         "gss": 0.075,
         "toplam": 0.095
       },
@@ -172,8 +173,8 @@
         "toplam": 0.06
       },
       "toplamHisse": 0.06,
-      "tavanKatsayi": 7.5,
-      "tabanKatsayi": 1.0
+      "tavanKatsayi": 3.5,
+      "tabanKatsayi": 0.5
     },
     {
       "belgeNo": "43",
