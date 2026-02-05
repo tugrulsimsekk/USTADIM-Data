@@ -1,11 +1,1146 @@
 {
   "mevzuatlar": [
     {
+      "numara": "193",
+      "tamAd": "Gelir Vergisi Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/193.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "195",
+      "tamAd": "BASIN İLAN KURUMU TEŞKİLİNE DAİR KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/195.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "197",
+      "tamAd": "Motorlu Taşıtlar Vergisi Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/197.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "211",
+      "tamAd": "TÜRK SİLAHLI KUVVETLERİ İÇ HİZMET KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/211.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "213",
+      "tamAd": "Vergi Usul Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/213.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "224",
+      "tamAd": "SAĞLIK HİZMETLERİNİN SOSYALLEŞTİRİLMESİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/224.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "237",
+      "tamAd": "TAŞIT KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/237.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "298",
+      "tamAd": "SEÇİMLERİN TEMEL HÜKÜMLERİ VE SEÇMEN KÜTÜKLERİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/298.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "442",
+      "tamAd": "KÖY KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/442.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "488",
+      "tamAd": "DAMGA VERGİSİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/488.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "492",
+      "tamAd": "Harçlar Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/492.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "506",
+      "tamAd": "Sosyal Sigortalar Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/506.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "634",
+      "tamAd": "KAT MÜLKİYETİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "05/02/2026",
+      "dosya": "kanun/634.pdf",
+      "aciklama": ""
+    },
+    {
       "numara": "657",
-      "tamAd": "Devlet Memurlar� Kanunu",
-      "kategori": "Kanun",
-      "guncellemeTarihi": "29/01/2026",
-      "dosya": "kanunlar/657.pdf",
+      "tamAd": "Devlet Memurları Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/657.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "854",
+      "tamAd": "Deniz İş Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/854.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "926",
+      "tamAd": "TÜRK SİLÂHLI KUVVETLERİ PERSONEL KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/926.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1136",
+      "tamAd": "AVUKATLIK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/1136.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1219",
+      "tamAd": "TABABET VE ŞUABATI SAN'ATLARININ TARZI İCRASINA DAİR KANUN\nDAİR KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/1219.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1319",
+      "tamAd": "Emlak Vergisi Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/1319.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1479",
+      "tamAd": "Esnaf ve Sanatkârlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanunu (Bağ-Kur)",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/1479.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1512",
+      "tamAd": "NOTERLİK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/1512.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1593",
+      "tamAd": "UMUMİ HIFZISSIHHA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/1593.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1632",
+      "tamAd": "ASKERİ CEZA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/1632.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2004",
+      "tamAd": "İcra ve İflas Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2004.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2022",
+      "tamAd": "65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanun",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2022.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2108",
+      "tamAd": "MUHTAR ÖDENEK VE SOSYAL GÜVENLİK YASASI",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2108.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2464",
+      "tamAd": "Belediye Gelirleri Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2464.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2527",
+      "tamAd": "Türk Soylu Yabancıların Türkiye'de Meslek ve Sanatlarını Serbestçe Yapabilmelerine Dair Kanun",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2527.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2547",
+      "tamAd": "Yükseköğretim Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2547.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2575",
+      "tamAd": "DANIŞTAY KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2575.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2577",
+      "tamAd": "İdari Yargılama Usulü Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2577.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2644",
+      "tamAd": "TAPU KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2644.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2802",
+      "tamAd": "HAKİMLER VE SAVCILAR KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2802.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2820",
+      "tamAd": "SİYASİ PARTİLER KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2820.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2828",
+      "tamAd": "Sosyal Hizmetler Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2828.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2839",
+      "tamAd": "MİLLETVEKİLİ SEÇİMİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2839.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2860",
+      "tamAd": "YARDIM TOPLAMA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2860.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2872",
+      "tamAd": "ÇEVRE KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2872.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2918",
+      "tamAd": "Karayolları Trafik Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2918.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2920",
+      "tamAd": "Türk Sivil Havacılık Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2920.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2942",
+      "tamAd": "Kamulaştırma Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2942.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2972",
+      "tamAd": "MAHALLİ İDARELER İLE MAHALLE MUHTARLIKLARI VE\nİHTİYAR HEYETLERİ SEÇİMİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/2972.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3065",
+      "tamAd": "Katma Değer Vergisi Kanunu (KDV)",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/3065.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3194",
+      "tamAd": "İMAR KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/3194.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3201",
+      "tamAd": "YURT DIŞINDA BULUNAN TÜRK VATANDAŞLARININ YURT DIŞINDA GEÇEN SÜRELERİNİN SOSYAL GÜVENLİKLERİ BAKIMINDAN DEĞERLENDİRİLMESİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/3201.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3294",
+      "tamAd": "Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/3294.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3308",
+      "tamAd": "MESLEKİ EĞİTİM KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/3308.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3359",
+      "tamAd": "SAĞLIK HİZMETLERİ TEMEL KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/3359.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3458",
+      "tamAd": "MÜHENDİSLİK VE MİMARLIK HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/3458.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3568",
+      "tamAd": "SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/3568.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3628",
+      "tamAd": "Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/3628.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4447",
+      "tamAd": "İşsizlik Sigortası Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4447.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4458",
+      "tamAd": "Gümrük Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4458.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4483",
+      "tamAd": "Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4483.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4541",
+      "tamAd": "ŞEHiR VE KASABALARDA MAHALLE MUHTAR VE İHTİYAR HEYETLERİ TEŞKİLİNE DAİR KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4541.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4562",
+      "tamAd": "ORGANİZE SANAYİ BÖLGELERİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4562.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4675",
+      "tamAd": "İNFAZ HÂKİMLİĞİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4675.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4688",
+      "tamAd": "Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4688.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4708",
+      "tamAd": "YAPI DENETİMİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4708.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4721",
+      "tamAd": "Türk Medeni Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4721.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4734",
+      "tamAd": "Kamu İhale Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4734.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4735",
+      "tamAd": "Kamu İhale Sözleşmeleri Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4735.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4760",
+      "tamAd": "Özel Tüketim Vergisi Kanunu (ÖTV)",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4760.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4857",
+      "tamAd": "İş Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "27/01/2026",
+      "dosya": "kanun/4857.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4925",
+      "tamAd": "Karayolu Taşıma Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/4925.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5018",
+      "tamAd": "Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5018.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5070",
+      "tamAd": "ELEKTRONİK İMZA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5070.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5187",
+      "tamAd": "BASIN KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5187.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5188",
+      "tamAd": "ÖZEL GÜVENLİK HİZMETLERİNE DAİR KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5188.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5216",
+      "tamAd": "BÜYÜKŞEHİR BELEDİYESİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5216.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5235",
+      "tamAd": "ADLÎ YARGI İLK DERECE MAHKEMELERİ İLE BÖLGE ADLİYE MAHKEMELERİNİN KURULUŞ, GÖREV VE YETKİLERİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5235.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5237",
+      "tamAd": "TÜRK CEZA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5237.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5253",
+      "tamAd": "DERNEKLER KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5253.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5271",
+      "tamAd": "CEZA MUHAKEMESİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5271.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5275",
+      "tamAd": "CEZA VE GÜVENLİK TEDBİRLERİNİN İNFAZI HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5275.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5326",
+      "tamAd": "KABAHATLER KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5326.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5362",
+      "tamAd": "ESNAF VE SANATKÂRLAR MESLEK KURULUŞLARI KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5362.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5378",
+      "tamAd": "ENGELLİLER HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5378.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5393",
+      "tamAd": "BELEDİYE KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5393.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5395",
+      "tamAd": "ÇOCUK KORUMA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5395.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5434",
+      "tamAd": "Türkiye Cumhuriyeti Emekli Sandığı Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanun/5434.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5442",
+      "tamAd": "İL İDARESİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5442.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5490",
+      "tamAd": "Nüfus Hizmetleri Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5490.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5502",
+      "tamAd": "Sosyal Güvenlik Kurumu Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5502.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5510",
+      "tamAd": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5510.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5520",
+      "tamAd": "Kurumlar Vergisi Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5520.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5543",
+      "tamAd": "İskan Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5543.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5651",
+      "tamAd": "İNTERNET ORTAMINDA YAPILAN YAYINLARIN DÜZENLENMESİ VE BU YAYINLAR YOLUYLA İŞLENEN SUÇLARLA MÜCADELE EDİLMESİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5651.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5682",
+      "tamAd": "Pasaport Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5682.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5737",
+      "tamAd": "VAKIFLAR KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5737.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5901",
+      "tamAd": "Türk Vatandaşlığı Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5901.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5953",
+      "tamAd": "BASIN MESLEĞİNDE ÇALIŞANLARLA ÇALIŞTIRANLAR ARASINDAKİ MÜNASEBETLERİN TANZİMİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5953.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5996",
+      "tamAd": "VETERİNER HİZMETLERİ, BİTKİ SAĞLIĞI, GIDA VE YEM KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/5996.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6001",
+      "tamAd": "KARAYOLLARI GENEL MÜDÜRLÜĞÜNÜN HİZMETLERİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6001.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6087",
+      "tamAd": "HÂKİMLER VE SAVCILAR KURULU KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6087.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6098",
+      "tamAd": "Türk Borçlar Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6098.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6100",
+      "tamAd": "HUKUK MUHAKEMELERİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6100.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6102",
+      "tamAd": "Türk Ticaret Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6102.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6112",
+      "tamAd": "RADYO VE TELEVİZYONLARIN KURULUŞ VE YAYIN HİZMETLERİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6112.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6136",
+      "tamAd": "ATEŞLİ SİLAHLAR VE BIÇAKLAR İLE DİĞER ALETLER HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6136.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6183",
+      "tamAd": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6183.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6197",
+      "tamAd": "ECZACILAR VE ECZANELER HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6197.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6216",
+      "tamAd": "ANAYASA MAHKEMESİNİN KURULUŞU VE YARGILAMA USULLERİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6216.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6235",
+      "tamAd": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6235.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6245",
+      "tamAd": "Harcırah Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6245.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6271",
+      "tamAd": "CUMHURBAŞKANI SEÇİMİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6271.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6283",
+      "tamAd": "HEMŞİRELİK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6283.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6284",
+      "tamAd": "AİLENİN KORUNMASI VE KADINA KARŞI ŞİDDETİN ÖNLENMESİNE DAİR KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6284.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6325",
+      "tamAd": "HUKUK UYUŞMAZLIKLARINDA ARABULUCULUK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6325.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6328",
+      "tamAd": "KAMU DENETÇİLİĞİ KURUMU KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6328.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6331",
+      "tamAd": "İş Sağlığı ve Güvenliği Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "27/01/2026",
+      "dosya": "kanun/6331.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6356",
+      "tamAd": "Sendikalar ve Toplu İş Sözleşmesi Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6356.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6413",
+      "tamAd": "TÜRK SİLAHLI KUVVETLERİ DİSİPLİN KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6413.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6458",
+      "tamAd": "Yabancılar ve Uluslararası Koruma Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6458.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6502",
+      "tamAd": "TÜKETİCİNİN KORUNMASI HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6502.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6585",
+      "tamAd": "PERAKENDE TİCARETİN DÜZENLENMESİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6585.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6698",
+      "tamAd": "Kişisel Verilerin Korunması Kanunu (KVKK)",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6698.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6701",
+      "tamAd": "TÜRKİYE İNSAN HAKLARI VE EŞİTLİK KURUMU KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6701.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6735",
+      "tamAd": "Uluslararası İşgücü Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6735.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6948",
+      "tamAd": "SANAYİ SİCİLİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/6948.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7036",
+      "tamAd": "İŞ MAHKEMELERİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/7036.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7179",
+      "tamAd": "ASKERALMA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/7179.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7194",
+      "tamAd": "Dijital Hizmet Vergisi Kanunu ile Bazı kanunda Değişiklik Yapılması Hakkında Kanun",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/7194.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7201",
+      "tamAd": "TEBLİGAT KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/7201.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7223",
+      "tamAd": "ÜRÜN GÜVENLİĞİ VE TEKNİK DÜZENLEMELER KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/7223.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7269",
+      "tamAd": "UMUMİ HAYATA MÜESSİR AFETLER DOLAYISİYLE ALINACAK TEDBİRLERLE YAPILACAK YARDIMLARA DAİR KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/7269.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7338",
+      "tamAd": "Veraset ve İntikal Vergisi Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanun/7338.pdf",
       "aciklama": ""
     }
   ]
