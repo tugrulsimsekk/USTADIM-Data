@@ -1,0 +1,3844 @@
+{
+  "mevzuatlar": [
+    {
+      "numara": "193",
+      "tamAd": "Gelir Vergisi Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/193.pdf",
+      "dosyaAlternatif": "kanunlar/193.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "195",
+      "tamAd": "BASIN İLAN KURUMU TEŞKİLİNE DAİR KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/195.pdf",
+      "dosyaAlternatif": "kanunlar/195.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "197",
+      "tamAd": "Motorlu Taşıtlar Vergisi Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/197.pdf",
+      "dosyaAlternatif": "kanunlar/197.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "211",
+      "tamAd": "TÜRK SİLAHLI KUVVETLERİ İÇ HİZMET KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/211.pdf",
+      "dosyaAlternatif": "kanunlar/211.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "213",
+      "tamAd": "Vergi Usul Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/213.pdf",
+      "dosyaAlternatif": "kanunlar/213.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "224",
+      "tamAd": "SAĞLIK HİZMETLERİNİN SOSYALLEŞTİRİLMESİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/224.pdf",
+      "dosyaAlternatif": "kanunlar/224.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "237",
+      "tamAd": "TAŞIT KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/237.pdf",
+      "dosyaAlternatif": "kanunlar/237.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "298",
+      "tamAd": "SEÇİMLERİN TEMEL HÜKÜMLERİ VE SEÇMEN KÜTÜKLERİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/298.pdf",
+      "dosyaAlternatif": "kanunlar/298.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "442",
+      "tamAd": "KÖY KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/442.pdf",
+      "dosyaAlternatif": "kanunlar/442.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "488",
+      "tamAd": "DAMGA VERGİSİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/488.pdf",
+      "dosyaAlternatif": "kanunlar/488.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "492",
+      "tamAd": "Harçlar Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/492.pdf",
+      "dosyaAlternatif": "kanunlar/492.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "506",
+      "tamAd": "Sosyal Sigortalar Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/506.pdf",
+      "dosyaAlternatif": "kanunlar/506.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "634",
+      "tamAd": "KAT MÜLKİYETİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "05/02/2026",
+      "dosya": "kanunlar/634.pdf",
+      "dosyaAlternatif": "kanunlar/634.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "657",
+      "tamAd": "Devlet Memurları Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/657.pdf",
+      "dosyaAlternatif": "kanunlar/657.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "854",
+      "tamAd": "Deniz İş Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/854.pdf",
+      "dosyaAlternatif": "kanunlar/854.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "926",
+      "tamAd": "TÜRK SİLÂHLI KUVVETLERİ PERSONEL KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/926.pdf",
+      "dosyaAlternatif": "kanunlar/926.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1136",
+      "tamAd": "AVUKATLIK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/1136.pdf",
+      "dosyaAlternatif": "kanunlar/1136.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1219",
+      "tamAd": "TABABET VE ŞUABATI SAN'ATLARININ TARZI İCRASINA DAİR KANUN\nDAİR KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/1219.pdf",
+      "dosyaAlternatif": "kanunlar/1219.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1319",
+      "tamAd": "Emlak Vergisi Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/1319.pdf",
+      "dosyaAlternatif": "kanunlar/1319.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1479",
+      "tamAd": "Esnaf ve Sanatkârlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanunu (Bağ-Kur)",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/1479.pdf",
+      "dosyaAlternatif": "kanunlar/1479.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1512",
+      "tamAd": "NOTERLİK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/1512.pdf",
+      "dosyaAlternatif": "kanunlar/1512.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1593",
+      "tamAd": "UMUMİ HIFZISSIHHA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/1593.pdf",
+      "dosyaAlternatif": "kanunlar/1593.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "1632",
+      "tamAd": "ASKERİ CEZA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/1632.pdf",
+      "dosyaAlternatif": "kanunlar/1632.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2004",
+      "tamAd": "İcra ve İflas Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2004.pdf",
+      "dosyaAlternatif": "kanunlar/2004.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2022",
+      "tamAd": "65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanun",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2022.pdf",
+      "dosyaAlternatif": "kanunlar/2022.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2108",
+      "tamAd": "MUHTAR ÖDENEK VE SOSYAL GÜVENLİK YASASI",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2108.pdf",
+      "dosyaAlternatif": "kanunlar/2108.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2464",
+      "tamAd": "Belediye Gelirleri Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2464.pdf",
+      "dosyaAlternatif": "kanunlar/2464.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2527",
+      "tamAd": "Türk Soylu Yabancıların Türkiye'de Meslek ve Sanatlarını Serbestçe Yapabilmelerine Dair Kanun",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2527.pdf",
+      "dosyaAlternatif": "kanunlar/2527.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2547",
+      "tamAd": "Yükseköğretim Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2547.pdf",
+      "dosyaAlternatif": "kanunlar/2547.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2575",
+      "tamAd": "DANIŞTAY KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2575.pdf",
+      "dosyaAlternatif": "kanunlar/2575.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2577",
+      "tamAd": "İdari Yargılama Usulü Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2577.pdf",
+      "dosyaAlternatif": "kanunlar/2577.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2644",
+      "tamAd": "TAPU KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2644.pdf",
+      "dosyaAlternatif": "kanunlar/2644.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2802",
+      "tamAd": "HAKİMLER VE SAVCILAR KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2802.pdf",
+      "dosyaAlternatif": "kanunlar/2802.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2820",
+      "tamAd": "SİYASİ PARTİLER KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2820.pdf",
+      "dosyaAlternatif": "kanunlar/2820.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2828",
+      "tamAd": "Sosyal Hizmetler Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2828.pdf",
+      "dosyaAlternatif": "kanunlar/2828.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2839",
+      "tamAd": "MİLLETVEKİLİ SEÇİMİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2839.pdf",
+      "dosyaAlternatif": "kanunlar/2839.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2860",
+      "tamAd": "YARDIM TOPLAMA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2860.pdf",
+      "dosyaAlternatif": "kanunlar/2860.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2872",
+      "tamAd": "ÇEVRE KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2872.pdf",
+      "dosyaAlternatif": "kanunlar/2872.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2918",
+      "tamAd": "Karayolları Trafik Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2918.pdf",
+      "dosyaAlternatif": "kanunlar/2918.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2920",
+      "tamAd": "Türk Sivil Havacılık Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2920.pdf",
+      "dosyaAlternatif": "kanunlar/2920.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2942",
+      "tamAd": "Kamulaştırma Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2942.pdf",
+      "dosyaAlternatif": "kanunlar/2942.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2972",
+      "tamAd": "MAHALLİ İDARELER İLE MAHALLE MUHTARLIKLARI VE İHTİYAR HEYETLERİ SEÇİMİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/2972.pdf",
+      "dosyaAlternatif": "kanunlar/2972.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3065",
+      "tamAd": "Katma Değer Vergisi Kanunu (KDV)",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/3065.pdf",
+      "dosyaAlternatif": "kanunlar/3065.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3194",
+      "tamAd": "İMAR KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/3194.pdf",
+      "dosyaAlternatif": "kanunlar/3194.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3201",
+      "tamAd": "YURT DIŞINDA BULUNAN TÜRK VATANDAŞLARININ YURT DIŞINDA GEÇEN SÜRELERİNİN SOSYAL GÜVENLİKLERİ BAKIMINDAN DEĞERLENDİRİLMESİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/3201.pdf",
+      "dosyaAlternatif": "kanunlar/3201.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3294",
+      "tamAd": "Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/3294.pdf",
+      "dosyaAlternatif": "kanunlar/3294.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3308",
+      "tamAd": "MESLEKİ EĞİTİM KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/3308.pdf",
+      "dosyaAlternatif": "kanunlar/3308.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3359",
+      "tamAd": "SAĞLIK HİZMETLERİ TEMEL KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/3359.pdf",
+      "dosyaAlternatif": "kanunlar/3359.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3458",
+      "tamAd": "MÜHENDİSLİK VE MİMARLIK HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/3458.pdf",
+      "dosyaAlternatif": "kanunlar/3458.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3568",
+      "tamAd": "SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/3568.pdf",
+      "dosyaAlternatif": "kanunlar/3568.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3628",
+      "tamAd": "Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/3628.pdf",
+      "dosyaAlternatif": "kanunlar/3628.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4447",
+      "tamAd": "İşsizlik Sigortası Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4447.pdf",
+      "dosyaAlternatif": "kanunlar/4447.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4458",
+      "tamAd": "Gümrük Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4458.pdf",
+      "dosyaAlternatif": "kanunlar/4458.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4483",
+      "tamAd": "Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4483.pdf",
+      "dosyaAlternatif": "kanunlar/4483.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4541",
+      "tamAd": "ŞEHiR VE KASABALARDA MAHALLE MUHTAR VE İHTİYAR HEYETLERİ TEŞKİLİNE DAİR KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4541.pdf",
+      "dosyaAlternatif": "kanunlar/4541.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4562",
+      "tamAd": "ORGANİZE SANAYİ BÖLGELERİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4562.pdf",
+      "dosyaAlternatif": "kanunlar/4562.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4675",
+      "tamAd": "İNFAZ HÂKİMLİĞİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4675.pdf",
+      "dosyaAlternatif": "kanunlar/4675.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4688",
+      "tamAd": "Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4688.pdf",
+      "dosyaAlternatif": "kanunlar/4688.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4708",
+      "tamAd": "YAPI DENETİMİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4708.pdf",
+      "dosyaAlternatif": "kanunlar/4708.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4721",
+      "tamAd": "Türk Medeni Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4721.pdf",
+      "dosyaAlternatif": "kanunlar/4721.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4734",
+      "tamAd": "Kamu İhale Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4734.pdf",
+      "dosyaAlternatif": "kanunlar/4734.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4735",
+      "tamAd": "Kamu İhale Sözleşmeleri Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4735.pdf",
+      "dosyaAlternatif": "kanunlar/4735.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4760",
+      "tamAd": "Özel Tüketim Vergisi Kanunu (ÖTV)",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4760.pdf",
+      "dosyaAlternatif": "kanunlar/4760.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4857",
+      "tamAd": "İş Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "27/01/2026",
+      "dosya": "kanunlar/4857.pdf",
+      "dosyaAlternatif": "kanunlar/4857.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4925",
+      "tamAd": "Karayolu Taşıma Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/4925.pdf",
+      "dosyaAlternatif": "kanunlar/4925.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5018",
+      "tamAd": "Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5018.pdf",
+      "dosyaAlternatif": "kanunlar/5018.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5070",
+      "tamAd": "ELEKTRONİK İMZA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5070.pdf",
+      "dosyaAlternatif": "kanunlar/5070.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5187",
+      "tamAd": "BASIN KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5187.pdf",
+      "dosyaAlternatif": "kanunlar/5187.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5188",
+      "tamAd": "ÖZEL GÜVENLİK HİZMETLERİNE DAİR KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5188.pdf",
+      "dosyaAlternatif": "kanunlar/5188.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5216",
+      "tamAd": "BÜYÜKŞEHİR BELEDİYESİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5216.pdf",
+      "dosyaAlternatif": "kanunlar/5216.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5235",
+      "tamAd": "ADLÎ YARGI İLK DERECE MAHKEMELERİ İLE BÖLGE ADLİYE MAHKEMELERİNİN KURULUŞ, GÖREV VE YETKİLERİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5235.pdf",
+      "dosyaAlternatif": "kanunlar/5235.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5237",
+      "tamAd": "TÜRK CEZA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5237.pdf",
+      "dosyaAlternatif": "kanunlar/5237.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5253",
+      "tamAd": "DERNEKLER KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5253.pdf",
+      "dosyaAlternatif": "kanunlar/5253.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5271",
+      "tamAd": "CEZA MUHAKEMESİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5271.pdf",
+      "dosyaAlternatif": "kanunlar/5271.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5275",
+      "tamAd": "CEZA VE GÜVENLİK TEDBİRLERİNİN İNFAZI HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5275.pdf",
+      "dosyaAlternatif": "kanunlar/5275.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5326",
+      "tamAd": "KABAHATLER KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5326.pdf",
+      "dosyaAlternatif": "kanunlar/5326.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5362",
+      "tamAd": "ESNAF VE SANATKÂRLAR MESLEK KURULUŞLARI KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5362.pdf",
+      "dosyaAlternatif": "kanunlar/5362.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5378",
+      "tamAd": "ENGELLİLER HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5378.pdf",
+      "dosyaAlternatif": "kanunlar/5378.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5393",
+      "tamAd": "BELEDİYE KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5393.pdf",
+      "dosyaAlternatif": "kanunlar/5393.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5395",
+      "tamAd": "ÇOCUK KORUMA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5395.pdf",
+      "dosyaAlternatif": "kanunlar/5395.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5434",
+      "tamAd": "Türkiye Cumhuriyeti Emekli Sandığı Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "31/01/2026",
+      "dosya": "kanunlar/5434.pdf",
+      "dosyaAlternatif": "kanunlar/5434.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5442",
+      "tamAd": "İL İDARESİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5442.pdf",
+      "dosyaAlternatif": "kanunlar/5442.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5490",
+      "tamAd": "Nüfus Hizmetleri Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5490.pdf",
+      "dosyaAlternatif": "kanunlar/5490.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5502",
+      "tamAd": "Sosyal Güvenlik Kurumu Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5502.pdf",
+      "dosyaAlternatif": "kanunlar/5502.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5510",
+      "tamAd": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5510.pdf",
+      "dosyaAlternatif": "kanunlar/5510.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5520",
+      "tamAd": "Kurumlar Vergisi Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5520.pdf",
+      "dosyaAlternatif": "kanunlar/5520.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5543",
+      "tamAd": "İskan Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5543.pdf",
+      "dosyaAlternatif": "kanunlar/5543.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5651",
+      "tamAd": "İNTERNET ORTAMINDA YAPILAN YAYINLARIN DÜZENLENMESİ VE BU YAYINLAR YOLUYLA İŞLENEN SUÇLARLA MÜCADELE EDİLMESİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5651.pdf",
+      "dosyaAlternatif": "kanunlar/5651.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5682",
+      "tamAd": "Pasaport Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5682.pdf",
+      "dosyaAlternatif": "kanunlar/5682.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5737",
+      "tamAd": "VAKIFLAR KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5737.pdf",
+      "dosyaAlternatif": "kanunlar/5737.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5901",
+      "tamAd": "Türk Vatandaşlığı Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5901.pdf",
+      "dosyaAlternatif": "kanunlar/5901.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5953",
+      "tamAd": "BASIN MESLEĞİNDE ÇALIŞANLARLA ÇALIŞTIRANLAR ARASINDAKİ MÜNASEBETLERİN TANZİMİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5953.pdf",
+      "dosyaAlternatif": "kanunlar/5953.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5996",
+      "tamAd": "VETERİNER HİZMETLERİ, BİTKİ SAĞLIĞI, GIDA VE YEM KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/5996.pdf",
+      "dosyaAlternatif": "kanunlar/5996.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6001",
+      "tamAd": "KARAYOLLARI GENEL MÜDÜRLÜĞÜNÜN HİZMETLERİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6001.pdf",
+      "dosyaAlternatif": "kanunlar/6001.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6087",
+      "tamAd": "HÂKİMLER VE SAVCILAR KURULU KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6087.pdf",
+      "dosyaAlternatif": "kanunlar/6087.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6098",
+      "tamAd": "Türk Borçlar Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6098.pdf",
+      "dosyaAlternatif": "kanunlar/6098.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6100",
+      "tamAd": "HUKUK MUHAKEMELERİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6100.pdf",
+      "dosyaAlternatif": "kanunlar/6100.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6102",
+      "tamAd": "Türk Ticaret Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6102.pdf",
+      "dosyaAlternatif": "kanunlar/6102.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6112",
+      "tamAd": "RADYO VE TELEVİZYONLARIN KURULUŞ VE YAYIN HİZMETLERİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6112.pdf",
+      "dosyaAlternatif": "kanunlar/6112.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6136",
+      "tamAd": "ATEŞLİ SİLAHLAR VE BIÇAKLAR İLE DİĞER ALETLER HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6136.pdf",
+      "dosyaAlternatif": "kanunlar/6136.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6183",
+      "tamAd": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6183.pdf",
+      "dosyaAlternatif": "kanunlar/6183.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6197",
+      "tamAd": "ECZACILAR VE ECZANELER HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6197.pdf",
+      "dosyaAlternatif": "kanunlar/6197.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6216",
+      "tamAd": "ANAYASA MAHKEMESİNİN KURULUŞU VE YARGILAMA USULLERİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6216.pdf",
+      "dosyaAlternatif": "kanunlar/6216.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6235",
+      "tamAd": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6235.pdf",
+      "dosyaAlternatif": "kanunlar/6235.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6245",
+      "tamAd": "Harcırah Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6245.pdf",
+      "dosyaAlternatif": "kanunlar/6245.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6271",
+      "tamAd": "CUMHURBAŞKANI SEÇİMİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6271.pdf",
+      "dosyaAlternatif": "kanunlar/6271.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6283",
+      "tamAd": "HEMŞİRELİK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6283.pdf",
+      "dosyaAlternatif": "kanunlar/6283.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6284",
+      "tamAd": "AİLENİN KORUNMASI VE KADINA KARŞI ŞİDDETİN ÖNLENMESİNE DAİR KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6284.pdf",
+      "dosyaAlternatif": "kanunlar/6284.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6325",
+      "tamAd": "HUKUK UYUŞMAZLIKLARINDA ARABULUCULUK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6325.pdf",
+      "dosyaAlternatif": "kanunlar/6325.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6328",
+      "tamAd": "KAMU DENETÇİLİĞİ KURUMU KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6328.pdf",
+      "dosyaAlternatif": "kanunlar/6328.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6331",
+      "tamAd": "İş Sağlığı ve Güvenliği Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "27/01/2026",
+      "dosya": "kanunlar/6331.pdf",
+      "dosyaAlternatif": "kanunlar/6331.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6356",
+      "tamAd": "Sendikalar ve Toplu İş Sözleşmesi Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6356.pdf",
+      "dosyaAlternatif": "kanunlar/6356.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6413",
+      "tamAd": "TÜRK SİLAHLI KUVVETLERİ DİSİPLİN KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6413.pdf",
+      "dosyaAlternatif": "kanunlar/6413.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6458",
+      "tamAd": "Yabancılar ve Uluslararası Koruma Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6458.pdf",
+      "dosyaAlternatif": "kanunlar/6458.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6502",
+      "tamAd": "TÜKETİCİNİN KORUNMASI HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6502.pdf",
+      "dosyaAlternatif": "kanunlar/6502.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6585",
+      "tamAd": "PERAKENDE TİCARETİN DÜZENLENMESİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6585.pdf",
+      "dosyaAlternatif": "kanunlar/6585.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6698",
+      "tamAd": "Kişisel Verilerin Korunması Kanunu (KVKK)",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6698.pdf",
+      "dosyaAlternatif": "kanunlar/6698.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6701",
+      "tamAd": "TÜRKİYE İNSAN HAKLARI VE EŞİTLİK KURUMU KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6701.pdf",
+      "dosyaAlternatif": "kanunlar/6701.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6735",
+      "tamAd": "Uluslararası İşgücü Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6735.pdf",
+      "dosyaAlternatif": "kanunlar/6735.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6948",
+      "tamAd": "SANAYİ SİCİLİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6948.pdf",
+      "dosyaAlternatif": "kanunlar/6948.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7036",
+      "tamAd": "İŞ MAHKEMELERİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/7036.pdf",
+      "dosyaAlternatif": "kanunlar/7036.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7179",
+      "tamAd": "ASKERALMA KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/7179.pdf",
+      "dosyaAlternatif": "kanunlar/7179.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7194",
+      "tamAd": "Dijital Hizmet Vergisi Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/7194.pdf",
+      "dosyaAlternatif": "kanunlar/7194.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7201",
+      "tamAd": "TEBLİGAT KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/7201.pdf",
+      "dosyaAlternatif": "kanunlar/7201.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7223",
+      "tamAd": "ÜRÜN GÜVENLİĞİ VE TEKNİK DÜZENLEMELER KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/7223.pdf",
+      "dosyaAlternatif": "kanunlar/7223.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7269",
+      "tamAd": "UMUMİ HAYATA MÜESSİR AFETLER DOLAYISİYLE ALINACAK TEDBİRLERLE YAPILACAK YARDIMLARA DAİR KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/7269.pdf",
+      "dosyaAlternatif": "kanunlar/7269.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7338",
+      "tamAd": "Veraset ve İntikal Vergisi Kanunu",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/7338.pdf",
+      "dosyaAlternatif": "kanunlar/7338.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6754",
+      "tamAd": "BİLİRKİŞİLİK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "06/02/2026",
+      "dosya": "kanunlar/6754.pdf",
+      "dosyaAlternatif": "kanunlar/6754.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5684",
+      "tamAd": "SİGORTACILIK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "kanunlar/5684.pdf",
+      "dosyaAlternatif": "kanunlar/5684.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4632",
+      "tamAd": "BİREYSEL EMEKLİLİK TASARRUF VE YATIRIM SİSTEMİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "kanunlar/4632.pdf",
+      "dosyaAlternatif": "kanunlar/4632.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5411",
+      "tamAd": "BANKACILIK KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "kanunlar/5411.pdf",
+      "dosyaAlternatif": "kanunlar/5411.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3153",
+      "tamAd": "RADİYOLOJİ, RADİYOM VE ELEKTRİKLE TEDAVİ VE DİĞER FİZYOTERAPİ MÜESSESELERİ HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "kanunlar/3153.pdf",
+      "dosyaAlternatif": "kanunlar/3153.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4562",
+      "tamAd": "ORGANİZE SANAYİ BÖLGELERİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "kanunlar/4562.pdf",
+      "dosyaAlternatif": "kanunlar/4562.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2022",
+      "tamAd": "65 YAŞINI DOLDURMUŞ MUHTAÇ, GÜÇSÜZ VE KİMSESİZ TÜRK VATANDAŞLARINA AYLIK BAĞLANMASI HAKKINDA KANUN",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "kanunlar/2022.pdf",
+      "dosyaAlternatif": "kanunlar/2022.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2893",
+      "tamAd": "TÜRK BAYRAĞI KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "kanunlar/2893.pdf",
+      "dosyaAlternatif": "kanunlar/2893.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5846",
+      "tamAd": "FİKİR VE SANAT ESERLERİ KANUNU",
+      "kategori": "KANUN",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "kanunlar/5846.pdf",
+      "dosyaAlternatif": "kanunlar/5846.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4",
+      "tamAd": "BAKANLIKLARA BAĞLI, İLGİLİ, İLİŞKİLİ KURUM VE KURULUŞLAR İLE DİĞER KURUM VE KURULUŞLARIN TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ",
+      "kategori": "CBK",
+      "dayanak": "",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "cbk/4.pdf",
+      "dosyaAlternatif": "cbk/4.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "20112512",
+      "tamAd": "GENEL SAĞLIK SİGORTASI KAPSAMINDA GELİR TESPİTİ, TESCİL VE İZLEME SÜRECİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/20112512.pdf",
+      "dosyaAlternatif": "yonetmelikler/20112512.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "20112226",
+      "tamAd": "DEVLET MEMURLARINA VERİLECEK HASTALIK RAPORLARI İLE HASTALIK VE REFAKAT İZNİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657/MD.105",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/20112226.pdf",
+      "dosyaAlternatif": "yonetmelikler/20112226.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "41043",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510 - 657",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/41043.pdf",
+      "dosyaAlternatif": "yonetmelikler/41043.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "38968",
+      "tamAd": "MALULİYET VE ÇALIŞMA GÜCÜ KAYBI TESPİTİ İŞLEMLERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.25, 28, 47, 94, 95, GEÇİCİ 4",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/38968.pdf",
+      "dosyaAlternatif": "yonetmelikler/38968.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "38739",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU MUHASEBE YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5018/MD.49",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/38739.pdf",
+      "dosyaAlternatif": "yonetmelikler/38739.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "23390",
+      "tamAd": "SAĞLIK HİZMETİ SUNUCULARININ FATURALARININ İNCELENMESİNE VE BEDELLERİNİN ÖDENMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.63, 73, 97, 103, 107 - 5502/MD.EK1 - 5018/MD.35",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/23390.pdf",
+      "dosyaAlternatif": "yonetmelikler/23390.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "21081",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5502 - 657",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/21081.pdf",
+      "dosyaAlternatif": "yonetmelikler/21081.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "19594",
+      "tamAd": "GENEL SAĞLIK SİGORTASI TESCİL, PRİM VE MÜSTEHAKLIK İŞLEMLERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.61, 107",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/19594.pdf",
+      "dosyaAlternatif": "yonetmelikler/19594.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "19593",
+      "tamAd": "GENEL SAĞLIK SİGORTASI UYGULAMALARI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.107",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/19593.pdf",
+      "dosyaAlternatif": "yonetmelikler/19593.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "19110",
+      "tamAd": "SOSYAL GÜVENLİK UZMANLIĞI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657/MD.EK41 - 4 NOLU CBK/MD.428",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/19110.pdf",
+      "dosyaAlternatif": "yonetmelikler/19110.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "16287",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU PERSONELİ ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657/MD.72 - 4 NOLU CBK",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/16287.pdf",
+      "dosyaAlternatif": "yonetmelikler/16287.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "836525",
+      "tamAd": "DEVLET MEMURLARININ YER DEĞİŞTİRME SURETİYLE ATANMALARINA İLİŞKİN YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/836525.pdf",
+      "dosyaAlternatif": "yonetmelikler/836525.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "15007",
+      "tamAd": "SOSYAL GÜVENLİK DENETMENLİĞİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5502/MD.31",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/15007.pdf",
+      "dosyaAlternatif": "yonetmelikler/15007.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "14204",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU İCRA MEMURLARI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5502/MD.13, 37, 41 - 5510/MD.88",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/14204.pdf",
+      "dosyaAlternatif": "yonetmelikler/14204.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "13973",
+      "tamAd": "SOSYAL SİGORTA İŞLEMLERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.107",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/13973.pdf",
+      "dosyaAlternatif": "yonetmelikler/13973.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12511",
+      "tamAd": "ÇALIŞMA GÜCÜ VE MESLEKTE KAZANMA GÜCÜ KAYBI ORANI TESPİT İŞLEMLERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.107",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/12511.pdf",
+      "dosyaAlternatif": "yonetmelikler/12511.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "11502",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU REHBERLİK VE TEFTİŞ BAŞKANLIĞI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4 NOLU CBK/MD.418",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/11502.pdf",
+      "dosyaAlternatif": "yonetmelikler/11502.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "9208",
+      "tamAd": "TARIM SİGORTALILARININ ÖDEMEK ZORUNDA OLDUKLARI PRİMLERİN HESAPLANMASI, ÖDENMESİ VE TAHSİLİ USULLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "2926/MD.31",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/9208.pdf",
+      "dosyaAlternatif": "yonetmelikler/9208.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4598",
+      "tamAd": "T.C. EMEKLİ SANDIĞI GENEL MÜDÜRLÜĞÜ DİNLENME VE BAKIMEVLERİ (HUZUREVLERİ) İŞLETME YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5434/MD.EK45",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/4598.pdf",
+      "dosyaAlternatif": "yonetmelikler/4598.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4422",
+      "tamAd": "KAMU KURUM VE KURULUŞLARI BÜNYESİNDE AÇILACAK HUZUREVLERİNİN KURULUŞ VE İŞLEYİŞ ESASLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "2828/MD.9, 34, 35",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/4422.pdf",
+      "dosyaAlternatif": "yonetmelikler/4422.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "8885",
+      "tamAd": "2925 SAYILI TARIM İŞCİLERİ SOSYAL SİGORTALAR KANUNUNUN UYGULANMASINA DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "2925/MD.36",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/8885.pdf",
+      "dosyaAlternatif": "yonetmelikler/8885.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "13447",
+      "tamAd": "Kamu Kurum ve Kuruluşlarına Eski Hükümlü veya Terörle Mücadelede Malul Sayılmayacak Şekilde Yaralananların İşçi Olarak Alınmasında Uygulanacak Usul ve Esaslar Hakkında Yönetmelik",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.30 - 4904/MD.32",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/13447.pdf",
+      "dosyaAlternatif": "yonetmelikler/13447.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "39683",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU İLAÇ GERİ ÖDEME YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.63, 64, 72, 107",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/39683.pdf",
+      "dosyaAlternatif": "yonetmelikler/39683.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "39383",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU NEZDİNDEKİ VERİLERİN KORUNMASINA VE İŞLENMESİNE İLİŞKİN YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5502/MD.5 - 6698",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/39383.pdf",
+      "dosyaAlternatif": "yonetmelikler/39383.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "24634",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU ALACAKLARININ 6183 SAYILI AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUNUN 48/A MADDESİNE GÖRE TECİL VE TAKSİTLENDİRİLMESİNE İLİŞKİN YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6183/MD.48 - 5510/MD.88",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/24634.pdf",
+      "dosyaAlternatif": "yonetmelikler/24634.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "21480",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU SAĞLIK HİZMETİ SATIN ALIM SÖZLEŞMELERİNİN/PROTOKOLLERİNİN HAZIRLANMASI VE AKDEDİLMESİNE İLİŞKİN YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.63, 73, 107",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/21480.pdf",
+      "dosyaAlternatif": "yonetmelikler/21480.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18541",
+      "tamAd": "SOSYAL SİGORTA YÜKSEK SAĞLIK KURULUNUN GÖREV, YETKİ, ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.14, 58",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/18541.pdf",
+      "dosyaAlternatif": "yonetmelikler/18541.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "14331",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU TAŞRA TEŞKİLATI KURULUŞ VE ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5502/MD.27, 41",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/14331.pdf",
+      "dosyaAlternatif": "yonetmelikler/14331.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "13011",
+      "tamAd": "ASGARÎ İŞÇİLİK İNCELEMELERİNDE UZLAŞMA YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.85",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/13011.pdf",
+      "dosyaAlternatif": "yonetmelikler/13011.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "13236",
+      "tamAd": "SOSYAL GÜVENLİK KURUMUNA YAPILAN SİGORTALI VE İŞYERİ BİLDİRİMLERİNİN BAZI KURUMLARA YAPILMASI GEREKEN BİLDİRİMLER YERİNE GEÇMESİNE DAİR USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.EK1",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/13236.pdf",
+      "dosyaAlternatif": "yonetmelikler/13236.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12929",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU TAŞINIR SATIŞ İŞLEMLERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5502/MD.35",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/12929.pdf",
+      "dosyaAlternatif": "yonetmelikler/12929.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12465",
+      "tamAd": "SERBEST MUHASEBECİ MALÎ MÜŞAVİRLER İLE YEMİNLİ MALÎ MÜŞAVİRLERCE İŞYERİ KAYITLARININ İNCELENMESİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.59",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/12465.pdf",
+      "dosyaAlternatif": "yonetmelikler/12465.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12464",
+      "tamAd": "SOSYAL GÜVENLİK KURUMUNCA 6183 SAYILI AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUNA GÖRE KULLANILACAK YETKİLERE İLİŞKİN YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.88",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/12464.pdf",
+      "dosyaAlternatif": "yonetmelikler/12464.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12463",
+      "tamAd": "FAZLA VEYA YERSİZ ÖDEMELERİN TAHSİLİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.96",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/12463.pdf",
+      "dosyaAlternatif": "yonetmelikler/12463.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12462",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU ASGARİ İŞÇİLİK TESPİT KOMİSYONUNUN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.85",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/12462.pdf",
+      "dosyaAlternatif": "yonetmelikler/12462.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12461",
+      "tamAd": "KAMU İDARELERİNİN DENETİM ELEMANLARINCA YAPILACAK TESPİTLER HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.59, 86",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/12461.pdf",
+      "dosyaAlternatif": "yonetmelikler/12461.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12376",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU SAĞLIK HİZMETLERİ FİYATLANDIRMA  KOMİSYONU ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.72, 73",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/12376.pdf",
+      "dosyaAlternatif": "yonetmelikler/12376.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "11326",
+      "tamAd": "SOSYAL GÜVENLİK KURUMUNA PRİM BORCU OLAN İŞVERENLERİN KAMUOYUNA AÇIKLANMASINA DAİR USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5502/MD.10",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/11326.pdf",
+      "dosyaAlternatif": "yonetmelikler/11326.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "9305",
+      "tamAd": "BAĞ-KUR SİGORTA YARDIMLARI İŞLEMLERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "1479/MD.GEÇİCİ19",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/9305.pdf",
+      "dosyaAlternatif": "yonetmelikler/9305.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "9286",
+      "tamAd": "BAĞ-KUR SİGORTALILARININ ÖDEMEK ZORUNDA BULUNDUKLARI PRİMLERİN HESAPLANMASI, ÖDENMESİ VE TAHSİLİ USULLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "1479/MD.DEĞİŞİK53",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/9286.pdf",
+      "dosyaAlternatif": "yonetmelikler/9286.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "9230",
+      "tamAd": "BAĞ-KUR SAĞLIK SİGORTASI YARDIMLARI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "1479/MD.EK18",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/9230.pdf",
+      "dosyaAlternatif": "yonetmelikler/9230.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "9212",
+      "tamAd": "TARIMDA KENDİ ADINA VE HESABINA ÇALIŞAN SİGORTALILARIN TESCİLİ İLE İLGİLİ İŞLEMLER, BAŞVURMA VE UYMAK ZORUNDA OLDUKLARI USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "2926/MD.5",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/9212.pdf",
+      "dosyaAlternatif": "yonetmelikler/9212.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7257",
+      "tamAd": "BAĞ-KUR İSTEĞE BAĞLI SİGORTALILIK YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "1479/MD.79",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/7257.pdf",
+      "dosyaAlternatif": "yonetmelikler/7257.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7175",
+      "tamAd": "TARIMDA KENDİ ADINA VE HESABINA ÇALIŞANLAR SOSYAL SİGORTALAR KANUNU KAPSAMINDA TARIMSAL FAALİYETTE BULUNANLARIN TESPİT, TESCİL VE TAKİBİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "2926/MD.2",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/7175.pdf",
+      "dosyaAlternatif": "yonetmelikler/7175.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5141",
+      "tamAd": " SOSYAL SİGORTALAR KURUMU BAŞKANLIĞI MERKEZ VE TAŞRA TEŞKİLATININ NORM KADROLARINA İLİŞKİN YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4447/MD.59, GEÇİCİ2",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/5141.pdf",
+      "dosyaAlternatif": "yonetmelikler/5141.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "24038",
+      "tamAd": "KİŞİSEL VERİLERİN SİLİNMESİ, YOK EDİLMESİ VEYA ANONİM HALE GETİRİLMESİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6698/MD.7, 22",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/24038.pdf",
+      "dosyaAlternatif": "yonetmelikler/24038.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "24109",
+      "tamAd": "TÜRKİYE İNSAN HAKLARI VE EŞİTLİK KURUMU KANUNUNUN UYGULANMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6701/MD.12, 17, 20, 22, 26, 27",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/24109.pdf",
+      "dosyaAlternatif": "yonetmelikler/24109.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "19680",
+      "tamAd": "İNSAN HAKLARI İHLALİ İDDİALARINA İLİŞKİN BAŞVURULARIN İNCELENMESİNE DAİR USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6332/MD.12",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/19680.pdf",
+      "dosyaAlternatif": "yonetmelikler/19680.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18962",
+      "tamAd": "ÖZEL SAĞLIK SİGORTALARI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6102 - 5684/MD.11, 12, 31, 32 - 5510/MD.98",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/18962.pdf",
+      "dosyaAlternatif": "yonetmelikler/18962.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18932",
+      "tamAd": "ÖZEL HUKUK HÜKÜMLERİNE TABİ SİGORTALAR KAPSAMINDA HAK SAHİPLERİNCE ARANMAYAN PARALAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5684/MD.33, GEÇİCİ10",
+      "guncellemeTarihi": "10/02/2026",
+      "dosya": "yonetmelikler/18932.pdf",
+      "dosyaAlternatif": "yonetmelikler/18932.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "16748",
+      "tamAd": "BİREYSEL EMEKLİLİK SİSTEMİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4632",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/16748.pdf",
+      "dosyaAlternatif": "yonetmelikler/16748.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "15259",
+      "tamAd": "TRAFİK KAZALARI NEDENİYLE İLGİLİLERE SUNULAN SAĞLIK HİZMET BEDELLERİNİN TAHSİLİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "2918/MD.98 - 6111/MD.GEÇİCİ1",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/15259.pdf",
+      "dosyaAlternatif": "yonetmelikler/15259.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "10620",
+      "tamAd": "TASARRUF MEVDUATI SİGORTA FONUNUN KONTROLÜNDEKİ ŞİRKETLERİN TASFİYESİNE DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5411/MD.134",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/10620.pdf",
+      "dosyaAlternatif": "yonetmelikler/10620.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "3935",
+      "tamAd": "DEVLET MEMURLARI DİSİPLİN YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657/MD.134",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/3935.pdf",
+      "dosyaAlternatif": "yonetmelikler/3935.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "41265",
+      "tamAd": "ÖZEL HASTANELER YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "2219 - 3359 - 1 NOLU CBK/MD.355, 508",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/41265.pdf",
+      "dosyaAlternatif": "yonetmelikler/41265.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "40836",
+      "tamAd": "KISA ÇALIŞMA VE KISA ÇALIŞMA ÖDENEĞİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4447/MD.EK2",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/40836.pdf",
+      "dosyaAlternatif": "yonetmelikler/40836.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "40192",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU GENEL SAĞLIK SİGORTASI ALTERNATİF GERİ ÖDEME YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.63, 64, 72, 73, 107",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/40192.pdf",
+      "dosyaAlternatif": "yonetmelikler/40192.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "39362",
+      "tamAd": "SAĞLIK HİZMET SUNUCULARININ BASAMAKLANDIRILMASINA DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.70 - 3359/MD.9 - 1 NOLU CBK/MD.355, 508",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/39362.pdf",
+      "dosyaAlternatif": "yonetmelikler/39362.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "38955",
+      "tamAd": "SOSYAL GÜVENLİK KURUMUNCA ELEKTRONİK ORTAMDA YAPILACAK TEBLİGATA İLİŞKİN YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.88 - 6183/MD.8",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/38955.pdf",
+      "dosyaAlternatif": "yonetmelikler/38955.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "77756",
+      "tamAd": "Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657/MD.DEĞİŞİK80",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/77756.pdf",
+      "dosyaAlternatif": "yonetmelikler/77756.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "23413",
+      "tamAd": "TURKUAZKART YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6735/MD.11, 25",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/23413.pdf",
+      "dosyaAlternatif": "yonetmelikler/23413.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "21517",
+      "tamAd": "ULUSLARARASI KORUMA BAŞVURU SAHİBİ VE ULUSLARARASI KORUMA STATÜSÜ SAHİBİ KİŞİLERİN ÇALIŞMASINA DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6458/MD.89",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/21517.pdf",
+      "dosyaAlternatif": "yonetmelikler/21517.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "19151",
+      "tamAd": "İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETLERİNİN DESTEKLENMESİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.7",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/19151.pdf",
+      "dosyaAlternatif": "yonetmelikler/19151.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "19088",
+      "tamAd": "BANKALAR VE KAMU İDARELERİ TARAFINDAN YAPILACAK OLAN SİGORTALILIK KONTROLÜ İLE KURUM VE KURULUŞLARDAN BİLGİ VE BELGELERİN ALINMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.8, 11, 100",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/19088.pdf",
+      "dosyaAlternatif": "yonetmelikler/19088.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12578",
+      "tamAd": "YURTDIŞINDA GEÇEN SÜRELERİN BORÇLANDIRILMASI VE DEĞERLENDİRİLMESİNE İLİŞKİN YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "3201/MD.12",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/12578.pdf",
+      "dosyaAlternatif": "yonetmelikler/12578.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12460",
+      "tamAd": "FİİLİ HİZMET SÜRESİ ZAMMI  UYGULAMASININ USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5510/MD.40",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/12460.pdf",
+      "dosyaAlternatif": "yonetmelikler/12460.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18728",
+      "tamAd": "GEBE VEYA EMZİREN KADINLARIN ÇALIŞTIRILMA ŞARTLARIYLA EMZİRME ODALARI VE ÇOCUK BAKIM YURTLARINA DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18728.pdf",
+      "dosyaAlternatif": "yonetmelikler/18728.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "11404",
+      "tamAd": "SOSYAL GÜVENLİK KURUMLARI HARCAMA BELGELERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5018/MD.33",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/11404.pdf",
+      "dosyaAlternatif": "yonetmelikler/11404.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "39291",
+      "tamAd": "ÇALIŞANLARIN SAĞLIK GÖZETİMİNE YÖNELİK TIBBİ TETKİKLERİN USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "1 NOLU CBK/MD.508",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/39291.pdf",
+      "dosyaAlternatif": "yonetmelikler/39291.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "20857",
+      "tamAd": "İŞYERLERİNDE İŞVEREN VEYA İŞVEREN VEKİLİ TARAFINDAN YÜRÜTÜLECEK İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETLERİNE İLİŞKİN YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.6, 30 - 1 NOLU CBK/MD.86, 90, 508",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/20857.pdf",
+      "dosyaAlternatif": "yonetmelikler/20857.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18989",
+      "tamAd": "TOZLA MÜCADELE YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18989.pdf",
+      "dosyaAlternatif": "yonetmelikler/18989.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18928",
+      "tamAd": "YAPI İŞLERİNDE İŞ SAĞLIĞI VE GÜVENLİĞİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18928.pdf",
+      "dosyaAlternatif": "yonetmelikler/18928.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18858",
+      "tamAd": "MADEN İŞYERLERİNDE İŞ SAĞLIĞI VE GÜVENLİĞİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18858.pdf",
+      "dosyaAlternatif": "yonetmelikler/18858.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18829",
+      "tamAd": "SAĞLIK VE GÜVENLİK İŞARETLERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18829.pdf",
+      "dosyaAlternatif": "yonetmelikler/18829.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18763",
+      "tamAd": "GEÇİCİ VEYA BELİRLİ SÜRELİ İŞLERDE İŞ SAĞLIĞI VE GÜVENLİĞİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18763.pdf",
+      "dosyaAlternatif": "yonetmelikler/18763.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18759",
+      "tamAd": "ÇALIŞANLARIN TİTREŞİMLE İLGİLİ RİSKLERDEN KORUNMALARINA DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18759.pdf",
+      "dosyaAlternatif": "yonetmelikler/18759.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18741",
+      "tamAd": "BALIKÇI GEMİLERİNDE YAPILAN ÇALIŞMALARDA SAĞLIK VE GÜVENLİK ÖNLEMLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18741.pdf",
+      "dosyaAlternatif": "yonetmelikler/18741.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18727",
+      "tamAd": "ASKERÎ İŞYERLERİ İLE YURT GÜVENLİĞİ İÇİN GEREKLİ MADDELER ÜRETİLEN İŞYERLERİNİN DENETİMİ, TEFTİŞİ VE BU İŞYERLERİNDE İŞİN DURDURULMASI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.91 - 6331/MD.24",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18727.pdf",
+      "dosyaAlternatif": "yonetmelikler/18727.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18709",
+      "tamAd": "KİMYASAL MADDELERLE ÇALIŞMALARDA SAĞLIK VE GÜVENLİK ÖNLEMLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18709.pdf",
+      "dosyaAlternatif": "yonetmelikler/18709.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18695",
+      "tamAd": "KANSEROJEN VEYA MUTAJEN MADDELERLE ÇALIŞMALARDA SAĞLIK VE GÜVENLİK ÖNLEMLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18695.pdf",
+      "dosyaAlternatif": "yonetmelikler/18695.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18647",
+      "tamAd": "ÇALIŞANLARIN GÜRÜLTÜ İLE İLGİLİ RİSKLERDEN KORUNMALARINA DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18647.pdf",
+      "dosyaAlternatif": "yonetmelikler/18647.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18628",
+      "tamAd": "KADIN ÇALIŞANLARIN GECE POSTALARINDA ÇALIŞTIRILMA KOŞULLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.73 - 6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18628.pdf",
+      "dosyaAlternatif": "yonetmelikler/18628.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18627",
+      "tamAd": "ELLE TAŞIMA İŞLERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18627.pdf",
+      "dosyaAlternatif": "yonetmelikler/18627.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18615",
+      "tamAd": "İŞYERİ HEKİMİ VE DİĞER SAĞLIK PERSONELİNİN GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.3, 24, 27, 30, 31 - 3146/MD.2, 12",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18615.pdf",
+      "dosyaAlternatif": "yonetmelikler/18615.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18592",
+      "tamAd": "İŞYERİ BİNA VE EKLENTİLERİNDE ALINACAK SAĞLIK VE GÜVENLİK ÖNLEMLERİNE İLİŞKİN YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18592.pdf",
+      "dosyaAlternatif": "yonetmelikler/18592.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18588",
+      "tamAd": "SAĞLIK KURALLARI BAKIMINDAN GÜNDE AZAMİ YEDİ BUÇUK SAAT VEYA DAHA AZ ÇALIŞILMASI GEREKEN İŞLER HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18588.pdf",
+      "dosyaAlternatif": "yonetmelikler/18588.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18581",
+      "tamAd": "TEHLİKELİ VE ÇOK TEHLİKELİ SINIFTA YER ALAN İŞLERDE ÇALIŞTIRILACAKLARIN MESLEKİ EĞİTİMLERİNE DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.17, 30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18581.pdf",
+      "dosyaAlternatif": "yonetmelikler/18581.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18540",
+      "tamAd": "KİŞİSEL KORUYUCU DONANIMLARIN İŞYERLERİNDE KULLANILMASI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18540.pdf",
+      "dosyaAlternatif": "yonetmelikler/18540.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18493",
+      "tamAd": "İŞYERLERİNDE ACİL DURUMLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.11, 12, 30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18493.pdf",
+      "dosyaAlternatif": "yonetmelikler/18493.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18485",
+      "tamAd": "BİYOLOJİK ETKENLERE MARUZİYET RİSKLERİNİN ÖNLENMESİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30 - 3146/MD.12",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18485.pdf",
+      "dosyaAlternatif": "yonetmelikler/18485.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18371",
+      "tamAd": "ÇALIŞANLARIN İŞ SAĞLIĞI VE GÜVENLİĞİ EĞİTİMLERİNİN USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.16, 17, 18, 30 - 1 NOLU CBK/MD.86, 90, 508",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18371.pdf",
+      "dosyaAlternatif": "yonetmelikler/18371.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18335",
+      "tamAd": "ÇALIŞANLARIN PATLAYICI ORTAMLARIN TEHLİKELERİNDEN KORUNMASI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18335.pdf",
+      "dosyaAlternatif": "yonetmelikler/18335.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18318",
+      "tamAd": "İŞ EKİPMANLARININ KULLANIMINDA SAĞLIK VE GÜVENLİK ŞARTLARI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30, 31 - 1 NOLU CBK/MD.86, 90",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18318.pdf",
+      "dosyaAlternatif": "yonetmelikler/18318.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "17288",
+      "tamAd": "EKRANLI ARAÇLARLA ÇALIŞMALARDA SAĞLIK VE GÜVENLİK ÖNLEMLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30 - 3146/MD.12",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/17288.pdf",
+      "dosyaAlternatif": "yonetmelikler/17288.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "17253",
+      "tamAd": "İŞYERLERİNDE İŞİN DURDURULMASINA DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.25, 30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/17253.pdf",
+      "dosyaAlternatif": "yonetmelikler/17253.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "17050",
+      "tamAd": "ASBESTLE ÇALIŞMALARDA SAĞLIK VE GÜVENLİK ÖNLEMLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.30 - 3146/MD.12",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/17050.pdf",
+      "dosyaAlternatif": "yonetmelikler/17050.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "17031",
+      "tamAd": "İŞ SAĞLIĞI VE GÜVENLİĞİ KURULLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.22, 30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/17031.pdf",
+      "dosyaAlternatif": "yonetmelikler/17031.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "16925",
+      "tamAd": "İŞ SAĞLIĞI VE GÜVENLİĞİ RİSK DEĞERLENDİRMESİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.10, 30",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/16925.pdf",
+      "dosyaAlternatif": "yonetmelikler/16925.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "16924",
+      "tamAd": "İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETLERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.8, 24, 27, 30, 31 - 3146/MD.2, 12",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/16924.pdf",
+      "dosyaAlternatif": "yonetmelikler/16924.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "16923",
+      "tamAd": "İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.3, 24, 27, 30, 31 - 3146/MD.2, 12",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/16923.pdf",
+      "dosyaAlternatif": "yonetmelikler/16923.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "39337",
+      "tamAd": "ULUSLARARASI İŞGÜCÜ KANUNU UYGULAMA YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6735/MD.25",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/39337.pdf",
+      "dosyaAlternatif": "yonetmelikler/39337.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "23024",
+      "tamAd": "ANALIK İZNİ VEYA ÜCRETSİZ İZİN SONRASI YAPILACAK KISMİ SÜRELİ ÇALIŞMALAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.13",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/23024.pdf",
+      "dosyaAlternatif": "yonetmelikler/23024.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "20628",
+      "tamAd": "İŞ VE MESLEK DANIŞMANLARININ ATANMA İLE ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4904/MD.15",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/20628.pdf",
+      "dosyaAlternatif": "yonetmelikler/20628.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "18562",
+      "tamAd": "SENDİKA ÜYELİĞİNİN KAZANILMASI VE SONA ERMESİ İLE ÜYELİK AİDATININ TAHSİLİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6356/MD.18, 19",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/18562.pdf",
+      "dosyaAlternatif": "yonetmelikler/18562.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "16855",
+      "tamAd": "İŞKOLLARI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6356/MD.4",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/16855.pdf",
+      "dosyaAlternatif": "yonetmelikler/16855.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "13997",
+      "tamAd": "TARIMDA İŞ ARACILIĞI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4904/MD.3",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/13997.pdf",
+      "dosyaAlternatif": "yonetmelikler/13997.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12459",
+      "tamAd": "ALT İŞVERENLİK YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.3",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/12459.pdf",
+      "dosyaAlternatif": "yonetmelikler/12459.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6252",
+      "tamAd": "POSTALAR HALİNDE İŞÇİ ÇALIŞTIRILARAK YÜRÜTÜLEN İŞLERDE ÇALIŞMALARA İLİŞKİN ÖZEL USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.76",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/6252.pdf",
+      "dosyaAlternatif": "yonetmelikler/6252.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6249",
+      "tamAd": "İŞ KANUNUNA İLİŞKİN FAZLA ÇALIŞMA VE FAZLA SÜRELERLE ÇALIŞMA YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.41",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/6249.pdf",
+      "dosyaAlternatif": "yonetmelikler/6249.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5447",
+      "tamAd": "İŞ KANUNUNA İLİŞKİN ÇALIŞMA SÜRELERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.63",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/5447.pdf",
+      "dosyaAlternatif": "yonetmelikler/5447.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5449",
+      "tamAd": "KONUT KAPICILARI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.110",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/5449.pdf",
+      "dosyaAlternatif": "yonetmelikler/5449.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6247",
+      "tamAd": "YÜZDELERDEN TOPLANAN PARALARIN İŞÇİLERE DAĞITILMASI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.51",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/6247.pdf",
+      "dosyaAlternatif": "yonetmelikler/6247.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6227",
+      "tamAd": "GEMİ ADAMLARININ İKAMET YERLERİ, SAĞLIK VE İAŞELERİNE DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "854/MD.35",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/6227.pdf",
+      "dosyaAlternatif": "yonetmelikler/6227.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12605",
+      "tamAd": "ÜCRET, PRİM, İKRAMİYE VE BU NİTELİKTEKİ HER TÜRLÜ İSTİHKAKIN BANKALAR ARACILIĞIYLA ÖDENMESİNE DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6098/MD.323 - 5953/MD.14 - 854/MD.29 - 4857/MD.32",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/12605.pdf",
+      "dosyaAlternatif": "yonetmelikler/12605.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5454",
+      "tamAd": "ASGARİ ÜCRET YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.39",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/5454.pdf",
+      "dosyaAlternatif": "yonetmelikler/5454.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5463",
+      "tamAd": "HAZIRLAMA, TAMAMLAMA VE TEMİZLEME İŞLERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.70",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/5463.pdf",
+      "dosyaAlternatif": "yonetmelikler/5463.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6251",
+      "tamAd": "HAFTALIK İŞ GÜNLERİNE BÖLÜNEMEYEN ÇALIŞMA SÜRELERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.76",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/6251.pdf",
+      "dosyaAlternatif": "yonetmelikler/6251.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5457",
+      "tamAd": "ÇOCUK VE GENÇ İŞÇİLERİN ÇALIŞTIRILMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.71",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/5457.pdf",
+      "dosyaAlternatif": "yonetmelikler/5457.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "6248",
+      "tamAd": "İŞÇİ ÜCRETLERİNDEN CEZA OLARAK KESİLEN PARALARI KULLANMAYA YETKİLİ KURULUN TEŞEKKÜLÜ VE ÇALIŞMA ESASLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.38",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/6248.pdf",
+      "dosyaAlternatif": "yonetmelikler/6248.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5451",
+      "tamAd": "YILLIK ÜCRETLİ İZİN YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.60",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/5451.pdf",
+      "dosyaAlternatif": "yonetmelikler/5451.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "12393",
+      "tamAd": "SANAYİ, TİCARET, TARIM VE ORMAN İŞLERİNDEN SAYILAN İŞLERE İLİŞKİN YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.111",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/12393.pdf",
+      "dosyaAlternatif": "yonetmelikler/12393.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "40042",
+      "tamAd": "İŞ HİJYENİ ÖLÇÜM, TEST VE ANALİZLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6331/MD.10, 24, 27, 30, 31 - 3146/MD.12 - 1 NOLU CBK/MD.86, 90",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/40042.pdf",
+      "dosyaAlternatif": "yonetmelikler/40042.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "31300",
+      "tamAd": "ŞANTİYE ŞEFLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "3194/MD.28, 42, 44 - 1 NOLU CBK/MD.107",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/31300.pdf",
+      "dosyaAlternatif": "yonetmelikler/31300.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "38393",
+      "tamAd": "UZAKTAN ÇALIŞMA YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.14",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/38393.pdf",
+      "dosyaAlternatif": "yonetmelikler/38393.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "15801",
+      "tamAd": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ MAKİNA MÜHENDİSLERİ ODASI MEKANİK TESİSAT FENNİ MESULİYET HİZMETLERİ YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6235/MD.39",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/15801.pdf",
+      "dosyaAlternatif": "yonetmelikler/15801.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "13013",
+      "tamAd": "YURTİÇİNDE İŞE YERLEŞTİRME HİZMETLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "4857/MD.30, 90 - 4904/MD.3 - 4447/MD.48",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/13013.pdf",
+      "dosyaAlternatif": "yonetmelikler/13013.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "7190",
+      "tamAd": "ÖZEL GÜVENLİK HİZMETLERİNE DAİR KANUNUN UYGULANMASINA İLİŞKİN YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5188/MD.26",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/7190.pdf",
+      "dosyaAlternatif": "yonetmelikler/7190.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "19569",
+      "tamAd": "ECZACILAR VE ECZANELER HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6197/MD.5, 20, GEÇİCİ4 - 663/MD.40",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/19569.pdf",
+      "dosyaAlternatif": "yonetmelikler/19569.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "15828",
+      "tamAd": "TEBLİGAT KANUNUNUN UYGULANMASINA DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "7201/MD.60",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/15828.pdf",
+      "dosyaAlternatif": "yonetmelikler/15828.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5780",
+      "tamAd": "TÜRKİYE BAROLAR BİRLİĞİ AVUKATLIK KANUNU YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "1136/MD.182",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/5780.pdf",
+      "dosyaAlternatif": "yonetmelikler/5780.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4650",
+      "tamAd": "Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelik",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "3568/MD.50, GEÇİCİ4",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/4650.pdf",
+      "dosyaAlternatif": "yonetmelikler/4650.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "5040",
+      "tamAd": "NOTERLİK KANUNU YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "1512/MD.198",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/5040.pdf",
+      "dosyaAlternatif": "yonetmelikler/5040.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "17235",
+      "tamAd": "FAHRİ TRAFİK MÜFETTİŞLİĞİ GÖREV VE ÇALIŞMA YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "2918/MD.4, EK6",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/17235.pdf",
+      "dosyaAlternatif": "yonetmelikler/17235.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "40421",
+      "tamAd": "ÖZEL SAĞLIK TESİSLERİNİN DENETİMİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "1219 - 2219 - 3359/MD.9, EK11 - 1 NOLU CBK/MD.355, 508",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/40421.pdf",
+      "dosyaAlternatif": "yonetmelikler/40421.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "39749",
+      "tamAd": "AĞIZ VE DİŞ SAĞLIĞI HİZMETİ SUNULAN ÖZEL SAĞLIK KURULUŞLARI HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "1219 - 3359/MD.9, EK11 - 1 NOLU CBK/MD.355",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/39749.pdf",
+      "dosyaAlternatif": "yonetmelikler/39749.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4847",
+      "tamAd": "HASTA HAKLARI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "3359 - 1 NOLU CBK/MD.355, 508",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/4847.pdf",
+      "dosyaAlternatif": "yonetmelikler/4847.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "85743",
+      "tamAd": "DEVLET MEMURLARININ ŞİKAYET VE MÜRACAATLARI hakkında yönetmelik",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657/MD.21",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/85743.pdf",
+      "dosyaAlternatif": "yonetmelikler/85743.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "85105",
+      "tamAd": "KAMU KURUM VE KURULUŞLARINDA ÇALIŞAN PERSONELİN KILIK VE KIYAFETİNE DAİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/85105.pdf",
+      "dosyaAlternatif": "yonetmelikler/85105.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "848345",
+      "tamAd": "KAMU KONUTLARI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "2946",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/848345.pdf",
+      "dosyaAlternatif": "yonetmelikler/848345.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "8611220",
+      "tamAd": "DEVLET MEMURLARI YİYECEK YARDIMI YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/8611220.pdf",
+      "dosyaAlternatif": "yonetmelikler/8611220.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "836061",
+      "tamAd": "ADAY MEMURLARIN YETİŞTİRİLMELERİNE İLİŞKİN GENEL YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/836061.pdf",
+      "dosyaAlternatif": "yonetmelikler/836061.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "20023975",
+      "tamAd": "KAMU GÖREVLERİNE İLK DEFA ATANACAKLAR İÇİN YAPILACAK SINAVLAR HAKKINDA GENEL YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/20023975.pdf",
+      "dosyaAlternatif": "yonetmelikler/20023975.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "79493",
+      "tamAd": "FAZLA ÇALIŞMANIN UYGULAMA ESASLARINI GÖSTERİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657/MD.178",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/79493.pdf",
+      "dosyaAlternatif": "yonetmelikler/79493.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "9014",
+      "tamAd": "TAŞINIR MAL YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5018/MD.44",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/9014.pdf",
+      "dosyaAlternatif": "yonetmelikler/9014.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "836510",
+      "tamAd": "DEVLETE VE KİŞİLERE MEMURLARCA VERİLEN ZARARLARIN NEVİ VE MİKTARLARININ TESPİTİ, TAKİBİ, AMİRLERİNİN SORUMLULUKLARI, YAPILACAK DİĞER İŞLEMLER HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/836510.pdf",
+      "dosyaAlternatif": "yonetmelikler/836510.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "20112226",
+      "tamAd": "DEVLET MEMURLARINA VERİLECEK HASTALIK RAPORLARI  İLE HASTALIK VE REFAKAT İZNİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657/MD.105",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/20112226.pdf",
+      "dosyaAlternatif": "yonetmelikler/20112226.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "4633",
+      "tamAd": "ESKİMİŞ, SOLMUŞ, YIRTILMIŞ VE KULLANILAMAYACAK  DURUMA GELMİŞ BAYRAKLARIN YOK EDİLMESİ USUL VE ESASLARINI GÖSTERİR YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "2893/MD.9 - TÜRK BAYRAĞI TÜZÜĞÜ",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/4633.pdf",
+      "dosyaAlternatif": "yonetmelikler/4633.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "191",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU HİZMET İÇİ EĞİTİM YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "657/MD.DEĞİŞİK214 - 4 NOLU CBK/MD.424",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/191.pdf",
+      "dosyaAlternatif": "yonetmelikler/191.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2016/424",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU MERKEZ TEŞKİLATI ÇALIŞMA YÖNETMELİĞİ",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "5502/MD.7, 9, 12, 41",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/2016/424.pdf",
+      "dosyaAlternatif": "yonetmelikler/2016/424.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2646",
+      "tamAd": "RESMÎ YAZIŞMALARDA UYGULANACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "1 NOLU CBK/MD.6, 7",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/2646.pdf",
+      "dosyaAlternatif": "yonetmelikler/2646.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "200610932",
+      "tamAd": "KAMU KURUM VE KURULUŞLARINCA ÖDENECEK TELİF VE İŞLENME ÜCRETLERİ HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "375 SAYILI KHK/MD.EK1",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "yonetmelikler/200610932.pdf",
+      "dosyaAlternatif": "yonetmelikler/200610932.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "911779",
+      "tamAd": "ATEŞLİ SİLAHLAR VE BIÇAKLAR İLE DİĞER ALETLER HAKKINDA YÖNETMELİK",
+      "kategori": "YÖNETMELİK",
+      "dayanak": "6136",
+      "guncellemeTarihi": "14/02/2026",
+      "dosya": "yonetmelikler/911779.pdf",
+      "dosyaAlternatif": "yonetmelikler/911779.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "74496",
+      "tamAd": "SOSYAL SİGORTA SAĞLIK İŞLEMLERİ TÜZÜĞÜ",
+      "kategori": "TÜZÜK",
+      "dayanak": "506",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "tuzukler/74496.pdf",
+      "dosyaAlternatif": "tuzukler/74496.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "41053",
+      "tamAd": "VAZİFE MALULLÜKLERİNİN NEVİLERİ İLE DERECELERİ HAKKINDA NİZAMNAME",
+      "kategori": "TÜZÜK",
+      "dayanak": "5434/MD.52",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "tuzukler/41053.pdf",
+      "dosyaAlternatif": "tuzukler/41053.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "İŞÇİ SAĞLIĞI VE İŞ GÜVENLİĞİ TÜZÜĞÜ",
+      "kategori": "TÜZÜK",
+      "dayanak": "1475",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "ISCI_SAGLIGI_VE_IS_GUVENLIGI_TUZUGU.pdf",
+      "dosyaAlternatif": "ISCI_SAGLIGI_VE_IS_GUVENLIGI_TUZUGU.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "TÜRK BAYRAĞI TÜZÜĞÜ",
+      "kategori": "TÜZÜK",
+      "dayanak": "2893",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "TURK_BAYRAGI_TUZUGU.pdf",
+      "dosyaAlternatif": "TURK_BAYRAGI_TUZUGU.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "YAPI İŞLERİNDE İŞÇİ SAĞLIĞI VE İŞ GÜVENLİĞİ TÜZÜĞÜ",
+      "kategori": "TÜZÜK",
+      "dayanak": "1475",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "YAPI_ISLERINDE_ISCI_SAGLIGI_VE_IS_GUVENLIGI_TUZUGU.pdf",
+      "dosyaAlternatif": "YAPI_ISLERINDE_ISCI_SAGLIGI_VE_IS_GUVENLIGI_TUZUGU.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2013/11",
+      "tamAd": "SİGORTALILIK İŞLEMLERİ HAKKINDA GENELGE",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2013/11.pdf",
+      "dosyaAlternatif": "genelgeler/2013/11.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2026/1",
+      "tamAd": "İKİ PUAN İNDİRİM KONULU GENELGE",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2026/1.pdf",
+      "dosyaAlternatif": "genelgeler/2026/1.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2026/2",
+      "tamAd": "Prime Esas Kazançların Alt ve Üst Sınırları ile Bazı İşlemlere Esas Tutarlar",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2026/2.pdf",
+      "dosyaAlternatif": "genelgeler/2026/2.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2025/9",
+      "tamAd": "Asgari Ücret Desteği",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2025/9.pdf",
+      "dosyaAlternatif": "genelgeler/2025/9.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2024/17",
+      "tamAd": "Yemek Bedeli",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2024/17.pdf",
+      "dosyaAlternatif": "genelgeler/2024/17.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2025/6",
+      "tamAd": "Dört Puanlık İndirim",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2025/6.pdf",
+      "dosyaAlternatif": "genelgeler/2025/6.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2024/13",
+      "tamAd": "Sağlık Uygulaması Bulunan Sözleşmeli Ülkelerde İkamet Eden Gelir/Aylık Sahiplerine Sağlık Yardım Belgesi Düzenleme Şartları",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2024/13.pdf",
+      "dosyaAlternatif": "genelgeler/2024/13.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2024/8",
+      "tamAd": "Tecil İşlemlerine İlişkin Değişiklikler",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2024/8.pdf",
+      "dosyaAlternatif": "genelgeler/2024/8.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2011/13",
+      "tamAd": "İlişiksizlik belgesi",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2011/13.pdf",
+      "dosyaAlternatif": "genelgeler/2011/13.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2020/12",
+      "tamAd": "Koronavirüs (COVID-19)",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2020/12.pdf",
+      "dosyaAlternatif": "genelgeler/2020/12.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2020/8",
+      "tamAd": "İdari Para Cezası Genelgesi",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2020/8.pdf",
+      "dosyaAlternatif": "genelgeler/2020/8.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2019/17",
+      "tamAd": "GSS TESCİL VE PRİM İŞLEMLERİ",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2019/17.pdf",
+      "dosyaAlternatif": "genelgeler/2019/17.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2019/16",
+      "tamAd": "Yurt Dışı Borçlanma İşlemleri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2019/16.pdf",
+      "dosyaAlternatif": "genelgeler/2019/16.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2018/38",
+      "tamAd": "EMEKLİLİK İŞLEMLERİ",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2018/38.pdf",
+      "dosyaAlternatif": "genelgeler/2018/38.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2018/37",
+      "tamAd": "HARCAMA YETKİSİ",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2018/37.pdf",
+      "dosyaAlternatif": "genelgeler/2018/37.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2015/25",
+      "tamAd": "Kayıt dışı istihdam ile mücadele",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2015/25.pdf",
+      "dosyaAlternatif": "genelgeler/2015/25.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2017/31",
+      "tamAd": "UÇAKLA SEYAHAT",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2017/31.pdf",
+      "dosyaAlternatif": "genelgeler/2017/31.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2010/117",
+      "tamAd": "İsteğe Bağlı Sigorta İşlemleri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2010/117.pdf",
+      "dosyaAlternatif": "genelgeler/2010/117.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2017/25",
+      "tamAd": "Yersiz Ödemelerin Tahsili",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2017/25.pdf",
+      "dosyaAlternatif": "genelgeler/2017/25.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2016/15",
+      "tamAd": "KURUM PERSONELİNİN SORUMLULUĞU",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2016/15.pdf",
+      "dosyaAlternatif": "genelgeler/2016/15.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2016/6",
+      "tamAd": "Lise/dengi öğrenim ve yükseköğrenim mezunu öğrencilerin genel sağlık sigortası",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2016/6.pdf",
+      "dosyaAlternatif": "genelgeler/2016/6.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2015/13",
+      "tamAd": "4/b Kapsamındaki Sigortalılığın Durdurulması",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2015/13.pdf",
+      "dosyaAlternatif": "genelgeler/2015/13.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2015/2",
+      "tamAd": "Yurtdışı Sahte Hizmet Belgeleri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2015/2.pdf",
+      "dosyaAlternatif": "genelgeler/2015/2.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2014/28",
+      "tamAd": "Geçersiz sigortalılık statüsünde yatan primlerin geçerli sigortalılık statüsüne aktarma işlemleri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2014/28.pdf",
+      "dosyaAlternatif": "genelgeler/2014/28.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2014/20",
+      "tamAd": "Adli Vaka ve Trafik Kazası İşlemleri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2014/20.pdf",
+      "dosyaAlternatif": "genelgeler/2014/20.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2014/10",
+      "tamAd": "Fizik Tedavi ve Rehabilitasyon Uygulamaları",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2014/10.pdf",
+      "dosyaAlternatif": "genelgeler/2014/10.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2013/37",
+      "tamAd": "Hasta Tarafından Temin Edilen Tıbbi Malzeme Bedellerinin Geri Ödeme İşlemleri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2013/37.pdf",
+      "dosyaAlternatif": "genelgeler/2013/37.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2013/34",
+      "tamAd": "Maluliyet tespiti işlemleri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2013/34.pdf",
+      "dosyaAlternatif": "genelgeler/2013/34.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2018/8",
+      "tamAd": "SGDP Yapılandırma",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2018/8.pdf",
+      "dosyaAlternatif": "genelgeler/2018/8.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2012/19",
+      "tamAd": "Disiplin Amirleri tarafından verilen cezaların ilgili birimlerce sisteme işlenmesi ve onaylanması",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2012/19.pdf",
+      "dosyaAlternatif": "genelgeler/2012/19.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2011/53",
+      "tamAd": "İcra takip haciz ve satış işlemleri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2011/53.pdf",
+      "dosyaAlternatif": "genelgeler/2011/53.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2011/46",
+      "tamAd": "Yurt dışı tedavi işlemleri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2011/46.pdf",
+      "dosyaAlternatif": "genelgeler/2011/46.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2011/48",
+      "tamAd": "Yurtdışı borçlanma ve tahsis işlemleri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2011/48.pdf",
+      "dosyaAlternatif": "genelgeler/2011/48.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2011/32",
+      "tamAd": "Emeklilik Belgeleri, Emeklilik İkramiyesi",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2011/32.pdf",
+      "dosyaAlternatif": "genelgeler/2011/32.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2011/33",
+      "tamAd": "Aktüerya ve Fon Yönetimi İşlemleri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2011/33.pdf",
+      "dosyaAlternatif": "genelgeler/2011/33.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2011/19",
+      "tamAd": "5434 sayılı Kanun ve 5510 sayılı Kanunun 4 (l) (c) kapsamındaki sigortalılar için tahsis uygulamaları",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2011/19.pdf",
+      "dosyaAlternatif": "genelgeler/2011/19.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2011/9",
+      "tamAd": "Yurtdışı sigortalılarının malullük aylıklarında ilk işe giriş tarihlerinin tespiti ",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2011/9.pdf",
+      "dosyaAlternatif": "genelgeler/2011/9.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2010/52",
+      "tamAd": "Ödeme İşlemleri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2010/52.pdf",
+      "dosyaAlternatif": "genelgeler/2010/52.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2008/86",
+      "tamAd": "Genel Sağlık Sigortası Uygulamaları",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2008/86.pdf",
+      "dosyaAlternatif": "genelgeler/2008/86.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2008/22",
+      "tamAd": "Rehberlik ve Teftiş Başkanlığına Yetki Devri",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "genelgeler/2008/22.pdf",
+      "dosyaAlternatif": "genelgeler/2008/22.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2013/5",
+      "tamAd": "Sosyal Güvenlik Denetmenleri Denetim Standartları",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genelgeler/2013/5.pdf",
+      "dosyaAlternatif": "genelgeler/2013/5.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2020/20",
+      "tamAd": "İşveren İşlemleri Genelgesi",
+      "kategori": "GENELGE",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genelgeler/2020/20.pdf",
+      "dosyaAlternatif": "genelgeler/2020/20.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "198",
+      "tamAd": "Kreş ve gündüz bakımevleri işletme usul ve esasları",
+      "kategori": "usul ve esaslar",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "usul-esaslar/198.pdf",
+      "dosyaAlternatif": "usul-esaslar/198.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2016/430",
+      "tamAd": "Sosyal Güvenlik Kurumu hukuk müşavirliği çalışma usul ve esasları",
+      "kategori": "usul ve esaslar",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "usul-esaslar/2016/430.pdf",
+      "dosyaAlternatif": "usul-esaslar/2016/430.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2016/62",
+      "tamAd": "Sosyal Güvenlik Kurumu işyerinde psikolojik tacizin önlenmesine dair usul ve esaslar",
+      "kategori": "usul ve esaslar",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "usul-esaslar/2016/62.pdf",
+      "dosyaAlternatif": "usul-esaslar/2016/62.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2016/56",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU İLAÇ GERİ ÖDEME BAŞVURULARINA İLİŞKİN USUL VE ESASLAR",
+      "kategori": "usul ve esaslar",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "usul-esaslar/2016/56.pdf",
+      "dosyaAlternatif": "usul-esaslar/2016/56.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU diş fatura inceleme usul ve esasları",
+      "kategori": "usul ve esaslar",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_DIS_FATURA_INCELEME_USUL_VE_ESASLARI.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_DIS_FATURA_INCELEME_USUL_VE_ESASLARI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "sOSYAL GÜVENLİK KURUMU KONUT TAHSİS İŞLEMLERİ İLE İLGİLİ USUL VE ESASLAR",
+      "kategori": "usul ve esaslar",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_KONUT_TAHSIS_ISLEMLERI_ILE_ILGILI_USUL_VE_ESASLAR.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_KONUT_TAHSIS_ISLEMLERI_ILE_ILGILI_USUL_VE_ESASLAR.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU PERSONEL YEMEK HİZMETLERİNİN SUNULMASINA İLİŞKİN USUL VE ESASLARI",
+      "kategori": "usul ve esaslar",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_PERSONEL_YEMEK_HIZMETLERININ_SUNULMASINA_ILISKIN_USUL_VE_.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_PERSONEL_YEMEK_HIZMETLERININ_SUNULMASINA_ILISKIN_USUL_VE_.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2015/448",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU DİSİPLİN SORUŞTURMASI VE DİSİPLİN CEZALARININ UYGULANMASINA DAİR USUL VE ESASLAR",
+      "kategori": "usul ve esaslar",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "usul-esaslar/2015/448.pdf",
+      "dosyaAlternatif": "usul-esaslar/2015/448.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GüVENLIK KURUMU KURUM SAğLIK KURULLARININ GöREV, YETKi, çALISMA USUL ve ESASLARI",
+      "kategori": "usul ve esaslar",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_KURUM_SAGLIK_KURULLARININ_GOREV_YETKI_CALISMA_USUL_VE_ESA.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_KURUM_SAGLIK_KURULLARININ_GOREV_YETKI_CALISMA_USUL_VE_ESA.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "9",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU EK ÖDEME USUL VE ESASLARI",
+      "kategori": "usul ve esaslar",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "usul-esaslar/9.pdf",
+      "dosyaAlternatif": "usul-esaslar/9.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SAĞLIK HİZMET SUNUCULARININ ÖDEMELERİNİN DURDURULMASINA İLİŞKİN USUL VE ESASLAR",
+      "kategori": "usul ve esaslar",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SAGLIK_HIZMET_SUNUCULARININ_ODEMELERININ_DURDURULMASINA_ILISKIN_USUL_VE_ESASLAR.pdf",
+      "dosyaAlternatif": "SAGLIK_HIZMET_SUNUCULARININ_ODEMELERININ_DURDURULMASINA_ILISKIN_USUL_VE_ESASLAR.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİ",
+      "kategori": "TEBLİĞ",
+      "dayanak": "5510 - GSS UYGULAMARI YÖNETMELİĞİ",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_SAGLIK_UYGULAMA_TEBLIGI.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_SAGLIK_UYGULAMA_TEBLIGI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "EV HİZMETLERİNDE 5510 SAYILI KANUNUN EK 9 UNCU MADDESİ KAPSAMINDA SİGORTALI ÇALIŞTIRILMASI HAKKINDA TEBLİĞ",
+      "kategori": "TEBLİĞ",
+      "dayanak": "5510/MD.EK9",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "EV_HIZMETLERINDE_5510_SAYILI_KANUNUN_EK_9_UNCU_MADDESI_KAPSAMINDA_SIGORTALI_CALI.pdf",
+      "dosyaAlternatif": "EV_HIZMETLERINDE_5510_SAYILI_KANUNUN_EK_9_UNCU_MADDESI_KAPSAMINDA_SIGORTALI_CALI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "TARIMSAL FAALİYETTE BULUNANLARIN PRİM BORÇLARININ SATTIKLARI TARIMSAL ÜRÜN BEDELLERİNDEN KESİNTİ YAPILMAK SURETİYLE TAHSİL EDİLMESİNE DAİR TEBLİĞ",
+      "kategori": "TEBLİĞ",
+      "dayanak": "5510/MD.88 - SSİY/MD.108",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "TARIMSAL_FAALIYETTE_BULUNANLARIN_PRIM_BORCLARININ_SATTIKLARI_TARIMSAL_URUN_BEDEL.pdf",
+      "dosyaAlternatif": "TARIMSAL_FAALIYETTE_BULUNANLARIN_PRIM_BORCLARININ_SATTIKLARI_TARIMSAL_URUN_BEDEL.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU ASGARİ İŞÇİLİK TESPİT KOMİSYONUNCA BELİRLENEN ÇEŞİTLİ İŞKOLLARINA AİT ASGARİ İŞÇİLİK ORANLARINI GÖSTERİR TEBLİĞ",
+      "kategori": "TEBLİĞ",
+      "dayanak": "SSİY/MD.110",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_ASGARI_ISCILIK_TESPIT_KOMISYONUNCA_BELIRLENEN_CESITLI_ISK.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_ASGARI_ISCILIK_TESPIT_KOMISYONUNCA_BELIRLENEN_CESITLI_ISK.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "GELİR/AYLIK ÖDEME VE YOKLAMA İŞLEMLERİ HAKKINDA TEBLİĞ",
+      "kategori": "TEBLİĞ",
+      "dayanak": "SSİY",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "GELIR_AYLIK_ODEME_VE_YOKLAMA_ISLEMLERI_HAKKINDA_TEBLIG.pdf",
+      "dosyaAlternatif": "GELIR_AYLIK_ODEME_VE_YOKLAMA_ISLEMLERI_HAKKINDA_TEBLIG.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "İŞVEREN UYGULAMA TEBLİĞ",
+      "kategori": "TEBLİĞ",
+      "dayanak": "",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "ISVEREN_UYGULAMA_TEBLIG.pdf",
+      "dosyaAlternatif": "ISVEREN_UYGULAMA_TEBLIG.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "43929",
+      "tamAd": "DEVLET MEMURLARI YİYECEK YARDIMI YÖNETMELİĞİ UYGULAMA TEBLİĞİ",
+      "kategori": "TEBLİĞ",
+      "dayanak": "DEVLET MEMURLARI YİYECEK YARDIMI YÖNETMELİĞİ/MD.4",
+      "guncellemeTarihi": "14/02/2026",
+      "dosya": "tebligler/43929.pdf",
+      "dosyaAlternatif": "tebligler/43929.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Sosyal Güvenlik Kurumu Ön Mali Kontrol İşlemleri Yönergesi",
+      "kategori": "YÖNERGE",
+      "dayanak": "5436/MD.15 - 5018/MD.58, 60",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_ON_MALI_KONTROL_ISLEMLERI_YONERGESI.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_ON_MALI_KONTROL_ISLEMLERI_YONERGESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU RESMİ YAZIŞMA KURALLARI YÖNERGESİ",
+      "kategori": "YÖNERGE",
+      "dayanak": "2646 sayılı Cumhurbaşkanlığı Kararı",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_RESMI_YAZISMA_KURALLARI_YONERGESI.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_RESMI_YAZISMA_KURALLARI_YONERGESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU PERSONEL KİMLİK KARTI YÖNERGESİ",
+      "kategori": "YÖNERGE",
+      "dayanak": "SGK MERKEZ TEŞKİLATI  ÇALIŞMA YÖNETMELİĞİ",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_PERSONEL_KIMLIK_KARTI_YONERGESI.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_PERSONEL_KIMLIK_KARTI_YONERGESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "İÇ KONTROL YÖNERGESİ",
+      "kategori": "YÖNERGE",
+      "dayanak": "5018/MD.55, 56, 57",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "IC_KONTROL_YONERGESI.pdf",
+      "dosyaAlternatif": "IC_KONTROL_YONERGESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU SAĞLIK HİZMETLERİ FİYATLANDIRMA ALT KOMİSYONU ÇALIŞMA YÖNERGESİ",
+      "kategori": "YÖNERGE",
+      "dayanak": "5510/MD.72",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_SAGLIK_HIZMETLERI_FIYATLANDIRMA_ALT_KOMISYONU_CALISMA_YON.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_SAGLIK_HIZMETLERI_FIYATLANDIRMA_ALT_KOMISYONU_CALISMA_YON.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU YAYIN YÖNERGESİ",
+      "kategori": "YÖNERGE",
+      "dayanak": "5502/MD.25 - 5846",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_YAYIN_YONERGESI.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_YAYIN_YONERGESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU İZİN YÖNERGESİ",
+      "kategori": "YÖNERGE",
+      "dayanak": "657 - 5502",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_IZIN_YONERGESI.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_IZIN_YONERGESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU BÜTÇE YÖNERGESİ",
+      "kategori": "YÖNERGE",
+      "dayanak": "5502/MD.42 - 5018/MD.49, 60, 77",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_BUTCE_YONERGESI.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_BUTCE_YONERGESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU ÖN ÖDEME USUL VE ESASLARI HAKKINDA YÖNERGE",
+      "kategori": "YÖNERGE",
+      "dayanak": "5018/MD.35 - 5510/MD.97",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_ON_ODEME_USUL_VE_ESASLARI_HAKKINDA_YONERGE.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_ON_ODEME_USUL_VE_ESASLARI_HAKKINDA_YONERGE.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU HİZMET İÇİ EĞİTİM YÖNETMELİĞİ",
+      "kategori": "YÖNERGE",
+      "dayanak": "657/MD.DEĞİŞİK214 - 4 NOLU CBK/MD.424",
+      "guncellemeTarihi": "11/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_HIZMET_ICI_EGITIM_YONETMELIGI.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_HIZMET_ICI_EGITIM_YONETMELIGI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2016/2",
+      "tamAd": "GÖREV DAĞILIMI",
+      "kategori": "İÇ EMİR",
+      "dayanak": "RTB",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "ic-emirler/2016/2.pdf",
+      "dosyaAlternatif": "ic-emirler/2016/2.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2016/1",
+      "tamAd": "RAPORLARIN DEĞERLENDİRİLMESİ VE YETKİ DEVRİ",
+      "kategori": "İÇ EMİR",
+      "dayanak": "RTB",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "ic-emirler/2016/1.pdf",
+      "dosyaAlternatif": "ic-emirler/2016/1.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2015/11",
+      "tamAd": "GÖREV DAĞILIMI",
+      "kategori": "İÇ EMİR",
+      "dayanak": "RTB",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "ic-emirler/2015/11.pdf",
+      "dosyaAlternatif": "ic-emirler/2015/11.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "2015/9",
+      "tamAd": "YETKİ DEVRİ",
+      "kategori": "İÇ EMİR",
+      "dayanak": "RTB",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "ic-emirler/2015/9.pdf",
+      "dosyaAlternatif": "ic-emirler/2015/9.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU EVRAK İŞLEMLERİ HAKKINDA TALİMAT",
+      "kategori": "TALİMAT",
+      "dayanak": "5502/MD.40",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "SOSYAL_GUVENLIK_KURUMU_EVRAK_ISLEMLERI_HAKKINDA_TALIMAT.pdf",
+      "dosyaAlternatif": "SOSYAL_GUVENLIK_KURUMU_EVRAK_ISLEMLERI_HAKKINDA_TALIMAT.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Kısmi İlişiksizlik",
+      "kategori": "GENEL YAZI",
+      "dayanak": "2011/13 SAYILI GENELGE",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "KISMI_ILISIKSIZLIK.pdf",
+      "dosyaAlternatif": "KISMI_ILISIKSIZLIK.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Alt İşverenlik Bildirimi",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "ALT_ISVERENLIK_BILDIRIMI.pdf",
+      "dosyaAlternatif": "ALT_ISVERENLIK_BILDIRIMI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "5510 sayılı Kanunun 21 inci maddesinin beşinci fıkrası uygulaması",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "5510_SAYILI_KANUNUN_21_INCI_MADDESININ_BESINCI_FIKRASI_UYGULAMASI.pdf",
+      "dosyaAlternatif": "5510_SAYILI_KANUNUN_21_INCI_MADDESININ_BESINCI_FIKRASI_UYGULAMASI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Geçici İş İlişkisi Mevzuatına Aykırı İşlem Yapılması",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "GECICI_IS_ILISKISI_MEVZUATINA_AYKIRI_ISLEM_YAPILMASI.pdf",
+      "dosyaAlternatif": "GECICI_IS_ILISKISI_MEVZUATINA_AYKIRI_ISLEM_YAPILMASI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Yapı Birim Maliyetleri",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "YAPI_BIRIM_MALIYETLERI.pdf",
+      "dosyaAlternatif": "YAPI_BIRIM_MALIYETLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Trafik Kazasından Doğan Rücu İşlemleri",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "TRAFIK_KAZASINDAN_DOGAN_RUCU_ISLEMLERI.pdf",
+      "dosyaAlternatif": "TRAFIK_KAZASINDAN_DOGAN_RUCU_ISLEMLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Uzaktan Çalışma Gün Bildirimi",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "UZAKTAN_CALISMA_GUN_BILDIRIMI.pdf",
+      "dosyaAlternatif": "UZAKTAN_CALISMA_GUN_BILDIRIMI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Ek-9 Kapsamındaki Ev Hizmetleri İşyerlerinin Kolay İşverenlik Kapsamına Alınması",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "EK_9_KAPSAMINDAKI_EV_HIZMETLERI_ISYERLERININ_KOLAY_ISVERENLIK_KAPSAMINA_ALINMASI.pdf",
+      "dosyaAlternatif": "EK_9_KAPSAMINDAKI_EV_HIZMETLERI_ISYERLERININ_KOLAY_ISVERENLIK_KAPSAMINA_ALINMASI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "İŞ KAZASINA UĞRAYAN SİGORTALILAR İÇİN DÜZENLENEN EK APHB'DE FAYDALANILAN ASGARİ ÜCRET DESTEĞİ",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "IS_KAZASINA_UGRAYAN_SIGORTALILAR_ICIN_DUZENLENEN_EK_APHB_DE_FAYDALANILAN_ASGARI_.pdf",
+      "dosyaAlternatif": "IS_KAZASINA_UGRAYAN_SIGORTALILAR_ICIN_DUZENLENEN_EK_APHB_DE_FAYDALANILAN_ASGARI_.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "EV HİZMETLERİ",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "EV_HIZMETLERI.pdf",
+      "dosyaAlternatif": "EV_HIZMETLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Vahidi Fiyat",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "VAHIDI_FIYAT.pdf",
+      "dosyaAlternatif": "VAHIDI_FIYAT.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Yol ve Yemek Paraları",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "YOL_VE_YEMEK_PARALARI.pdf",
+      "dosyaAlternatif": "YOL_VE_YEMEK_PARALARI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Mali tatil",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "MALI_TATIL.pdf",
+      "dosyaAlternatif": "MALI_TATIL.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Veri Paylaşımı",
+      "kategori": "GENEL YAZI",
+      "dayanak": "",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "VERI_PAYLASIMI.pdf",
+      "dosyaAlternatif": "VERI_PAYLASIMI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "",
+      "tamAd": "Grup Başkanlıklarına Yetki Devri",
+      "kategori": "GENEL YAZI",
+      "dayanak": "RTB",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "GRUP_BASKANLIKLARINA_YETKI_DEVRI.pdf",
+      "dosyaAlternatif": "GRUP_BASKANLIKLARINA_YETKI_DEVRI.pdf",
+      "aciklama": ""
+    }
+  ]
+}
