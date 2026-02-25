@@ -1,0 +1,30 @@
+{
+  "tasitKartiIstisnalari": {
+    "gelirVergisi": {
+      "2025": {
+        "tutar": 151.2,
+        "aciklama": "KDV DAHİL"
+      },
+      "2024": {
+        "tutar": 96.8,
+        "aciklama": "KDV DAHİL"
+      },
+      "2023": {
+        "tutar": 61.6,
+        "aciklama": "KDV DAHİL"
+      },
+      "2022": {
+        "tutar": 30.24,
+        "aciklama": "KDV DAHİL"
+      },
+      "2021": {
+        "tutar": 13.75,
+        "aciklama": ""
+      },
+      "2020": {
+        "tutar": 12,
+        "aciklama": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "cezalar": [
+    {
+      "kod": "a.1.",
+      "kanunYeri": "Md. 102/a-1",
+      "aciklama": "Sigortalı işe giriş bildirgesinin süresinde verilmemesi",
+      "kriterAciklama": "Sigortalı sayısı kadar",
+      "katsayi": 1.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "a.2.",
+      "kanunYeri": "Md. 102/a-2",
+      "aciklama": "Sigortalı işe giriş bildirgesinin süresinde verilmemesi (Müfettiş tespiti)",
+      "kriterAciklama": "Sigortalı sayısı kadar",
+      "katsayi": 2.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "a.3.",
+      "kanunYeri": "Md. 102/a-3",
+      "aciklama": "Sigortalı işe giriş bildirgesinin süresinde verilmemesinin 1 yıl içinde tekrarı",
+      "kriterAciklama": "Sigortalı sayısı kadar",
+      "katsayi": 5.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "b.1.",
+      "kanunYeri": "Md. 102/b-1",
+      "aciklama": "İş yeri tescil bildirgesinin geç verilmesi (Kamu/Bilanço)",
+      "kriterAciklama": "Sabit",
+      "katsayi": 3.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "b.2.",
+      "kanunYeri": "Md. 102/b-2",
+      "aciklama": "İş yeri tescil bildirgesinin geç verilmesi (Diğer Defterler)",
+      "kriterAciklama": "Sabit",
+      "katsayi": 2.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "b.3.",
+      "kanunYeri": "Md. 102/b-3",
+      "aciklama": "İş yeri tescil bildirgesinin geç verilmesi (Defter Tutmayan)",
+      "kriterAciklama": "Sabit",
+      "katsayi": 1.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "c.1.",
+      "kanunYeri": "Md. 102/c-1",
+      "aciklama": "APHB/M&PHB, eksik gün belgelerinin verilmemesi (Asıl)",
+      "kriterAciklama": "APHB eksik verme",
+      "katsayi": 0.2,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 2.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "c.2.",
+      "kanunYeri": "Md. 102/c-2",
+      "aciklama": "APHB/M&PHB, eksik gün belgelerinin verilmemesi (Ek)",
+      "kriterAciklama": "APHB eksik verme",
+      "katsayi": 0.125,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 2.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "c.3.",
+      "kanunYeri": "Md. 102/c-3",
+      "aciklama": "APHB/M&PHB, eksik gün belgelerinin verilmemesi (Resen Düzenleme)",
+      "kriterAciklama": "APHB eksik verme",
+      "katsayi": 0.5,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 2.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "c.4.",
+      "kanunYeri": "Md. 102/c-4",
+      "aciklama": "APHB/M&PHB, eksik gün belgelerinin verilmemesi (Müfettiş Tespiti)",
+      "kriterAciklama": "APHB eksik verme",
+      "katsayi": 2.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "d.",
+      "kanunYeri": "Md. 102/d",
+      "aciklama": "Eksik işçilik tutarının mal edildiği her bir ay için",
+      "kriterAciklama": "Her bir ay için",
+      "katsayi": 2.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "e.1.",
+      "kanunYeri": "Md. 102/e-1",
+      "aciklama": "Kayıt/belge ibraz edilmemesi (Bilanço esası)",
+      "kriterAciklama": "Sabit",
+      "katsayi": 12.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "e.2.",
+      "kanunYeri": "Md. 102/e-2",
+      "aciklama": "Kayıt/belge ibraz edilmemesi (Diğer defterler)",
+      "kriterAciklama": "Sabit",
+      "katsayi": 6.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "e.3.",
+      "kanunYeri": "Md. 102/e-3",
+      "aciklama": "Kayıt/belge ibraz edilmemesi (Defter tutmak zorunda olmayanlar)",
+      "kriterAciklama": "Sabit",
+      "katsayi": 3.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "e.4.",
+      "kanunYeri": "Md. 102/e-4",
+      "aciklama": "Defter geçersizliği",
+      "kriterAciklama": "Sabit",
+      "katsayi": 0.5,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "e.5.",
+      "kanunYeri": "Md. 102/e-5",
+      "aciklama": "Bordro geçersizliği",
+      "kriterAciklama": "Sabit",
+      "katsayi": 0.5,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "f.",
+      "kanunYeri": "Md. 102/f",
+      "aciklama": "Asgari işçilik uygulaması ve uzlaşma",
+      "kriterAciklama": "Sabit",
+      "katsayi": 2.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "h.",
+      "kanunYeri": "Md. 102/h",
+      "aciklama": "Ticaret sicili memurlukları ile kurum ve kuruluşlar",
+      "kriterAciklama": "Sabit",
+      "katsayi": 1.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "ı.1",
+      "kanunYeri": "Md. 102/ı-1",
+      "aciklama": "Görevini yerine getirene engel olma",
+      "kriterAciklama": "Sabit",
+      "katsayi": 5.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "ı.2",
+      "kanunYeri": "Md. 102/ı-2",
+      "aciklama": "Görevini yerine getirene cebir ve tehdit yapılması",
+      "kriterAciklama": "Sabit",
+      "katsayi": 10.0,
+      "altSinirKatsayi": 1.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "i.1",
+      "kanunYeri": "Md. 102/i-1",
+      "aciklama": "100'üncü madde kapsamında istenen belgenin ibraz edilmemesi",
+      "kriterAciklama": "Sabit",
+      "katsayi": 5.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "i.2",
+      "kanunYeri": "Md. 102/i-2",
+      "aciklama": "100'üncü madde kapsamında istenen belgenin geç ibraz edilmesi",
+      "kriterAciklama": "Sabit",
+      "katsayi": 2.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "i.3",
+      "kanunYeri": "Md. 102/i-3",
+      "aciklama": "İş göremezlik ödeneği için belgenin Kurum'a geç verilmesi",
+      "kriterAciklama": "Sabit",
+      "katsayi": 0.1,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "i.4",
+      "kanunYeri": "Md. 102/i-4",
+      "aciklama": "İş göremezlik ödeneği için belgenin Kurum'a verilmemesi",
+      "kriterAciklama": "Sabit",
+      "katsayi": 0.5,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "j.",
+      "kanunYeri": "Md. 102/j",
+      "aciklama": "Sigortalı işten ayrılış bildirgesinin verilmemesi veya geç verilmesi",
+      "kriterAciklama": "Sigortalı sayısı kadar",
+      "katsayi": 0.1,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 9999.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "m.1.",
+      "kanunYeri": "Md. 102/m-1",
+      "aciklama": "Muhtasar ve APHB: Günü ve primi eksik (Asıl)",
+      "kriterAciklama": "APHB eksik verme",
+      "katsayi": 0.2,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 2.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "m.2.",
+      "kanunYeri": "Md. 102/m-2",
+      "aciklama": "Muhtasar ve APHB: Günü ve primi eksik (Ek)",
+      "kriterAciklama": "APHB eksik verme",
+      "katsayi": 0.125,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 2.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "m.3.",
+      "kanunYeri": "Md. 102/m-3",
+      "aciklama": "Muhtasar ve APHB: Günü ve primi eksik (Resen Düzenleme)",
+      "kriterAciklama": "APHB eksik verme",
+      "katsayi": 0.5,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 2.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "m.4.a",
+      "kanunYeri": "Md. 102/m-4a",
+      "aciklama": "Muhtasar ve APHB: Müfettiş tespiti – Bilanço esası",
+      "kriterAciklama": "APHB eksik verme",
+      "katsayi": 1.0,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 3.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "m.4.b",
+      "kanunYeri": "Md. 102/m-4b",
+      "aciklama": "Muhtasar ve APHB: Müfettiş tespiti – Diğer defterler",
+      "kriterAciklama": "APHB eksik verme",
+      "katsayi": 0.5,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 2.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "m.4.c",
+      "kanunYeri": "Md. 102/m-4c",
+      "aciklama": "Muhtasar ve APHB: Müfettiş tespiti – Defter tutmak zorunda olmayanlar",
+      "kriterAciklama": "APHB eksik verme",
+      "katsayi": 0.34,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 1.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "m.4.ç",
+      "kanunYeri": "Md. 102/m-4ç",
+      "aciklama": "Muhtasar ve APHB: Müfettiş tespiti – Günü tam ama primi eksik",
+      "kriterAciklama": "APHB eksik verme",
+      "katsayi": 1.0,
+      "altSinirKatsayi": 0.1,
+      "ustSinirKatsayi": 2.0,
+      "kanun": "5510"
+    },
+    {
+      "kod": "n.",
+      "kanunYeri": "Md. 102/n",
+      "aciklama": "Meslek kodlarının hatalı/yanlış bildirilmesi",
+      "kriterAciklama": "Sigortalı sayısı kadar",
+      "katsayi": 0.1,
+      "altSinirKatsayi": 0.0,
+      "ustSinirKatsayi": 1.0,
+      "kanun": "5510"
+    }
+  ]
+}
