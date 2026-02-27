@@ -1,0 +1,481 @@
+{
+  "mevzuat": [
+    {
+      "numara": "-",
+      "tamAd": "ASGARİ İŞÇİLİK VE 102-E BENDİNİN UYGULANMASI",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/ASGARI_ISCILIK_VE_102E_BENDININ_UYGULANMASI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Çalıştay Raporu",
+      "kategori": "DİĞER",
+      "dayanak": "RTB",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/CALISTAY_RAPORU.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "UNVAN BAZINDA İŞ-GÖREV TANIMLARI KİTABI - 2011",
+      "kategori": "DİĞER",
+      "dayanak": "2011/35 SAYILI GENELGE",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/UNVAN_BAZINDA_IS_GOREV_TANIMLARI_2011.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "UNVAN BAZINDA İŞ-GÖREV TANIMLARI KİTABI - 2012",
+      "kategori": "DİĞER",
+      "dayanak": "2012/26 SAYILI GENELGE",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/UNVAN_BAZINDA_IS_GOREV_TANIMLARI_2012.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Sağlık Hizmet Sunucuları İnceleme ve Kontrol Standartları",
+      "kategori": "DİĞER",
+      "dayanak": "2012/41 SAYILI GENELGE",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/SAGLIK_HIZMET_SUNUCULARI_INCELEME_VE_KONTROL.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Sosyal Güvenlik Denetmenleri Standartları",
+      "kategori": "DİĞER",
+      "dayanak": "2013/5 SAYILI GENELGE",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/SOSYAL_GUVENLIK_DENETMENLERI_STANDARTLARI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "UNVAN BAZINDA İŞ-GÖREV TANIMLARI KİTABI - 2014",
+      "kategori": "DİĞER",
+      "dayanak": "2014/14 SAYILI GENELGE",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/UNVAN_BAZINDA_IS_GOREV_TANIMLARI_2014.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "UNVAN BAZINDA İŞ-GÖREV TANIMLARI KİTABI - 2017",
+      "kategori": "DİĞER",
+      "dayanak": "2017/23 SAYILI GENELGE",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/UNVAN_BAZINDA_IS_GOREV_TANIMLARI_2017.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "SGK İPC UYGULAMASI KİTAPÇIĞI",
+      "kategori": "KİTAPÇIK",
+      "dayanak": "2020/8 SAYILI GENELGE",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/SGK_IPC_UYGULAMASI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "İNSAN KAYNAKLARI TERİMLERİ SÖZLÜĞÜ",
+      "kategori": "SÖZLÜK",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/INSAN_KAYNAKLARI_TERIMLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "TAHSİSTE VEKİLİN AVUKAT, SM, SMMM OLMASINA GEREK OLMAMASI",
+      "kategori": "BİLGİ YAZISI",
+      "dayanak": "-",
+      "guncellemeTarihi": "22/02/2026",
+      "dosya": "diger/TAHSISTE_VEKILIN_AVUKAT_SM_SMMM_OLMASI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "İdari para cezalarında yapılacak indirim",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "22/02/2026",
+      "dosya": "diger/IPC_YAPILACAK_INDIRIM.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "5510 SAYILI KANUNUN 100 VE 102 NCI MADDELERİ KAPSAMINDAKİ KURUM UYGULAMALARI",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "22/02/2026",
+      "dosya": "diger/5510_SAYILI_KANUNUN_100_VE_102_NCI_MADDELERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "KESİNLEŞMEYEN İŞ MAHKEMESİ KARARI - APHB VE İPC",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/KESINLESMEYEN_IS_MAHKEMESI_KARARLARI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "YAPAY ZEKA SİSTEMLERİNİN KULLANIMINDA KAMU GÖREVLİLERİNİN UYMASI GEREKEN ETİK DAVRANIŞ İLKELERİ",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/YAPAY_ZEKA_SISTEMLERININ_KULLANIMI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "YABANCI UYRUKLU KAÇAK İŞÇİLERİN PRİME ESAS KAZANCI",
+      "kategori": "MÜTALAA",
+      "dayanak": "RTB",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/YABANCI_UYRUKLU_SISTEMLERININ.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "İZİNSİZ ÇALIŞTIĞI TESPİT EDİLEN YABANCILARIN DENETİM ELEMANLARINCA İVEDİLİKLE KOLLUK BİRİMLERİNE BİLDİRİLMESİ",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/İZİNSİZ_ÇALIŞTIĞI_SISTEMLERININ_EDİLEN YA.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "GEÇİCİ GÖREVLE ÜLKEMİZE GELEN YABANCI UYRUKLULARIN SİGORTALILIĞI HAKKINDA DUYURU",
+      "kategori": "DUYURU",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/GECICI_GOREVLE_ULKEMIZE_GELEN_YABANCI_UYRUKLULAR.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "SAVUNMA ALINMASI",
+      "kategori": "DİĞER",
+      "dayanak": "RTB",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/SAVUNMA_ALINMASI_SISTEMLERININ.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "SAĞLIK HİZMET SUNUCULARININ BASAMAKLANDIRILMASI",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/SAGLIK_HIZMET_SUNUCULARININ_BASAMAKLANDIRILMASI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "PASAPORT VE PASAPORT YERİNE GEÇEN BELGELER",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/PASAPORT_VE_PASAPORT_YERINE_GECEN_BELGELER.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "BASINA BİLGİ VE DEMEÇ VERME",
+      "kategori": "DİĞER",
+      "dayanak": "5502 - 657",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/BASINA_BILGI_VE_DEMEC_VERME.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "NAKİL DURUMUNDA ŞUBAT AYI BİLDİRİMİ",
+      "kategori": "DUYURU",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/NAKIL_DURUMUNDA_SUBAT_AYI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "BAZI İŞ KOLLARINDA ASGARİ İŞÇİLİK ORANI TESPİTİ",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/BAZI_IS_KOLLARINDA_AIO_TESPITI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "MESLEK HASTALIĞI TESPİT HASTANELERİ",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/MESLEK_HASTALIGI_TESPIT_HASTANELERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Serbest Muhasebeci Mali Müşavirlerin Rapor Düzenleme Sınırı",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/SMMM_RAPOR_DUZENLEME.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "PERSONEL ÇALIŞTIRILMAKSIZIN SONUÇ KARŞILIĞI LABORATUVAR HİZMETLERİ",
+      "kategori": "DİĞER",
+      "dayanak": "CUMHURBAŞKANLIĞI",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/PERSONEL_CALISTIRILMAKSIZIN_SISTEMLERININ.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Kep ile Yapılan İş Kazası Bildirimleri",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/KEP_ILE_YAPILAN_IS_KAZASI_BILDIRIMLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "KISA ÇALIŞMA ÖDENEĞİ ALANLAR",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/KISA_CALISMA_ODENEGI_ALANLAR.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "EVDE DOĞUM BELGESİ HAKKINDA",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/EVDE_DOGUM_BELGESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "İŞ KAZASI TESPİTİNDE MESLEK KODU HAKKINDA DUYURU",
+      "kategori": "DUYURU",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/IS_KAZASI_TESPITINDE_MESLEK_KODU.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "5510 SAYILI KANUNUN 21 İNCİ MADDESİNİN 5 İNCİ FIKRASI HAKKINDA",
+      "kategori": "DİĞER",
+      "dayanak": "RTB",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/5510_SAYILI_KANUNUN_21_INCI_MADDESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "HASTANELERİN İŞ KAZASI BİLDİRİMLERİ - İPC HAKKINDA",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/HASTANELERIN_IS_KAZASI_BILDIRIMLER_IPC.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Geçici Görevlendirmelerde Yemek Ücreti",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/GECICI_GOREVLENDIRMELERDE_YEMEK.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "E-REÇETE DUYURUSU",
+      "kategori": "DUYURU",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/EREÇETE_DUYURUSU.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Fiziki Tebligat Gönderme İşlemleri",
+      "kategori": "DUYURU",
+      "dayanak": "RTB",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/FIZIKI_TEBLIGAT_GONDERME_ISLEMLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Disiplin İş ve İşlemlerinde Dikkat Edilecek Hususlar",
+      "kategori": "DİĞER",
+      "dayanak": "CUMHURBAŞKANLIĞI",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/DISIPLIN_IS_VE_ISLEMLERINDE_DIKKAT_EDILECEK_HUSUSLAR.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "ARAÇ BİLGİLERİNİN TALEP EDİLMESİ",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/ARAC_BILGILERININ_TALEP_EDILMESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "AVRUPA BİRLİĞİ'NDE SOSYAL GÜVENLİK",
+      "kategori": "DİĞER",
+      "dayanak": "-",
+      "guncellemeTarihi": "25/02/2026",
+      "dosya": "diger/AVRUPA_BIRLIGINDE_SOSYAL.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "4483 Sayılı Memurların ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun ve Uygulanması",
+      "kategori": "EĞİTİM NOTU",
+      "dayanak": "4483",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/4483_SAYILI_MEMURLARIN_VE_DIGER.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Primlerde Uzlaşma",
+      "kategori": "EĞİTİM NOTU",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/PRIMLERDE_UZLASMA.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "FATURA-HAKEDİŞ",
+      "kategori": "EĞİTİM NOTU",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/FATURA_HAKEDIS.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Gemi Adamları",
+      "kategori": "EĞİTİM NOTU",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/GEMI_ADAMLARI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "İHALELİ İŞLER VE ÖZEL BİNA İNŞAATI",
+      "kategori": "EĞİTİM NOTU",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/IHALELI_ISLER_VE_OZEL_BINA_INSAATI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "İŞSİZLİK SİGORTASI",
+      "kategori": "EĞİTİM NOTU",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "diger/ISSIZLIK_SIGORTASI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "GELİR VE AYLIK BİRLEŞMESİ",
+      "kategori": "EĞİTİM NOTU",
+      "dayanak": "EMEKLİLİK HİZMETLERİ GENEL MÜDÜRLÜĞÜ",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/GELIR_VE_AYLIK_BIRLESMESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Genel Muhasebe Uygulamaları",
+      "kategori": "EĞİTİM NOTU",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/GENEL_MUHASEBE_UYGULAMALARI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "BELGENET EĞİTİMİ",
+      "kategori": "EĞİTİM NOTU",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "diger/BELGENET_EGITIMI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Meslek Hastalıkları Rehberi",
+      "kategori": "BAKANLIK REHBERİ",
+      "dayanak": "-",
+      "guncellemeTarihi": "24/02/2026",
+      "dosya": "diger/MESLEK_HASTALIKLARI_REHBERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "100 SORUDA E-DEFTER",
+      "kategori": "KILAVUZ",
+      "dayanak": "-",
+      "guncellemeTarihi": "25/02/2026",
+      "dosya": "diger/100_SORUDA_EDEFTER.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "SOSYAL GÜVENLİK SÖZLÜĞÜ TR-EN VE EN-TR",
+      "kategori": "SÖZLÜK",
+      "dayanak": "-",
+      "guncellemeTarihi": "25/02/2026",
+      "dosya": "diger/SOSYAL_GUVENLIK_SOZLUGU.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "SOSYAL GÜVENLİK KAPSAMINDAKİ SİGORTALILARIN HAK VE YÜKÜMLÜLÜKLERİ",
+      "kategori": "KILAVUZ",
+      "dayanak": "-",
+      "guncellemeTarihi": "25/02/2026",
+      "dosya": "diger/SOSYAL_GUVENLIK_KAPSAMINDAKI_SIGORTALILARIN_HAK_VE_YUKUMLULUKLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "İZİNSİZ ÇALIŞTIĞI TESPİT EDİLEN YABANCILARIN DENETİM ELEMANLARINCA İVEDİLİKLE KOLLUK BİRİMLERİNE BİLDİRİLMESİ",
+      "kategori": "DİĞER",
+      "dayanak": "ULUSLARARASI İŞGÜCÜ GENEL MÜDÜRLÜĞÜ",
+      "guncellemeTarihi": "27/02/2026",
+      "dosya": "diger/IZINSIZ_CALISTIGI_TESPIT_EDILEN_YABANCILARIN_DENETIM.pdf",
+      "aciklama": ""
+    }
+  ]
+}

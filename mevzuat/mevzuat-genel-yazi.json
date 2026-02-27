@@ -1,0 +1,508 @@
+{
+  "mevzuat": [
+    {
+      "numara": "-",
+      "tamAd": "SOSYAL GÜVENLİK KURUMU EVRAK İŞLEMLERİ HAKKINDA TALİMAT",
+      "kategori": "TALİMAT",
+      "dayanak": "5502/MD.40",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/SGK_EVRAK_ISLEMLERI_TALIMAT.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Kısmi İlişiksizlik",
+      "kategori": "GENEL YAZI",
+      "dayanak": "2011/13 SAYILI GENELGE",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/KISMI_ILISIKSIZLIK.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Alt İşverenlik Bildirimi",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/ALT_ISVERENLIK_BILDIRIMI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "5510 sayılı Kanunun 21 inci maddesinin beşinci fıkrası uygulaması",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/5510_21_INCI_MADDESI_BESINCI_FIKRASI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Geçici İş İlişkisi Mevzuatına Aykırı İşlem Yapılması",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/GECICI_IS_ILISKISI_MEVZUATINA_AYKIRI_ISLEM.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Yapı Birim Maliyetleri",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/YAPI_BIRIM_MALIYETLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Trafik Kazasından Doğan Rücu İşlemleri",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/TRAFIK_KAZASINDAN_DOGAN_RUCU.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Uzaktan Çalışma Gün Bildirimi",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/UZAKTAN_CALISMA_GUN_BILDIRIMI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Ek-9 Kapsamındaki Ev Hizmetleri İşyerlerinin Kolay İşverenlik Kapsamına Alınması",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/EK_9_KAPSAMINDAKI_EV_HIZMETLERI_KOLAY_ISVERENLIK.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "İŞ KAZASINA UĞRAYAN SİGORTALILAR İÇİN DÜZENLENEN EK APHB'DE FAYDALANILAN ASGARİ ÜCRET DESTEĞİ",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/IS_KAZASINA_UGRAYAN_SIGARLILAR_ICIN_DUZENLENEN_EK_APHB.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "EV HİZMETLERİ",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/EV_HIZMETLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Vahidi Fiyat",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/VAHIDI_FIYAT.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Yol ve Yemek Paraları",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/YOL_VE_YEMEK_PARALARI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Mali tatil",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/MALI_TATIL.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Veri Paylaşımı",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/VERI_PAYLASIMI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Grup Başkanlıklarına Yetki Devri",
+      "kategori": "GENEL YAZI",
+      "dayanak": "RTB",
+      "guncellemeTarihi": "12/02/2026",
+      "dosya": "genel-yazi/GRUP_BASKANLIKLARINA_YETKI_DEVRI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "arabulucu tutanaklarina istinaden hizmet verilmesi",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/ARABULUCU_TUTANAKLARINA_ISTINADEN_HIZMET.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "aslı temin edilemeyen kanıtlayıcı belgeler",
+      "kategori": "GENEL YAZI",
+      "dayanak": "SGK HARCAMA BELGELERİ YÖNETMELİĞİ/MD.5",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/ASLI_TEMIN_EDILEMEYEN_KANITLAYICI_BELGELER.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Aylık prim ve hizmet belgesi asma yükümlülüğü",
+      "kategori": "GENEL YAZI",
+      "dayanak": "5510/MD.86",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/AYLIK_PRIM_VE_HIZMET_BELGESI_ASMA_YUKUMLULUGU.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "BİLGİ GÜVENLİĞİ VE ŞİFRELERİN KORUNMASI",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/BILGI_GUVENLIGI_VE_SIFRE_KORUNMASI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Çalışılmadığına Dair Bildirime Bağlı İdari Para Cezalari",
+      "kategori": "GENEL YAZI",
+      "dayanak": "2010/66",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/CALISILMADIGINA_DAIR_BILDIRIME_BAGLI_IPC.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Devamlı Mahiyetteki İşyerlerinde Uzlaşma Uygulaması",
+      "kategori": "GENEL YAZI",
+      "dayanak": "5510/85",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/DEVAMLI_MAHIYETTEKI_ISYERLERINDE_UZLASMA.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Fazla ve Yersiz Ödemelerin Takibi, Tahsili ve Terkini",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/FAZLA_VE_YERSIZ_ODEMELERIN_TAKIBI_TAHSILI_TERKINI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Vekaletnamede Tereddüt Edilen Hususlar",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/VEKALETNAMEDE_TEREDDUT_EDILEN_HUSUSLAR.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Güvenlik Korucularının Sigortalılığı",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/GUVENLIK_KORUCULARININ_SIGORTALILIGI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Hakediş Ödemeleri ve Yapı Kullanma İzin Belgeleri",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/HAKEDIS_ODEMELERI_VE_YAPI_KULLANMA.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Hizmet Bildirme ve Birleştirme İşlemleri ve 4a Hizmet Borçlanma Programları",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/HIZMET_BILDIRME_VE_BIRLESTIRME_ISLEMLERI_VE_4A.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Hizmet Bildirme ve Birleştirme",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/HIZMET_BILDIRME_VE_BIRLESTIRME.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "İdari para cezalarında yapılacak indirim",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/IPC_INDIRIM.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "İşveren Vekili",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/ISVEREN_VEKILI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Kanunun ek 5 inci maddesi Kapsamında Sigortalılık",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/EK_5_SIGORTALILIGI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Kanunun ek 6 inci maddesi Kapsamında Sigortalılık",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/EK_6_SIGORTALILIGI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Mali Tatil Süresinde Çalışmadığına Dair Bildirim",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/MALI_TATILDE_CALISMADIGINA_DAIR_BILDIRIM.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Mobbing Şikayetleri",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/MOBBING_SIKAYETLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Muhtar Sigortalılar",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/MUHTAR_SIGORTALILAR.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Muhtar Sigortalıların Sigortalılıkları",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/MUHTAR_SIGORTALILARIN_SIGORTALILIKLARI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Sanatçıların Sigortalılığı",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/SANATCILARIN_SIGORTALILIGI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Yabancı Dildeki Belgelerin Tercümesi",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/YABANCI_DILDEKI_BELGELERIN_TERCUMESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Yurt Dışı işlemleri",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "21/02/2026",
+      "dosya": "genel-yazi/YURTDISI_ISLEMLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Yurt Dışı Sağlık Uygulamaları",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "22/02/2026",
+      "dosya": "genel-yazi/YURTDISI_SAGLIK_UYGULAMALARI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Yabancı Uyruklu Çalısanların Sigortalılığı",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/YABANCI_UYRUKLU_CALISANLAR.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Toptan Ödemenin İhyası İşlemleri",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/TOPTAN_ODEMENIN_IHYASI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "SOSYAL GÜVENLİK SÖZLEŞMESİ OLMAYAN ÜLKELERDE ÇALIŞTIRILAN TÜRK İŞÇİLER",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/SOSYAL_GUVENLIK_SOZLESMESI_OLMAYAN_ULKELERDE_CALISTIRILAN_TURK_ISCILER.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "SMS BİLGİLENDİRME SİSTEMİ",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/SMS_BILGILENDIRME_SISTEMI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "UZAKTAN BAĞLANTI YETKİSİ",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/UZAKTAN_BAGLANTI_YETKISI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "RESEN İŞYERİ TESCİLLERİ",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/RESEN_ISYERI_TESCILLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Prime Esas Kazancın Üst Sınırını Aşan Primlerin İade İşlemleri",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/PRIME_ESAS_KAZANCIN_UST_SINIRINI_ASAN_PRIMLERIN_IADESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "NOTER VEKİLLERİ",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/NOTER_VEKILLERI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Kamu kurum ve kuruluslarının İş alanlarında çalıstırılan hükümlülerin sigortalılıkları hakkında",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/KAMU_KURUM_VE_KURULUS.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "KISA VADELİ SİGORTA UYGULAMALARI",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/KISA_VADELI_SIGORTA_UYGULAMALARI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "İdari Para Cezalarının İptali Için Açılan Davalarda Yapılacak Savunmalar",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/IPC_IPTALI_ICIN_ACILAN_DAVA.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Grup Başkanlıklarımızın Sorumluluk Alanları",
+      "kategori": "GENEL YAZI",
+      "dayanak": "RTB",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/GRUP_BASKANLIKLARIMIZIN_SORUMLULUK_ALANLARI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Gemi Adamları G.S.S. Tescil Islemleri",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/GEMI_ADAMLARI_GSS_TESCIL.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "Emekli Ikramiyesi",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/EMEKLILIK_IKRAMIYESI.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "APARTMAN VE SİTE YÖNETİMLERİNİN DEFTER TÜRLERİ HAKKINDA",
+      "kategori": "GENEL YAZI",
+      "dayanak": "-",
+      "guncellemeTarihi": "23/02/2026",
+      "dosya": "genel-yazi/APARTMAN_VE_SITE_YONETIMI_DEFTER_TURU.pdf",
+      "aciklama": ""
+    },
+    {
+      "numara": "-",
+      "tamAd": "MEMURİYET MAHALLİ İÇİNDE YOL MASRAFI",
+      "kategori": "GENEL YAZI",
+      "dayanak": "6245",
+      "guncellemeTarihi": "25/02/2026",
+      "dosya": "genel-yazi/MEMURIYET_MAHALLI_ICINDE_YOL_MASRAFI.pdf",
+      "aciklama": ""
+    }
+  ]
+}
