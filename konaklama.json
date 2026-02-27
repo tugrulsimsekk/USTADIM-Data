@@ -1,0 +1,3964 @@
+{
+  "konaklama": [
+    {
+      "sira": 1,
+      "il": "ADANA",
+      "yer": "ŞENBAYRAK CİTY",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SEBAHAT HANIM)",
+      "telefon": "(0507) 441 28 81"
+    },
+    {
+      "sira": 2,
+      "il": "ADANA",
+      "yer": "DEFTERDARLIK KONUKEVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(İSMAİL BEY)",
+      "telefon": "(0538) 400 66 15"
+    },
+    {
+      "sira": 3,
+      "il": "ADIYAMAN",
+      "yer": "PERRE UYGULAMA  OTELİ",
+      "konsept": "KAHVALTI VE AKŞAM YEMEĞİ DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SIRRI BEY)",
+      "telefon": "(0532) 459 70 02"
+    },
+    {
+      "sira": 4,
+      "il": "ADIYAMAN",
+      "yer": "ADIYAMAN POLİSEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SEMRA HANIM)",
+      "telefon": "(0416) 225 04 71"
+    },
+    {
+      "sira": 5,
+      "il": "AFYONKARAHİSAR",
+      "yer": "SOYDAN HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MEHMET BEY)",
+      "telefon": "(0272) 215 23 23"
+    },
+    {
+      "sira": 6,
+      "il": "AFYONKARAHİSAR",
+      "yer": "AFBEL TERMAL & SPA OTEL",
+      "konsept": "KAHVALTI VE AKŞAM YEMEĞİ DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(HARUN BEY)",
+      "telefon": "(0272) 999 16 50"
+    },
+    {
+      "sira": 7,
+      "il": "AFYONKARAHİSAR",
+      "yer": "MCG ÇAKMAK MARBLE HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(HATİCE HANIM)",
+      "telefon": "(0272) 333 3196"
+    },
+    {
+      "sira": 8,
+      "il": "AĞRI",
+      "yer": "ALP OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ERSİN BEY)",
+      "telefon": "(0545) 257 04 04"
+    },
+    {
+      "sira": 9,
+      "il": "AĞRI",
+      "yer": "AĞRI ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL (SUİT ODA)",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0472) 215 30 06"
+    },
+    {
+      "sira": 10,
+      "il": "AKSARAY",
+      "yer": "KUZUCULAR PARK OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(TUNCAY BEY)",
+      "telefon": "(0382) 203 03 33"
+    },
+    {
+      "sira": 11,
+      "il": "AMASYA",
+      "yer": "EMİN EFENDİ KONAKLARI",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ERTUĞRUL BEY)",
+      "telefon": "(0358) 213 00 33"
+    },
+    {
+      "sira": 12,
+      "il": "AMASYA",
+      "yer": "AMASYA ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0358) 218 18 41"
+    },
+    {
+      "sira": 13,
+      "il": "ANKARA",
+      "yer": "BAŞKENT KONUKEVİ",
+      "konsept": "UZUN SÜRELİ KONAKLAMALARDA KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SELİN HANIM)",
+      "telefon": "(0532) 581 76 40"
+    },
+    {
+      "sira": 14,
+      "il": "ANKARA",
+      "yer": "KONUR HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(EBUBEKİR BEY)",
+      "telefon": "(0553) 670 01 57"
+    },
+    {
+      "sira": 15,
+      "il": "ANTALYA",
+      "yer": "MANDALİN OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MEHMET BEY)",
+      "telefon": "(0242) 227 70 33"
+    },
+    {
+      "sira": 16,
+      "il": "ARDAHAN",
+      "yer": "KAFKAS ARİ HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(HÜSEYİN BEY)",
+      "telefon": "(0478) 211 36 80"
+    },
+    {
+      "sira": 17,
+      "il": "ARTVİN/HOPA",
+      "yer": "KÖŞK OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0466) 351 24 00"
+    },
+    {
+      "sira": 18,
+      "il": "ARTVİN",
+      "yer": "ARTVİN ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0466) 212 36 35"
+    },
+    {
+      "sira": 19,
+      "il": "ARTVİN",
+      "yer": "DSİ MİSAFİRHANESİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0466) 238 25 02"
+    },
+    {
+      "sira": 20,
+      "il": "AYDIN",
+      "yer": "AYDIN EFELER OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ERCAN BEY)",
+      "telefon": "(0544) 440 00 58"
+    },
+    {
+      "sira": 21,
+      "il": "AYDIN",
+      "yer": "AYDIN PARK OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(CANSU HANIM)",
+      "telefon": "(0530) 545 83 33"
+    },
+    {
+      "sira": 22,
+      "il": "AYDIN",
+      "yer": "LORD OTEL AYDIN",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ /İDARE(ORÇUN BEY)",
+      "telefon": "(0538) 256 29 25"
+    },
+    {
+      "sira": 23,
+      "il": "BALIKESİR",
+      "yer": "ELİT ASYA HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(EBRU HANIM)",
+      "telefon": "(0266) 243 55 00"
+    },
+    {
+      "sira": 24,
+      "il": "BALIKESİR",
+      "yer": "İPEK OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SERKAN BEY)",
+      "telefon": "(0543) 404 95 85"
+    },
+    {
+      "sira": 25,
+      "il": "BALIKESİR",
+      "yer": "ÖZDEMİR OTEL",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/ İDARE(ENES BEY)",
+      "telefon": "(0533) 160 64 10"
+    },
+    {
+      "sira": 26,
+      "il": "BALIKESİR",
+      "yer": "BALIKESİR UYGULAMA OTELİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(OSMAN BEY)",
+      "telefon": "(0530) 842 18 81"
+    },
+    {
+      "sira": 27,
+      "il": "BALIKESİR",
+      "yer": "RAMADA RESİDENCES BY WYNDHAM BALİKESİR",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(AŞKIN BEY)",
+      "telefon": "(0266) 245 60 60"
+    },
+    {
+      "sira": 28,
+      "il": "BALIKESİR/AYVALIK",
+      "yer": "AYVALIK UYGULAMA OTELİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MUHAMMET BEY)",
+      "telefon": "(0533) 024 20 13"
+    },
+    {
+      "sira": 29,
+      "il": "BARTIN",
+      "yer": "FATMA HANIM KONAĞI",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ÖMER BEY)",
+      "telefon": "(0378) 228 81 00"
+    },
+    {
+      "sira": 30,
+      "il": "BARTIN",
+      "yer": "BARTIN EMNİYET OTEL",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MURAT BEY)",
+      "telefon": "(0535) 686 74 00"
+    },
+    {
+      "sira": 31,
+      "il": "BATMAN",
+      "yer": "ATLIHAN PARK OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MESUT BEY)",
+      "telefon": "(0539) 826 82 72"
+    },
+    {
+      "sira": 32,
+      "il": "BATMAN",
+      "yer": "BOZOOĞULLARI HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(BÜŞRA HANIM)",
+      "telefon": "(0488) 215 04 44"
+    },
+    {
+      "sira": 33,
+      "il": "BATMAN",
+      "yer": "HOTEL İZGİ TURHAN",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SEDAT BEY)",
+      "telefon": "(0488) 214 55 02"
+    },
+    {
+      "sira": 34,
+      "il": "BAYBURT",
+      "yer": "BAYBERD HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(YASİN BEY)",
+      "telefon": "(0542) 237 00 69"
+    },
+    {
+      "sira": 35,
+      "il": "BAYBURT",
+      "yer": "BÜYÜK BAYBURT OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MUHAMMET BEY)",
+      "telefon": "(0458) 216 16 16"
+    },
+    {
+      "sira": 36,
+      "il": "BİLECİK",
+      "yer": "BİLECİK ÖĞRETMENEVİ VE ASO MÜDÜRLÜĞÜ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0228) 212 50 51"
+    },
+    {
+      "sira": 37,
+      "il": "BİLECİK",
+      "yer": "HOTEL ERONUR",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(BURAK BEY)",
+      "telefon": "(0228) 212 05 55"
+    },
+    {
+      "sira": 38,
+      "il": "BİLECİK",
+      "yer": "ŞEYH EDEBALİ ÜNİVERSİTESİ PELİTÖZÜ GÖLPARK MİSAFİRHANESİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(İBRAHİM BEY)",
+      "telefon": "(0228) 214 19 19"
+    },
+    {
+      "sira": 39,
+      "il": "BİNGÖL",
+      "yer": "BİNGÖL ÜNİVERSİTESİ MİSAFİRHANESİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ÖMER BEY)",
+      "telefon": "(0426) 216 01 13"
+    },
+    {
+      "sira": 40,
+      "il": "BİNGÖL",
+      "yer": "BİNGÖL POLİSEVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0426) 213 19 20"
+    },
+    {
+      "sira": 41,
+      "il": "BİTLİS",
+      "yer": "TATVAN KARDELEN OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SALİH BEY)",
+      "telefon": "(0434) 827 95 00"
+    },
+    {
+      "sira": 42,
+      "il": "BİTLİS",
+      "yer": "BİTLİS MERKEZ ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0552) 456 41 13"
+    },
+    {
+      "sira": 43,
+      "il": "BİTLİS",
+      "yer": "BİTLİS POLİS EVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0434) 226 55 07"
+    },
+    {
+      "sira": 44,
+      "il": "BOLU",
+      "yer": "BOLU GRAND KÖROĞLU OTEL",
+      "konsept": "KAHVALTI VE AKŞAM YEMEĞİ DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(DURMUŞ BEY)",
+      "telefon": "(0374) 212 53 48"
+    },
+    {
+      "sira": 45,
+      "il": "BOLU",
+      "yer": "HAMPTON BY HİLTON BOLU",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(NİMET HANIM)",
+      "telefon": "(0374) 254 50 00"
+    },
+    {
+      "sira": 46,
+      "il": "BURDUR",
+      "yer": "BURDUR ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(AFİFE HANIM)",
+      "telefon": "(0248) 233 36 34"
+    },
+    {
+      "sira": 47,
+      "il": "BURDUR",
+      "yer": "YALÇINDAĞ OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(EMRE BEY)",
+      "telefon": "(0248) 233 12 12"
+    },
+    {
+      "sira": 48,
+      "il": "BURSA",
+      "yer": "BURSA ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ŞEVVAL HANIM)",
+      "telefon": "(0224) 224 21 62"
+    },
+    {
+      "sira": 49,
+      "il": "BURSA",
+      "yer": "BURSA LOYAL CITY HOTEL & SPA",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(AYŞEGÜL HANIM)",
+      "telefon": "(0538) 479 34 89"
+    },
+    {
+      "sira": 50,
+      "il": "BURSA",
+      "yer": "BURSA MALKOÇ OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(HİDAYET HANIM)",
+      "telefon": "(0224) 220 21 00"
+    },
+    {
+      "sira": 51,
+      "il": "ÇANAKKALE",
+      "yer": "ŞEHİT YAKINLARI VE GAZİ EVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0286) 217 58 81"
+    },
+    {
+      "sira": 52,
+      "il": "ÇANAKKALE",
+      "yer": "ARMİDA CİTY HOTEL",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(YELİZ HANIM)",
+      "telefon": "(0286) 616 00 00"
+    },
+    {
+      "sira": 53,
+      "il": "ÇANAKKALE",
+      "yer": "PARION HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0552) 352 55 59"
+    },
+    {
+      "sira": 54,
+      "il": "ÇANAKKALE",
+      "yer": "GRAND ECE OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(YAZGAN BEY)",
+      "telefon": "(0286) 213 93 45"
+    },
+    {
+      "sira": 55,
+      "il": "ÇANKIRI",
+      "yer": "ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0376) 213 30 27"
+    },
+    {
+      "sira": 56,
+      "il": "ÇANKIRI",
+      "yer": "ÇANKIRI BÜYÜK OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0376) 213 38 39"
+    },
+    {
+      "sira": 57,
+      "il": "ÇORUM",
+      "yer": "ÇORUM ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(HATİCE HANIM)",
+      "telefon": "(0364) 221 75 47"
+    },
+    {
+      "sira": 58,
+      "il": "ÇORUM",
+      "yer": "ANİTTA HOTEL ÇORUM",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(TEKİN BEY)",
+      "telefon": "444 0 819"
+    },
+    {
+      "sira": 59,
+      "il": "DENİZLİ",
+      "yer": "BULUT HOTEL DENİZLİ",
+      "konsept": "KAHVALTI VE AKŞAM YEMEĞİ DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SÜHEYDA HANIM)",
+      "telefon": "(0258) 263 05 88"
+    },
+    {
+      "sira": 60,
+      "il": "DENİZLİ",
+      "yer": "HALLEY OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ERTAN BEY)",
+      "telefon": "(0258) 261 95 44"
+    },
+    {
+      "sira": 61,
+      "il": "DENİZLİ",
+      "yer": "PİŞKİN OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SERKAN BEY)",
+      "telefon": "(0541) 264 56 48"
+    },
+    {
+      "sira": 62,
+      "il": "DİYARBAKIR",
+      "yer": "YENİŞEHİR ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0412) 223 91 91"
+    },
+    {
+      "sira": 63,
+      "il": "DİYARBAKIR",
+      "yer": "PRESTİGE HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0412) 229 50 50"
+    },
+    {
+      "sira": 64,
+      "il": "DİYARBAKIR",
+      "yer": "CARTİER LUXURY OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(HARUN BEY)",
+      "telefon": "(0506) 242 20 21"
+    },
+    {
+      "sira": 65,
+      "il": "DİYARBAKIR",
+      "yer": "GRAND GÜLER OTEL",
+      "konsept": "KAHVALTI VE AKŞAM YEMEĞİ DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(DENİZ BEY)",
+      "telefon": "(0412) 229 22 21"
+    },
+    {
+      "sira": 66,
+      "il": "DİYARBAKIR",
+      "yer": "MİROĞLU OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SEVİLAY HANIM)",
+      "telefon": "(0412) 229  60 00"
+    },
+    {
+      "sira": 67,
+      "il": "DÜZCE",
+      "yer": "TURAN OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "444 9 781"
+    },
+    {
+      "sira": 68,
+      "il": "DÜZCE",
+      "yer": "GÖSTERİŞLİ OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0380) 524 11 33"
+    },
+    {
+      "sira": 69,
+      "il": "EDİRNE",
+      "yer": "ÖZEN HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(UĞUR BEY)",
+      "telefon": "(0533) 651 00 89"
+    },
+    {
+      "sira": 70,
+      "il": "EDİRNE",
+      "yer": "ALAN SUİTES HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(BİKE HANIM)",
+      "telefon": "(0530) 140 52 92-(0284) 212 44 45"
+    },
+    {
+      "sira": 71,
+      "il": "EDİRNE",
+      "yer": "MARGİ OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(BURCU HANIM)",
+      "telefon": "(0284) 236 62 36"
+    },
+    {
+      "sira": 72,
+      "il": "EDİRNE",
+      "yer": "DSİ 11. BÖLGE MİSAFİRHANESİ VE SOSYAL TESİSLERİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0284) 214 81 85"
+    },
+    {
+      "sira": 73,
+      "il": "EDİRNE",
+      "yer": "BALTA OTELCİLİK VE TURİZM İŞLETMELERİ A.Ş. EDİRNE",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(GÖKHAN BEY)",
+      "telefon": "(0284) 225 52 10"
+    },
+    {
+      "sira": 74,
+      "il": "EDİRNE",
+      "yer": "EDİRNE  POLİSEVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0284) 213 92 39"
+    },
+    {
+      "sira": 75,
+      "il": "ELAZIĞ",
+      "yer": "DOUBLETREE BY HİLTON HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(VELİ BEY)",
+      "telefon": "(0424) 234 50 00"
+    },
+    {
+      "sira": 76,
+      "il": "ELAZIĞ",
+      "yer": "DEFTARDARLIK MİSAFİRHANESİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0424) 502 32 32"
+    },
+    {
+      "sira": 77,
+      "il": "ELAZIĞ",
+      "yer": "AKGÜN OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(YUNUS BEY)",
+      "telefon": "(0424) 248 20 00"
+    },
+    {
+      "sira": 78,
+      "il": "ELAZIĞ",
+      "yer": "ŞİRİN OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(YAVUZ BEY)",
+      "telefon": "(0424) 238 41 42"
+    },
+    {
+      "sira": 79,
+      "il": "ERZİNCAN",
+      "yer": "KONAK MAZLUM OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(CANER BEY)",
+      "telefon": "444 3 024"
+    },
+    {
+      "sira": 80,
+      "il": "ERZİNCAN",
+      "yer": "PARADİSE HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MİNA HANIM)",
+      "telefon": "(0446) 212 44 44"
+    },
+    {
+      "sira": 81,
+      "il": "ERZİNCAN",
+      "yer": "DSİ MİSAFİRHANESİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0446) 224 16 00"
+    },
+    {
+      "sira": 82,
+      "il": "ERZURUM",
+      "yer": "NOEM OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0442) 238 00 02"
+    },
+    {
+      "sira": 83,
+      "il": "ERZURUM",
+      "yer": "ERZURUM ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0442) 235 45 25"
+    },
+    {
+      "sira": 84,
+      "il": "ERZURUM",
+      "yer": "ATATÜRK ÜNİVERSİTESİNE AİT KONUKEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0442) 231 12 00"
+    },
+    {
+      "sira": 85,
+      "il": "ERZURUM",
+      "yer": "OTEL ÇINAR",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(KERİM BEY)",
+      "telefon": "(0534) 945 41 42"
+    },
+    {
+      "sira": 86,
+      "il": "ERZURUM",
+      "yer": "ATLAS OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SABRİ BEY)",
+      "telefon": "(0552) 399 00 25"
+    },
+    {
+      "sira": 87,
+      "il": "ESKİŞEHİR",
+      "yer": "HELLO ESKİŞEHİR HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0222)516 22 26"
+    },
+    {
+      "sira": 88,
+      "il": "ESKİŞEHİR",
+      "yer": "ŞEHİR REZİDANS",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0506) 042 03 03"
+    },
+    {
+      "sira": 89,
+      "il": "ESKİŞEHİR",
+      "yer": "ESKİŞEHİR DEFTERDARLIĞI MİSAFİRHANESİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(YAŞAR BEY)",
+      "telefon": "(0222) 213 57 00"
+    },
+    {
+      "sira": 90,
+      "il": "ESKİŞEHİR",
+      "yer": "ARNEY SUİTES",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE( RECEP BEY)",
+      "telefon": "(0530) 469 16 26"
+    },
+    {
+      "sira": 91,
+      "il": "GAZİANTEP",
+      "yer": "POLİS EVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0505) 318 27 40"
+    },
+    {
+      "sira": 92,
+      "il": "GİRESUN",
+      "yer": "ARİPSAS HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(İZZET BEY)",
+      "telefon": "(0539) 573 93 03"
+    },
+    {
+      "sira": 93,
+      "il": "GİRESUN",
+      "yer": "FINDIKKABUĞU APART HOTEL",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SEDEF HANIM)",
+      "telefon": "(0531) 422 58 31"
+    },
+    {
+      "sira": 94,
+      "il": "GİRESUN",
+      "yer": "GİRESUN ORMAN BÖLGE MÜDÜRLÜĞÜ MİSAFİRHANESİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0454) 217 06 28"
+    },
+    {
+      "sira": 95,
+      "il": "GİRESUN",
+      "yer": "SEDEF OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0452) 666 11 11"
+    },
+    {
+      "sira": 96,
+      "il": "GÜMÜŞHANE",
+      "yer": "RAMADA BY WYNDHAM",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0456) 329 29 29"
+    },
+    {
+      "sira": 97,
+      "il": "GÜMÜŞHANE",
+      "yer": "ATALAY OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(KARABEY BEY)",
+      "telefon": "(0456) 213 29 03"
+    },
+    {
+      "sira": 98,
+      "il": "GÜMÜŞHANE",
+      "yer": "ÇİMENLER OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(UĞUR BEY)",
+      "telefon": "(0456) 213 33 33"
+    },
+    {
+      "sira": 99,
+      "il": "HAKKARİ",
+      "yer": "ŞENLER HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(İSMET BEY)",
+      "telefon": "(0438) 211 38 08"
+    },
+    {
+      "sira": 100,
+      "il": "HAKKARİ",
+      "yer": "HAKKARİ ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ŞEFİK BEY)",
+      "telefon": "(0438) 216 00 04"
+    },
+    {
+      "sira": 101,
+      "il": "HATAY",
+      "yer": "BAYAZIT HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(KAZIM BEY)",
+      "telefon": "(0326) 614 25 50"
+    },
+    {
+      "sira": 102,
+      "il": "HATAY",
+      "yer": "HATAY ÖĞRETMEN EVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(RUKİYE HANIM)",
+      "telefon": "(0326) 712 28 51"
+    },
+    {
+      "sira": 103,
+      "il": "IĞDIR",
+      "yer": "HOTEL GOLD YILDIRIM",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(DERYA HANIM)",
+      "telefon": "(0532) 603 85 03"
+    },
+    {
+      "sira": 104,
+      "il": "IĞDIR",
+      "yer": "IĞDIR ÜNİVERSİTESİ UYGULAMA OTELİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0476) 227 00 88"
+    },
+    {
+      "sira": 105,
+      "il": "ISPARTA",
+      "yer": "KOÇ OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ADEM BEY)",
+      "telefon": "(0246) 228 19 60"
+    },
+    {
+      "sira": 106,
+      "il": "ISPARTA",
+      "yer": "HOTEL ARTAN",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(TUĞÇE HANIM)",
+      "telefon": "(0246) 232 57 00"
+    },
+    {
+      "sira": 107,
+      "il": "İSTANBUL",
+      "yer": "ABİDİN PAK ÖĞRETMEN EVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0212) 502 24 11"
+    },
+    {
+      "sira": 108,
+      "il": "İSTANBUL",
+      "yer": "ŞİŞLİ ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ÜMİT BEY)",
+      "telefon": "(0212) 296 89 72"
+    },
+    {
+      "sira": 109,
+      "il": "İZMİR",
+      "yer": "THE ROYAL'S HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(GÖKÇE HANIM)",
+      "telefon": "(0506) 048 18 18"
+    },
+    {
+      "sira": 110,
+      "il": "İZMİR",
+      "yer": "GRAND HEKİMOĞLU HOTELS",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(HALE HANIM)",
+      "telefon": "(0232) 446 40 42"
+    },
+    {
+      "sira": 111,
+      "il": "KAHRAMANMARAŞ",
+      "yer": "OTEL BLC",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(REMZİ BEY)",
+      "telefon": "(0344) 225 66 99"
+    },
+    {
+      "sira": 112,
+      "il": "KARABÜK",
+      "yer": "ANEMON KARABÜK OTEL",
+      "konsept": "KAHVALTI VE AKŞAM YEMEĞİ DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MERVE HANIM)",
+      "telefon": "(0370) 502 10 02"
+    },
+    {
+      "sira": 113,
+      "il": "KARABÜK",
+      "yer": "AYGÜR OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MEDET BEY)",
+      "telefon": "(0370) 712 78 78"
+    },
+    {
+      "sira": 114,
+      "il": "KARABÜK",
+      "yer": "SAFRANBOLU ÇELEBİ OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MELEK HANIM)",
+      "telefon": "(0370) 712 28 80"
+    },
+    {
+      "sira": 115,
+      "il": "KARAMAN",
+      "yer": "GRAND KARAMAN OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(FUAT BEY)",
+      "telefon": "(0338) 221 02 02"
+    },
+    {
+      "sira": 116,
+      "il": "KARS",
+      "yer": "KARS POLİSEVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0474) 502 36 55"
+    },
+    {
+      "sira": 117,
+      "il": "KARS",
+      "yer": "KARS ATAPARK BOUTIQUE HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0543) 473 36 36"
+    },
+    {
+      "sira": 118,
+      "il": "KARS",
+      "yer": "IŞIL PARK HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ELİF HANIM)",
+      "telefon": "(0542) 193 24 36"
+    },
+    {
+      "sira": 119,
+      "il": "KASTAMONU",
+      "yer": "UĞURLU KONAKLARI",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(AYŞE HANIM)",
+      "telefon": "(0366) 212 82 02"
+    },
+    {
+      "sira": 120,
+      "il": "KASTAMONU",
+      "yer": "KASTAMONU ŞERİFE BACI ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ŞÜKRAN HANIM)",
+      "telefon": "(0366) 214 64 40"
+    },
+    {
+      "sira": 121,
+      "il": "KAYSERİ",
+      "yer": "GEVHER HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(HÜSEYİN BEY)",
+      "telefon": "(0352) 320 10 10"
+    },
+    {
+      "sira": 122,
+      "il": "KAYSERİ",
+      "yer": "İBİS OTEL KAYSERİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(YÜCEL BEY)",
+      "telefon": "(0352) 207 30 30"
+    },
+    {
+      "sira": 123,
+      "il": "KAYSERİ",
+      "yer": "NÜZHET OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(RAMAZAN BEY)",
+      "telefon": "(0352) 222 20 70"
+    },
+    {
+      "sira": 124,
+      "il": "KAYSERİ",
+      "yer": "KAYZER HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0352) 231 68 00"
+    },
+    {
+      "sira": 125,
+      "il": "KAYSERİ",
+      "yer": "NEWWAY HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ELİF HANIM)",
+      "telefon": "(0352) 320 33 00"
+    },
+    {
+      "sira": 126,
+      "il": "KIRIKKALE",
+      "yer": "GRAND DOĞAN OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ADEM BEY)",
+      "telefon": "(0318) 333 20 12"
+    },
+    {
+      "sira": 127,
+      "il": "KIRKLARELİ",
+      "yer": "LOZENGRAD OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ENES BEY)",
+      "telefon": "(0288) 212 25 00"
+    },
+    {
+      "sira": 128,
+      "il": "KIRKLARELİ",
+      "yer": "LÜLEBURGAZ ÖĞRETMENEVİ VE A.S.O. MÜDÜRLÜĞÜ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0288) 412 27 87"
+    },
+    {
+      "sira": 129,
+      "il": "KIRKLARELİ",
+      "yer": "ROYAL BİLGİÇ HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ENES BEY)",
+      "telefon": "(0530) 145 15 00"
+    },
+    {
+      "sira": 130,
+      "il": "KIRŞEHİR",
+      "yer": "GRAND TERME HOTEL & SPA",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(EMRE BEY)",
+      "telefon": "(0386) 214 47 97"
+    },
+    {
+      "sira": 131,
+      "il": "KİLİS",
+      "yer": "KİLİS POLİSEVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0348) 814 14 24"
+    },
+    {
+      "sira": 132,
+      "il": "KİLİS",
+      "yer": "CANBOLAT LUXURY HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ŞÜKRİYE HANIM)",
+      "telefon": "(0507) 917 01 64"
+    },
+    {
+      "sira": 133,
+      "il": "KOCAELİ",
+      "yer": "LA FLORA HOUSE HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(TUĞÇE HANIM)",
+      "telefon": "(0262) 311 57 87"
+    },
+    {
+      "sira": 134,
+      "il": "KOCAELİ",
+      "yer": "YALI KONAK BUTİK OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE (BÜŞRA HANIM)",
+      "telefon": "(0533) 897 02 29"
+    },
+    {
+      "sira": 135,
+      "il": "KONYA",
+      "yer": "KONYA ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(KEZBAN HANIM)",
+      "telefon": "(0332) 351 22 65"
+    },
+    {
+      "sira": 136,
+      "il": "KONYA",
+      "yer": "NUN OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(AHMET BEY)",
+      "telefon": "(0530) 343 08 25"
+    },
+    {
+      "sira": 137,
+      "il": "KÜTAHYA",
+      "yer": "ŞAHİN TERMAL OTEL & SPA",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0501) 374 43 43"
+    },
+    {
+      "sira": 138,
+      "il": "KÜTAHYA",
+      "yer": "GERMİYAN SUİT OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(274) 606 01 56"
+    },
+    {
+      "sira": 139,
+      "il": "KÜTAHYA",
+      "yer": "KÜTAHYA ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0534) 975 80 90"
+    },
+    {
+      "sira": 140,
+      "il": "KÜTAHYA",
+      "yer": "KÜTAHYA BELEDİYESİ MİSAFİRHANE",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(FURKAN BEY)",
+      "telefon": "(0539) 847 26 96"
+    },
+    {
+      "sira": 141,
+      "il": "MALATYA",
+      "yer": "PIRLANTA OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0422) 502 30 00"
+    },
+    {
+      "sira": 142,
+      "il": "MALATYA",
+      "yer": "AKSAÇ OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(HACI BEY)",
+      "telefon": "(0422) 502 20 00"
+    },
+    {
+      "sira": 143,
+      "il": "MANİSA",
+      "yer": "LİLYUM  HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ALİ BEY)",
+      "telefon": "(0533) 244 63 00"
+    },
+    {
+      "sira": 144,
+      "il": "MANİSA",
+      "yer": "ANEMON MANİSA",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SUAT BEY)",
+      "telefon": "(0236) 233 41 41"
+    },
+    {
+      "sira": 145,
+      "il": "MANİSA",
+      "yer": "CAN DELUXE HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(PINAR HANIM)",
+      "telefon": "(0537) 356 77 56"
+    },
+    {
+      "sira": 146,
+      "il": "MARDİN",
+      "yer": "YAY GRAND OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(DENİZ BEY)",
+      "telefon": "(0482) 212 57 77"
+    },
+    {
+      "sira": 147,
+      "il": "MARDİN",
+      "yer": "RAYMAR HOTELS MARDİN",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(BAŞAK HANIM)",
+      "telefon": "(0482) 502 34 34"
+    },
+    {
+      "sira": 148,
+      "il": "MERSİN",
+      "yer": "HOSTAPARK HOTEL",
+      "konsept": "KAHVALTI DAHİL  (AKŞAM YEMEĞİ İÇİN ANLAŞMALI RESTORANDAN %20 İNDİRİM)",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SERDAR BEY)",
+      "telefon": "(0324) 336 18 00"
+    },
+    {
+      "sira": 149,
+      "il": "MERSİN",
+      "yer": "OTHELLO HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MELEK HANIM)",
+      "telefon": "(0530) 603 10 10-(0324) 237 50 28"
+    },
+    {
+      "sira": 150,
+      "il": "MERSİN",
+      "yer": "GRAND BOSS SUİT OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ABDULLAH BEY)",
+      "telefon": "(0555) 146 51 33"
+    },
+    {
+      "sira": 151,
+      "il": "MUĞLA",
+      "yer": "YALÇIN OTELCİLİK İŞLETMELERİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(EMİN BEY)",
+      "telefon": "(0252) 214 15 99"
+    },
+    {
+      "sira": 152,
+      "il": "MUĞLA",
+      "yer": "MUĞLA MENTEŞE ÖĞRETMEN EVİ VE AKŞAM SANAT OKULU",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ONUR BEY)",
+      "telefon": "(0252) 214 53 36-(0252) 214 10 77"
+    },
+    {
+      "sira": 153,
+      "il": "MUĞLA",
+      "yer": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ SOSYAL TESİSLER KONUK EVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ZERRİN HANIM)",
+      "telefon": "(0252) 211 21 99"
+    },
+    {
+      "sira": 154,
+      "il": "MUĞLA",
+      "yer": "BODRUM DENİZ OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(OKTAY BEY)",
+      "telefon": "(0536) 656 40 65"
+    },
+    {
+      "sira": 155,
+      "il": "MUĞLA",
+      "yer": "AKYAKA ÖZGEM APART",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ÖZGE HANIM)",
+      "telefon": "(0552) 494 44 46"
+    },
+    {
+      "sira": 156,
+      "il": "MUŞ",
+      "yer": "GRAND MUŞ OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0436) 249 00 00"
+    },
+    {
+      "sira": 157,
+      "il": "MUŞ",
+      "yer": "HOTEL DİYAR PARİS",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(HAKAN BEY)",
+      "telefon": "(0436) 222 44 44"
+    },
+    {
+      "sira": 158,
+      "il": "MUŞ",
+      "yer": "MİR SARAY OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(DENİZ BEY)",
+      "telefon": "(0436) 222 09 49"
+    },
+    {
+      "sira": 159,
+      "il": "MUŞ",
+      "yer": "MUŞ ÖĞRETMEN EVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0538) 810 33 27"
+    },
+    {
+      "sira": 160,
+      "il": "NEVŞEHİR",
+      "yer": "GRAND ÖZTÜRK OTEL",
+      "konsept": "KAHVALTI VE AKŞAM YEMEĞİ DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(SENA HANIM)",
+      "telefon": "(0384) 213 92 92"
+    },
+    {
+      "sira": 161,
+      "il": "NEVŞEHİR",
+      "yer": "VE HOTELS KAPADOKYA",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ALİ BEY)",
+      "telefon": "(0384) 213 10 50"
+    },
+    {
+      "sira": 162,
+      "il": "NİĞDE",
+      "yer": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(AYŞEGÜL HANIM)",
+      "telefon": "(0388) 211 29 81"
+    },
+    {
+      "sira": 163,
+      "il": "NİĞDE",
+      "yer": "HOTEL ŞAHİNER NİĞDE",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0388) 232 21 21"
+    },
+    {
+      "sira": 164,
+      "il": "ORDU",
+      "yer": "SİNEMA HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(452) 352 52 52"
+    },
+    {
+      "sira": 165,
+      "il": "ORDU",
+      "yer": "ORDU THE WYSPY HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(YONCA HANIM)",
+      "telefon": "(0452) 352 52 00"
+    },
+    {
+      "sira": 166,
+      "il": "ORDU",
+      "yer": "ORDU ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(DENİZ HANIM)",
+      "telefon": "(0452) 225 43 58"
+    },
+    {
+      "sira": 167,
+      "il": "ORDU",
+      "yer": "KARLIBEL HOTEL ATLIHAN",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0506) 507 09 98"
+    },
+    {
+      "sira": 168,
+      "il": "ORDU/FATSA",
+      "yer": "YILDIZ HOTEL FATSA",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0452) 441 21 82"
+    },
+    {
+      "sira": 169,
+      "il": "OSMANİYE",
+      "yer": "KARACALAR SUIT OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(BİLAL BEY)",
+      "telefon": "(0545) 606 10 40"
+    },
+    {
+      "sira": 170,
+      "il": "OSMANİYE",
+      "yer": "OSMANİYE POLİSEVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0505) 318 80 20"
+    },
+    {
+      "sira": 171,
+      "il": "OSMANİYE",
+      "yer": "OSMANİYE ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0328) 813 87 68"
+    },
+    {
+      "sira": 172,
+      "il": "RİZE",
+      "yer": "RİZE ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ŞENOL BEY)",
+      "telefon": "(0464) 226 09 16"
+    },
+    {
+      "sira": 173,
+      "il": "RİZE",
+      "yer": "OTEL KELEŞ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(HALİT BEY)",
+      "telefon": "(0464) 217 46 12"
+    },
+    {
+      "sira": 174,
+      "il": "RİZE",
+      "yer": "RHİSOS GOLD OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(464) 236 00 00"
+    },
+    {
+      "sira": 175,
+      "il": "RİZE",
+      "yer": "RHİSOS OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(553) 777 73 53"
+    },
+    {
+      "sira": 176,
+      "il": "SAKARYA",
+      "yer": "N'ALA OTEL SAKARYA",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ALİ BEY)",
+      "telefon": "(0264) 291 44 61"
+    },
+    {
+      "sira": 177,
+      "il": "SAKARYA",
+      "yer": "SEN OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MEHMET BEY)",
+      "telefon": "(0537) 958 84 66"
+    },
+    {
+      "sira": 178,
+      "il": "SAMSUN",
+      "yer": "NEBA ROYAL HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(RASİM BEY)",
+      "telefon": "(0362) 333 33 04"
+    },
+    {
+      "sira": 179,
+      "il": "SAMSUN",
+      "yer": "SAMSUN ÖĞRETMEN EVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0362) 431 25 46"
+    },
+    {
+      "sira": 180,
+      "il": "SAMSUN",
+      "yer": "BM HOTEL CİTY",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ÖZGE HANIM)",
+      "telefon": "(0507) 829 08 29"
+    },
+    {
+      "sira": 181,
+      "il": "SİİRT",
+      "yer": "PANORAMA SİİRT",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ENGİN BEY)",
+      "telefon": "(0542) 311 86 56"
+    },
+    {
+      "sira": 182,
+      "il": "SİİRT",
+      "yer": "BARDEN HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(VELİ BEY)",
+      "telefon": "(0484) 224 11 11"
+    },
+    {
+      "sira": 183,
+      "il": "SİNOP",
+      "yer": "ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0368) 261 26 82"
+    },
+    {
+      "sira": 184,
+      "il": "SİNOP",
+      "yer": "POLİS EVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0368) 261 29 90"
+    },
+    {
+      "sira": 185,
+      "il": "SİNOP",
+      "yer": "İL ÖZEL İDARESİ MÜSAFİRHANESİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(İCRAN HANIM)",
+      "telefon": "(0368) 260 29 02"
+    },
+    {
+      "sira": 186,
+      "il": "SİVAS",
+      "yer": "SİVAS BÜYÜK HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(YUSUF BEY)",
+      "telefon": "(0346) 225 47 63"
+    },
+    {
+      "sira": 187,
+      "il": "SİVAS",
+      "yer": "THE GREEN PARK SİVAS",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(TEVFİK BEY)",
+      "telefon": "(0346) 858 00 00"
+    },
+    {
+      "sira": 188,
+      "il": "ŞANLIURFA",
+      "yer": "GRAND GÜLİZAR OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(EMEL HANIM)",
+      "telefon": "(0414) 313 81 81"
+    },
+    {
+      "sira": 189,
+      "il": "ŞANLIURFA",
+      "yer": "MY LİFE HOME OTEL ŞANLIURFA",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ABDULLAH BEY)",
+      "telefon": "(0540) 123 63 63"
+    },
+    {
+      "sira": 190,
+      "il": "ŞIRNAK",
+      "yer": "ŞIRNAK POLİSEVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0486) 216 69 16"
+    },
+    {
+      "sira": 191,
+      "il": "ŞIRNAK",
+      "yer": "CİZRE ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0486) 616 11 45"
+    },
+    {
+      "sira": 192,
+      "il": "TEKİRDAĞ",
+      "yer": "DSİ TESİSLERİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0282) 293 21 51"
+    },
+    {
+      "sira": 193,
+      "il": "TEKİRDAĞ",
+      "yer": "TEKİRDAĞ POLİSEVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0282) 260 41 01"
+    },
+    {
+      "sira": 194,
+      "il": "TEKİRDAĞ",
+      "yer": "ÇERKEZKÖY MERKEZ OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MUHAMMET BEY)",
+      "telefon": "(0282) 726 27 59"
+    },
+    {
+      "sira": 195,
+      "il": "TEKİRDAĞ",
+      "yer": "SÜLEYMANPAŞA MESLEKİ VE TEKNİK ANADOLU LİSESİ UYGULAMA OTELİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0282) 260 42 30"
+    },
+    {
+      "sira": 196,
+      "il": "TEKİRDAĞ",
+      "yer": "TEKİRDAĞ KARAYOLLARI MİSAFİRHANESİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ERTUĞRUL BEY)",
+      "telefon": "(0282) 261 20 61"
+    },
+    {
+      "sira": 197,
+      "il": "TEKİRDAĞ",
+      "yer": "CİTY59 SUİTES&RESİDENCE",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MUHAMMET BEY)",
+      "telefon": "(0543) 223 59 59"
+    },
+    {
+      "sira": 198,
+      "il": "TOKAT",
+      "yer": "ÇAVUŞOĞLU TOWER HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(KUBİLAY BEY)",
+      "telefon": "(0356) 212 35 70"
+    },
+    {
+      "sira": 199,
+      "il": "TOKAT",
+      "yer": "DEDEMAN OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(EMRE BEY)",
+      "telefon": "(0356) 228 66 00"
+    },
+    {
+      "sira": 200,
+      "il": "TOKAT",
+      "yer": "RUSH HOTEL TOKAT",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MERT BEY)",
+      "telefon": "(0540) 213 33 00"
+    },
+    {
+      "sira": 201,
+      "il": "TRABZON",
+      "yer": "SAĞIROĞLU HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MUHAMMET BEY)",
+      "telefon": "(0533) 658 83 05"
+    },
+    {
+      "sira": 202,
+      "il": "TRABZON",
+      "yer": "TRABZON ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0462) 322 36 57"
+    },
+    {
+      "sira": 203,
+      "il": "TRABZON",
+      "yer": "MÖVENPİCK HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0462) 222 25 55"
+    },
+    {
+      "sira": 204,
+      "il": "TRABZON",
+      "yer": "BEST WESTER PLUS TRABZON",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0462) 502 12 22"
+    },
+    {
+      "sira": 205,
+      "il": "TRABZON",
+      "yer": "ALMİRCAN HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(ERDOĞAN BEY)",
+      "telefon": "(0532) 942 60 92"
+    },
+    {
+      "sira": 206,
+      "il": "TUNCELİ",
+      "yer": "TUNCELİ ÖĞRETMENEVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0428) 212 33 65"
+    },
+    {
+      "sira": 207,
+      "il": "TUNCELİ",
+      "yer": "TUNCELİ DEVLET SU İŞLERİ MİSAFİRHANESİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(YAŞAR BEY)",
+      "telefon": "(0428) 213 18 98"
+    },
+    {
+      "sira": 208,
+      "il": "UŞAK",
+      "yer": "UŞAK ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(YÜKSEL BEY)",
+      "telefon": "(0276) 227 08 01"
+    },
+    {
+      "sira": 209,
+      "il": "UŞAK",
+      "yer": "AĞAOĞLU OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(CAN BEY)",
+      "telefon": "(0276) 223 38 14"
+    },
+    {
+      "sira": 210,
+      "il": "VAN",
+      "yer": "ŞİŞLİ ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0530) 310 84 38"
+    },
+    {
+      "sira": 211,
+      "il": "VAN",
+      "yer": "VAN POLİS EVİ",
+      "konsept": "SADECE KONAKLAMA",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0505) 318 65 25"
+    },
+    {
+      "sira": 212,
+      "il": "VAN",
+      "yer": "ROYAL MİLANO HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(AYHAN BEY)",
+      "telefon": "(0432) 214 55 50"
+    },
+    {
+      "sira": 213,
+      "il": "VAN",
+      "yer": "TAHT PALACE HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(KÜBRA HANIM)",
+      "telefon": "(0432) 502 82 02"
+    },
+    {
+      "sira": 214,
+      "il": "VAN",
+      "yer": "ELİTE WORLD VAN",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0432) 484 11 11"
+    },
+    {
+      "sira": 215,
+      "il": "VAN",
+      "yer": "MİR EMİR HOTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(MURAT BEY)",
+      "telefon": "(0432) 503 10 03"
+    },
+    {
+      "sira": 216,
+      "il": "YALOVA",
+      "yer": "HOTEL BEKSİTİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(EYMEN BEY)",
+      "telefon": "(0552) 504 04 77"
+    },
+    {
+      "sira": 217,
+      "il": "YALOVA",
+      "yer": "YALOVA ÖĞRETMENEVİ VE OTELİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(GÜLÇİN HANIM)",
+      "telefon": "(0226) 814 94 00"
+    },
+    {
+      "sira": 218,
+      "il": "YOZGAT",
+      "yer": "GRAND SER OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(HASAN BEY)",
+      "telefon": "(0530) 824 42 63"
+    },
+    {
+      "sira": 219,
+      "il": "YOZGAT",
+      "yer": "YOZGAT BOZOK ÜNİVERSİTESİ UYGULAMA OTELİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(İSMAİL BEY)",
+      "telefon": "(0354) 502 00 46"
+    },
+    {
+      "sira": 220,
+      "il": "ZONGULDAK",
+      "yer": "DEDEMAN OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(KADER HANIM)",
+      "telefon": "(0372) 291 00 00"
+    },
+    {
+      "sira": 221,
+      "il": "ZONGULDAK",
+      "yer": "EREĞLİ KELEŞLER OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(GÜLHAN HANIM)",
+      "telefon": "(0372) 310 01 00"
+    },
+    {
+      "sira": 222,
+      "il": "ZONGULDAK",
+      "yer": "ZONGULDAK ÖĞRETMENEVİ",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE",
+      "telefon": "(0372) 257 79 11"
+    },
+    {
+      "sira": 223,
+      "il": "ZONGULDAK/EREĞLİ",
+      "yer": "KELEŞLER PARK OTEL",
+      "konsept": "KAHVALTI DAHİL",
+      "kisi": "RESEPSİYON GÖREVLİSİ/İDARE(UFUK BEY)",
+      "telefon": "(0372) 310 01 00"
+    },
+    {
+      "sira": 224,
+      "il": "ADANA",
+      "yer": "Nezihe Yalvaç Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0322) 233 01 41"
+    },
+    {
+      "sira": 225,
+      "il": "ADANA",
+      "yer": "Sürmeli Hotels",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0322) 352 36 00"
+    },
+    {
+      "sira": 226,
+      "il": "ADANA",
+      "yer": "TCDD 6. Bölge Misafirhanesi Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0322) 453 69 14"
+    },
+    {
+      "sira": 227,
+      "il": "ADANA",
+      "yer": "Adana Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0322) 453 31 58"
+    },
+    {
+      "sira": 228,
+      "il": "ADANA",
+      "yer": "DSİ Seyhan Sami Kayahan Eğitim Tesisleri Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0322) 235 06 51"
+    },
+    {
+      "sira": 229,
+      "il": "ADANA",
+      "yer": "Adana Plaza Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0322) 453 16 16"
+    },
+    {
+      "sira": 230,
+      "il": "ADANA",
+      "yer": "Evliya Çelebi Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0322) 344 34 44"
+    },
+    {
+      "sira": 231,
+      "il": "ADIYAMAN",
+      "yer": "Perre Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0532) 459 70 02"
+    },
+    {
+      "sira": 232,
+      "il": "AFYONKARAHİSAR",
+      "yer": "İkbal Termal Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0272) 252 56 00"
+    },
+    {
+      "sira": 233,
+      "il": "AFYONKARAHİSAR",
+      "yer": "Garden Kale Thermal Hotel&Spa",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0272) 246 31 31"
+    },
+    {
+      "sira": 234,
+      "il": "AFYONKARAHİSAR",
+      "yer": "Maya Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0549) 213 36 22"
+    },
+    {
+      "sira": 235,
+      "il": "AFYONKARAHİSAR",
+      "yer": "Double Tree By Hilton Afyonkarahisar",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0272) 220 03 03"
+    },
+    {
+      "sira": 236,
+      "il": "AĞRI",
+      "yer": "Ağrı Merkez Burçin Uysal Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0472) 215 30 06"
+    },
+    {
+      "sira": 237,
+      "il": "AĞRI",
+      "yer": "Cenas Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0472) 215 11 16"
+    },
+    {
+      "sira": 238,
+      "il": "AKSARAY",
+      "yer": "Kuzucular Park Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0382) 203 03 33"
+    },
+    {
+      "sira": 239,
+      "il": "AMASYA",
+      "yer": "Amasya Merzifon Öğretmenevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0358) 513 05 51"
+    },
+    {
+      "sira": 240,
+      "il": "AMASYA",
+      "yer": "Büyük Amasya Oteli (BAO)",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0358) 218 50 80"
+    },
+    {
+      "sira": 241,
+      "il": "ANTALYA",
+      "yer": "VIKING Star Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 814 73 73"
+    },
+    {
+      "sira": 242,
+      "il": "ANTALYA",
+      "yer": "Anelli Hotel Antalya",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 502 33 07"
+    },
+    {
+      "sira": 243,
+      "il": "ANTALYA",
+      "yer": "Akdeniz Üniversitesi Eğitim ve Sosyal Tesisler Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 227 44 74"
+    },
+    {
+      "sira": 244,
+      "il": "ANTALYA",
+      "yer": "Manavgat Evliya Çelebi Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 756 95 75"
+    },
+    {
+      "sira": 245,
+      "il": "ANTALYA",
+      "yer": "XPERIA Saray Beach Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0505) 290 09 45"
+    },
+    {
+      "sira": 246,
+      "il": "ANTALYA",
+      "yer": "Finike Marina Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 855 57 58"
+    },
+    {
+      "sira": 247,
+      "il": "ANTALYA",
+      "yer": "Afflon Hotels Loft City",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 250 40 40"
+    },
+    {
+      "sira": 248,
+      "il": "ANTALYA",
+      "yer": "Falez Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 238 51 30"
+    },
+    {
+      "sira": 249,
+      "il": "ANTALYA",
+      "yer": "Kaşmahal Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0544) 811 61 61"
+    },
+    {
+      "sira": 250,
+      "il": "ANTALYA",
+      "yer": "Kumluca Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0543) 887 71 10"
+    },
+    {
+      "sira": 251,
+      "il": "ANTALYA",
+      "yer": "Karayolları Genel Müdürlüğü 13. Bölge Müdürlüğü Antalya Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 237 87 00"
+    },
+    {
+      "sira": 252,
+      "il": "ANTALYA",
+      "yer": "Orman Genel Müdürlüğü Antalya Orman Bölge Müdürlüğü Merkez Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 333 00 99"
+    },
+    {
+      "sira": 253,
+      "il": "ANTALYA",
+      "yer": "Kepez Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 227 11 42"
+    },
+    {
+      "sira": 254,
+      "il": "ANTALYA",
+      "yer": "Crowne Plaza Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 228 77 18"
+    },
+    {
+      "sira": 255,
+      "il": "ANTALYA",
+      "yer": "Side Manavgat Seaden Hotels",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 505 51 52"
+    },
+    {
+      "sira": 256,
+      "il": "ANTALYA",
+      "yer": "Grand Okan Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 519 16 37"
+    },
+    {
+      "sira": 257,
+      "il": "ANTALYA",
+      "yer": "Pearly Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0539) 516 07 60"
+    },
+    {
+      "sira": 258,
+      "il": "ANTALYA",
+      "yer": "Can Adalya Palace Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 503 00 65 / (0242) 410 94 31"
+    },
+    {
+      "sira": 259,
+      "il": "ANTALYA",
+      "yer": "KAİLA Beach Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0242) 514 30 90"
+    },
+    {
+      "sira": 260,
+      "il": "ARDAHAN",
+      "yer": "Ardahan Üniversitesi Sosyal Tesisler Merkezi Müdürlüğü Yenisey Konukevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0478) 211 75 55"
+    },
+    {
+      "sira": 261,
+      "il": "ARDAHAN",
+      "yer": "Ardahan Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0478) 211 27 50"
+    },
+    {
+      "sira": 262,
+      "il": "AYDIN",
+      "yer": "Nazilli Karin Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0256) 313 96 78"
+    },
+    {
+      "sira": 263,
+      "il": "AYDIN",
+      "yer": "Aydın Park Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0256) 226 86 00"
+    },
+    {
+      "sira": 264,
+      "il": "AYDIN",
+      "yer": "Fibar Hotel Zincirlihan",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0256) 212 08 08"
+    },
+    {
+      "sira": 265,
+      "il": "AYDIN",
+      "yer": "DSİ 21. Bölge Müdürlüğü Merkez Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0256) 219 39 20"
+    },
+    {
+      "sira": 266,
+      "il": "AYDIN",
+      "yer": "Korumar Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0256) 618 15 30"
+    },
+    {
+      "sira": 267,
+      "il": "AYDIN",
+      "yer": "Lion Park Suites&Residence Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0256) 214 09 09"
+    },
+    {
+      "sira": 268,
+      "il": "BALIKESİR",
+      "yer": "Balıkesir Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0266) 549 10 10"
+    },
+    {
+      "sira": 269,
+      "il": "BALIKESİR",
+      "yer": "RAMADA Resıdences By Wyndham Balıkesir",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0266) 245 60 60"
+    },
+    {
+      "sira": 270,
+      "il": "BALIKESİR",
+      "yer": "Bacacan Hotel Ayvalık",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0266) 312 19 22"
+    },
+    {
+      "sira": 271,
+      "il": "BALIKESİR",
+      "yer": "Odaman Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0266) 715 21 61"
+    },
+    {
+      "sira": 272,
+      "il": "BALIKESİR",
+      "yer": "Adrina Termal Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0266) 384 60 60"
+    },
+    {
+      "sira": 273,
+      "il": "BALIKESİR",
+      "yer": "Ayvalık Cunda Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0266) 331 40 90"
+    },
+    {
+      "sira": 274,
+      "il": "BARTIN",
+      "yer": "Bartın Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0378) 227 13 29"
+    },
+    {
+      "sira": 275,
+      "il": "BATMAN",
+      "yer": "Grand Hasankeyf Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0530) 390 80 30"
+    },
+    {
+      "sira": 276,
+      "il": "BATMAN",
+      "yer": "TPAO Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0488) 213 27 10"
+    },
+    {
+      "sira": 277,
+      "il": "BAYBURT",
+      "yer": "Bayburt İl Sağlık Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0458) 211 29 06"
+    },
+    {
+      "sira": 278,
+      "il": "BİLECİK",
+      "yer": "Bozüyük Grand Çalı Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0228) 314 89 30"
+    },
+    {
+      "sira": 279,
+      "il": "BİNGÖL",
+      "yer": "Bingöl Üniversitesi Konukevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0426) 216 01 12 / (0426) 216 01 13"
+    },
+    {
+      "sira": 280,
+      "il": "BİNGÖL",
+      "yer": "Bingöl Polisevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0426) 213 19 20"
+    },
+    {
+      "sira": 281,
+      "il": "BİTLİS",
+      "yer": "White Life Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0434) 414 00 13"
+    },
+    {
+      "sira": 282,
+      "il": "BİTLİS",
+      "yer": "Taşar Royal Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0434) 827 33 00"
+    },
+    {
+      "sira": 283,
+      "il": "BOLU",
+      "yer": "Bolu Koru Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0374) 225 22 90"
+    },
+    {
+      "sira": 284,
+      "il": "BOLU",
+      "yer": "DSİ Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0374) 253 52 94"
+    },
+    {
+      "sira": 285,
+      "il": "BOLU",
+      "yer": "Karayolları Genel Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0374) 217 18 15"
+    },
+    {
+      "sira": 286,
+      "il": "BOLU",
+      "yer": "Hampton By Hilton Bolu",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0374) 254 50 00"
+    },
+    {
+      "sira": 287,
+      "il": "BURDUR",
+      "yer": "Mehmet Akif Ersoy Üniversitesi Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0248) 213 10 00"
+    },
+    {
+      "sira": 288,
+      "il": "BURDUR",
+      "yer": "Grand Özeren Otel&Spa",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0248) 233 77 53"
+    },
+    {
+      "sira": 289,
+      "il": "BURSA",
+      "yer": "Kent Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0224) 223 54 20"
+    },
+    {
+      "sira": 290,
+      "il": "BURSA",
+      "yer": "Bursa Sosyal Güvenlik İl Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0224) 600 10 00"
+    },
+    {
+      "sira": 291,
+      "il": "BURSA",
+      "yer": "Kardeş Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0224) 272 17 70"
+    },
+    {
+      "sira": 292,
+      "il": "BURSA",
+      "yer": "Mustafakemalpaşa Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0552) 033 99 89"
+    },
+    {
+      "sira": 293,
+      "il": "BURSA",
+      "yer": "Hotel İşçen",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0224) 613 56 02"
+    },
+    {
+      "sira": 294,
+      "il": "BURSA",
+      "yer": "Karacabey Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0224) 676 49 03"
+    },
+    {
+      "sira": 295,
+      "il": "BURSA",
+      "yer": "TAKAV Sosyal Tesisler ve Turizm İşletmesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0850) 823 63 36"
+    },
+    {
+      "sira": 296,
+      "il": "BURSA",
+      "yer": "DSİ 1. Bölge Sosyal Tesisleri",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0224) 224 73 40-41"
+    },
+    {
+      "sira": 297,
+      "il": "BURSA",
+      "yer": "Ulupark Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0224) 253 17 17"
+    },
+    {
+      "sira": 298,
+      "il": "BURSA",
+      "yer": "Mövenpıck Hotel&Thermal Spa",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0224) 230 01 00"
+    },
+    {
+      "sira": 299,
+      "il": "BURSA",
+      "yer": "ASKA Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0224) 512 32 00"
+    },
+    {
+      "sira": 300,
+      "il": "BURSA",
+      "yer": "Paşa Otel Gemlik",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0224) 514 34 34"
+    },
+    {
+      "sira": 301,
+      "il": "BURSA",
+      "yer": "Karayolları Genel Müdürlüğü 14. Bölge Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0224) 281 60 00"
+    },
+    {
+      "sira": 302,
+      "il": "BURSA",
+      "yer": "Boyugüzel Thermal Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0224) 239 99 99"
+    },
+    {
+      "sira": 303,
+      "il": "ÇANAKKALE",
+      "yer": "Çanakkale Valiliği Çanakkale Huzurevi Yaşlı Bakım ve Rehabilitasyon Merkezi Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0286) 262 03 70"
+    },
+    {
+      "sira": 304,
+      "il": "ÇANAKKALE",
+      "yer": "Çanakkale Valiliği Gençlik Hizmetleri ve Spor İl Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0286) 232 84 78"
+    },
+    {
+      "sira": 305,
+      "il": "ÇANAKKALE",
+      "yer": "Kepez Turizm Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0286) 263 58 88"
+    },
+    {
+      "sira": 306,
+      "il": "ÇANAKKALE",
+      "yer": "Hotel Akol",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0286) 217 94 56"
+    },
+    {
+      "sira": 307,
+      "il": "ÇANAKKALE",
+      "yer": "Gülcan Pansiyon",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0544) 327 66 06"
+    },
+    {
+      "sira": 308,
+      "il": "ÇANKIRI",
+      "yer": "Koç Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0554) 281 94 93"
+    },
+    {
+      "sira": 309,
+      "il": "ÇORUM",
+      "yer": "Çorum Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0364) 221 75 47"
+    },
+    {
+      "sira": 310,
+      "il": "ÇORUM",
+      "yer": "Anitta Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0364) 666 09 99"
+    },
+    {
+      "sira": 311,
+      "il": "DENİZLİ",
+      "yer": "DSİ Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0258) 502 02 17"
+    },
+    {
+      "sira": 312,
+      "il": "DENİZLİ",
+      "yer": "Denizli Polisevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0258) 213 76 56"
+    },
+    {
+      "sira": 313,
+      "il": "DENİZLİ",
+      "yer": "North Poınt Hotel Denizli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0258) 213 12 21"
+    },
+    {
+      "sira": 314,
+      "il": "DİYARBAKIR",
+      "yer": "Diyarbakır Büyükşehir Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0412) 262 36 31"
+    },
+    {
+      "sira": 315,
+      "il": "DİYARBAKIR",
+      "yer": "Diyarbakır TSE Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0412) 237 14 06"
+    },
+    {
+      "sira": 316,
+      "il": "DİYARBAKIR",
+      "yer": "Vilayetler Evi Hotels Diyarbakır",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0412) 503 45 75"
+    },
+    {
+      "sira": 317,
+      "il": "DİYARBAKIR",
+      "yer": "Park Vadi Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0412) 229 01 11"
+    },
+    {
+      "sira": 318,
+      "il": "DİYARBAKIR",
+      "yer": "RAMADA By Wyndham Diyarbakır",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0412) 503 21 00"
+    },
+    {
+      "sira": 319,
+      "il": "DÜZCE",
+      "yer": "Turan Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "444 97 81"
+    },
+    {
+      "sira": 320,
+      "il": "EDİRNE",
+      "yer": "RYS Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0850) 222 27 97"
+    },
+    {
+      "sira": 321,
+      "il": "ELAZIĞ",
+      "yer": "Elazığ Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0424) 233 24 11"
+    },
+    {
+      "sira": 322,
+      "il": "ELAZIĞ",
+      "yer": "Elazığ Defterdarlığı Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0424) 502 32 32"
+    },
+    {
+      "sira": 323,
+      "il": "ELAZIĞ",
+      "yer": "Payitaht Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0424) 611 51 00"
+    },
+    {
+      "sira": 324,
+      "il": "ELAZIĞ",
+      "yer": "Elazığ İl Özel İdaresi Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0424) 247 23 26"
+    },
+    {
+      "sira": 325,
+      "il": "ERZİNCAN",
+      "yer": "Hayat Apart",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0446) 224 18 18"
+    },
+    {
+      "sira": 326,
+      "il": "ERZURUM",
+      "yer": "Erzurum Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0442) 235 45 25"
+    },
+    {
+      "sira": 327,
+      "il": "ERZURUM",
+      "yer": "Erzurum İl Sağlık Müdürlüğü Sosyal Tesisleri/Hekimevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0442) 342 67 71"
+    },
+    {
+      "sira": 328,
+      "il": "ESKİŞEHİR",
+      "yer": "Eskişehir Büyükşehir Belediyesi İktisadi ve Sosyal Tesis İşletmesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0222) 211 55 00"
+    },
+    {
+      "sira": 329,
+      "il": "ESKİŞEHİR",
+      "yer": "Eskişehir Öğretmenevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0222) 230 68 38"
+    },
+    {
+      "sira": 330,
+      "il": "ESKİŞEHİR",
+      "yer": "DSİ Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0222) 211 11 00"
+    },
+    {
+      "sira": 331,
+      "il": "GAZİANTEP",
+      "yer": "Gaziantep Üniversitesi Turizm Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0342) 360 90 45"
+    },
+    {
+      "sira": 332,
+      "il": "GAZİANTEP",
+      "yer": "Tuğcan Hotel Gaziantep",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0342) 220 43 23"
+    },
+    {
+      "sira": 333,
+      "il": "GAZİANTEP",
+      "yer": "İbis Hotels",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0342) 211 00 30"
+    },
+    {
+      "sira": 334,
+      "il": "GAZİANTEP",
+      "yer": "Burak Gold Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0552) 832 06 04"
+    },
+    {
+      "sira": 335,
+      "il": "GAZİANTEP",
+      "yer": "Burak Park Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0553) 827 08 08"
+    },
+    {
+      "sira": 336,
+      "il": "GİRESUN",
+      "yer": "Giresun Orman Bölge Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0454) 217 06 28"
+    },
+    {
+      "sira": 337,
+      "il": "GİRESUN",
+      "yer": "Yeşilgiresun Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0454) 217 14 44"
+    },
+    {
+      "sira": 338,
+      "il": "HAKKARİ",
+      "yer": "Hakkari Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0438) 216 00 04"
+    },
+    {
+      "sira": 339,
+      "il": "HAKKARİ",
+      "yer": "Avazem Suite Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0438) 351 09 23"
+    },
+    {
+      "sira": 340,
+      "il": "HATAY",
+      "yer": "ODİN ReDi Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0530) 435 67 60"
+    },
+    {
+      "sira": 341,
+      "il": "IĞDIR",
+      "yer": "Iğdır İl Sağlık Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0476) 226 37 69"
+    },
+    {
+      "sira": 342,
+      "il": "IĞDIR",
+      "yer": "Gold Yıldırım Hotels",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0476) 227 98 44"
+    },
+    {
+      "sira": 343,
+      "il": "ISPARTA",
+      "yer": "Isparta Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0246) 232 51 82"
+    },
+    {
+      "sira": 344,
+      "il": "İSTANBUL",
+      "yer": "Adile Sultan Kasrı Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0537) 417 35 04"
+    },
+    {
+      "sira": 345,
+      "il": "İSTANBUL",
+      "yer": "İstanbul Defterdarlığı Beyazıt Konukevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 458 00 14-15"
+    },
+    {
+      "sira": 346,
+      "il": "İSTANBUL",
+      "yer": "Beyoğlu Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 252 43 43"
+    },
+    {
+      "sira": 347,
+      "il": "İSTANBUL",
+      "yer": "İstanbul Teknik Üniversitesi TSD A.Ş.",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 276 76 66"
+    },
+    {
+      "sira": 348,
+      "il": "İSTANBUL",
+      "yer": "Eser Dıamond Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 867 70 00"
+    },
+    {
+      "sira": 349,
+      "il": "İSTANBUL",
+      "yer": "SGK Üsküdar Sosyal Tesisi ve Eğitim Merkezi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0216) 343 03 08"
+    },
+    {
+      "sira": 350,
+      "il": "İSTANBUL",
+      "yer": "MEB Zübeyde Hanım Hizmetiçi Eğitim Enstitüsü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0216) 574 38 18"
+    },
+    {
+      "sira": 351,
+      "il": "İSTANBUL",
+      "yer": "Zeytinburnu PEKOM Polis Evi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 484 58 00"
+    },
+    {
+      "sira": 352,
+      "il": "İSTANBUL",
+      "yer": "Asım ve Nurhan Kocabıyık Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 695 24 11"
+    },
+    {
+      "sira": 353,
+      "il": "İSTANBUL",
+      "yer": "İlksan Taksim Konukevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 292 72 00"
+    },
+    {
+      "sira": 354,
+      "il": "İSTANBUL",
+      "yer": "İstanbul Büyükşehir Belediyesi Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "444 10 34"
+    },
+    {
+      "sira": 355,
+      "il": "İSTANBUL",
+      "yer": "K.Çekmece Şehit Fethi Sekin Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 541 05 05"
+    },
+    {
+      "sira": 356,
+      "il": "İSTANBUL",
+      "yer": "İlksan Kartal Konukevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0216) 442 19 43"
+    },
+    {
+      "sira": 357,
+      "il": "İSTANBUL",
+      "yer": "Grand İstanbul Airport Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 651 19 56"
+    },
+    {
+      "sira": 358,
+      "il": "İSTANBUL",
+      "yer": "TCDD Haydarpaşa Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0216) 348 80 20"
+    },
+    {
+      "sira": 359,
+      "il": "İSTANBUL",
+      "yer": "Eti Maden İşletmeleri Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 520 66 31"
+    },
+    {
+      "sira": 360,
+      "il": "İSTANBUL",
+      "yer": "İstanbul Valiliği İl Gıda Tarım ve Hayvancılık Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0216) 468 21 00"
+    },
+    {
+      "sira": 361,
+      "il": "İSTANBUL",
+      "yer": "Tarım ve Orman Bakanlığı Pendik Veteriner Kontrol Enstitüsü Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0216) 390 12 80"
+    },
+    {
+      "sira": 362,
+      "il": "İSTANBUL",
+      "yer": "DSİ 14. Bölge Müdürlüğü Orhantepe Ar-Ge Eğitim Merkezi Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0216) 457 96 41"
+    },
+    {
+      "sira": 363,
+      "il": "İSTANBUL",
+      "yer": "TCDD Fenerbahçe Sosyal Tesisleri",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0216) 336 07 67"
+    },
+    {
+      "sira": 364,
+      "il": "İSTANBUL",
+      "yer": "Tarım-İş Sosyal Yardımlaşma Vakfı Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0216) 306 24 61"
+    },
+    {
+      "sira": 365,
+      "il": "İSTANBUL",
+      "yer": "Maya Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 511 33 33"
+    },
+    {
+      "sira": 366,
+      "il": "İSTANBUL",
+      "yer": "Sultanahmet Nu Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 516 95 93"
+    },
+    {
+      "sira": 367,
+      "il": "İSTANBUL",
+      "yer": "World Point Hotel İstanbul",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 426 36 36"
+    },
+    {
+      "sira": 368,
+      "il": "İSTANBUL",
+      "yer": "Hilton Garden Inn",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 867 19 00"
+    },
+    {
+      "sira": 369,
+      "il": "İZMİR",
+      "yer": "AIR BOSS Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0212) 471 28 28"
+    },
+    {
+      "sira": 370,
+      "il": "İZMİR",
+      "yer": "İzmir Polis Moral Eğitim Merkezi Müdürlüğü Çeşme Hizmet Binası",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0232) 446 46 80"
+    },
+    {
+      "sira": 371,
+      "il": "İZMİR",
+      "yer": "Hazine ve Maliye Bakanlığı İzmir Defterdarlığı İzmir Konukevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0232) 368 25 28"
+    },
+    {
+      "sira": 372,
+      "il": "İZMİR",
+      "yer": "İzmir İl Sağlık Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0232) 752 26 14"
+    },
+    {
+      "sira": 373,
+      "il": "İZMİR",
+      "yer": "SGK SGİM Alsancak Eğitim ve Dinlenme Tesisi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0232) 404 28 28"
+    },
+    {
+      "sira": 374,
+      "il": "İZMİR",
+      "yer": "İzan Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0232) 445 75 06"
+    },
+    {
+      "sira": 375,
+      "il": "İZMİR",
+      "yer": "İlksan İzmir Konukevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0232) 483 19 43"
+    },
+    {
+      "sira": 376,
+      "il": "KAHRAMANMARAŞ",
+      "yer": "Ramada Plaza By Wyndham Kahramanmaraş",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0344) 211 10 10"
+    },
+    {
+      "sira": 377,
+      "il": "KAHRAMANMARAŞ",
+      "yer": "Garden Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0344) 412 01 01"
+    },
+    {
+      "sira": 378,
+      "il": "KAHRAMANMARAŞ",
+      "yer": "Kahramanmaraş İl Sağlık Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0344) 215 38 12"
+    },
+    {
+      "sira": 379,
+      "il": "KARABÜK",
+      "yer": "Karabük Üniversitesi Turizm Fakültesi Uygulama Konukevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0370) 712 32 55"
+    },
+    {
+      "sira": 380,
+      "il": "KARABÜK",
+      "yer": "Safrancıty Hotel&Spa",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0370) 712 03 00"
+    },
+    {
+      "sira": 381,
+      "il": "KARAMAN",
+      "yer": "New Karaman Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "444 0 639"
+    },
+    {
+      "sira": 382,
+      "il": "KARS",
+      "yer": "Atapark Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0541) 417 43 53"
+    },
+    {
+      "sira": 383,
+      "il": "KASTAMONU",
+      "yer": "Şehit Şerifebacı Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0553) 898 64 40"
+    },
+    {
+      "sira": 384,
+      "il": "KAYSERİ",
+      "yer": "Gevher Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0535) 619 65 75"
+    },
+    {
+      "sira": 385,
+      "il": "KAYSERİ",
+      "yer": "Kayseri İl Sağlık Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0352) 222 62 80"
+    },
+    {
+      "sira": 386,
+      "il": "KAYSERİ",
+      "yer": "Duman Safir Rezidans",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0532) 603 27 53"
+    },
+    {
+      "sira": 387,
+      "il": "KIRIKKALE",
+      "yer": "DSİ Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0318) 202 07 26"
+    },
+    {
+      "sira": 388,
+      "il": "KIRIKKALE",
+      "yer": "MKE Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0318) 224 30 00"
+    },
+    {
+      "sira": 389,
+      "il": "KIRKLARELİ",
+      "yer": "Kırklareli Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0288) 212 79 22"
+    },
+    {
+      "sira": 390,
+      "il": "KIRŞEHİR",
+      "yer": "Kırşehir Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0386) 213 45 65"
+    },
+    {
+      "sira": 391,
+      "il": "KİLİS",
+      "yer": "7 Aralık Üniversitesi Sosyal Tesisleri",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0348) 813 92 22"
+    },
+    {
+      "sira": 392,
+      "il": "KİLİS",
+      "yer": "Kilis Polisevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0348) 814 14 24"
+    },
+    {
+      "sira": 393,
+      "il": "KOCAELİ",
+      "yer": "Otel Asya",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0262) 321 31 25 / 0530 243 62 22"
+    },
+    {
+      "sira": 394,
+      "il": "KOCAELİ",
+      "yer": "Kocaeli Büyükşehir Belediyesi Antikkapı Turizm İşletmecilik ve Özel Sağlık Hizmetleri A.Ş",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0262) 325 13 19"
+    },
+    {
+      "sira": 395,
+      "il": "KOCAELİ",
+      "yer": "Bayramoğlu Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0262) 653 47 47"
+    },
+    {
+      "sira": 396,
+      "il": "KONYA",
+      "yer": "Kulu Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0332) 641 33 04"
+    },
+    {
+      "sira": 397,
+      "il": "KONYA",
+      "yer": "Özkaymak Park Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0332) 233 37 70"
+    },
+    {
+      "sira": 398,
+      "il": "KONYA",
+      "yer": "İCON Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0332) 350 46 42"
+    },
+    {
+      "sira": 399,
+      "il": "KONYA",
+      "yer": "Karatay Bist Gazi Mustafa Kemal Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0332) 355 77 97"
+    },
+    {
+      "sira": 400,
+      "il": "KONYA",
+      "yer": "Dündar Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0332) 236 10 55"
+    },
+    {
+      "sira": 401,
+      "il": "KONYA",
+      "yer": "Konya Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0332) 351 22 65"
+    },
+    {
+      "sira": 402,
+      "il": "KÜTAHYA",
+      "yer": "Yoncalı Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0274) 250 00 25"
+    },
+    {
+      "sira": 403,
+      "il": "MALATYA",
+      "yer": "Malatya İl Sağlık Müdürlüğü Sosyal Tesisleri/Hekimevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0422) 371 03 02"
+    },
+    {
+      "sira": 404,
+      "il": "MALATYA",
+      "yer": "Aksaç Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0422) 502 20 00"
+    },
+    {
+      "sira": 405,
+      "il": "MALATYA",
+      "yer": "Malatya Polisevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0422) 212 85 32"
+    },
+    {
+      "sira": 406,
+      "il": "MANİSA",
+      "yer": "Manisa Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0236) 231 18 43"
+    },
+    {
+      "sira": 407,
+      "il": "MANİSA",
+      "yer": "Looks Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0236) 231 70 70"
+    },
+    {
+      "sira": 408,
+      "il": "MANİSA",
+      "yer": "Arma Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0236) 231 19 80"
+    },
+    {
+      "sira": 409,
+      "il": "MARDİN",
+      "yer": "Yay Grand Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0482) 212 57 77"
+    },
+    {
+      "sira": 410,
+      "il": "MARDİN",
+      "yer": "RAYMAR Hotels",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0482) 502 22 24"
+    },
+    {
+      "sira": 411,
+      "il": "MERSİN",
+      "yer": "Suphi Öner Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0324) 328 81 11"
+    },
+    {
+      "sira": 412,
+      "il": "MERSİN",
+      "yer": "Erdemli Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0324) 515 25 37"
+    },
+    {
+      "sira": 413,
+      "il": "MERSİN",
+      "yer": "Tarsus Ashabı Kehf Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0324) 614 23 32"
+    },
+    {
+      "sira": 414,
+      "il": "MERSİN",
+      "yer": "Karayolları Genel Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0324) 241 30 00"
+    },
+    {
+      "sira": 415,
+      "il": "MERSİN",
+      "yer": "Silifke Taşucu Lütfi Elvan Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0324) 741 44 66"
+    },
+    {
+      "sira": 416,
+      "il": "MUĞLA",
+      "yer": "Bodrum Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0252) 316 11 21"
+    },
+    {
+      "sira": 417,
+      "il": "MUĞLA",
+      "yer": "Yücelen Otel Akyaka",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0252) 243 51 08"
+    },
+    {
+      "sira": 418,
+      "il": "MUĞLA",
+      "yer": "Tarım İşletmeleri Genel Müdürlüğü Dalaman Tarım İşletmesi Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0252) 692 37 20"
+    },
+    {
+      "sira": 419,
+      "il": "MUĞLA",
+      "yer": "Muğla Polisevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0505) 318 48 04"
+    },
+    {
+      "sira": 420,
+      "il": "MUĞLA",
+      "yer": "Muğla Sıtkı Koçman Üniversitesi Sosyal Tesisler Konukevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0252) 211 21 99"
+    },
+    {
+      "sira": 421,
+      "il": "MUĞLA",
+      "yer": "Paşabey Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0252) 412 07 92"
+    },
+    {
+      "sira": 422,
+      "il": "MUĞLA",
+      "yer": "Marmaris Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0252) 413 24 11"
+    },
+    {
+      "sira": 423,
+      "il": "MUĞLA",
+      "yer": "Fethiye Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0545) 573 70 30"
+    },
+    {
+      "sira": 424,
+      "il": "MUĞLA",
+      "yer": "Fethiye Area Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0553) 434 01 58"
+    },
+    {
+      "sira": 425,
+      "il": "MUĞLA",
+      "yer": "Demircioğlu Park Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0252) 225 33 64/(0252) 214 50 50"
+    },
+    {
+      "sira": 426,
+      "il": "MUĞLA",
+      "yer": "İzan Otel Muğla",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0252) 223 86 04"
+    },
+    {
+      "sira": 427,
+      "il": "MUĞLA",
+      "yer": "Azka Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0252) 316 89 92"
+    },
+    {
+      "sira": 428,
+      "il": "MUĞLA",
+      "yer": "Hotel Mara",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0252) 614 67 22"
+    },
+    {
+      "sira": 429,
+      "il": "MUŞ",
+      "yer": "Olcay Suıtes Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0436) 502 48 49/(0436) 502 47 49/(0554) 564 49 49"
+    },
+    {
+      "sira": 430,
+      "il": "MUŞ",
+      "yer": "Hotel Diyar Paris",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0536) 707 19 50"
+    },
+    {
+      "sira": 431,
+      "il": "NİĞDE",
+      "yer": "Ömer Halisdemir Üniversitesi Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0388) 211 29 81"
+    },
+    {
+      "sira": 432,
+      "il": "NİĞDE",
+      "yer": "Grand Hotel Niğde",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0388) 232 70 00"
+    },
+    {
+      "sira": 433,
+      "il": "ORDU",
+      "yer": "Lalezar Butik Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0532) 667 22 45"
+    },
+    {
+      "sira": 434,
+      "il": "ORDU",
+      "yer": "THE WYSPY HOTEL ORDU",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0542) 382 52 00"
+    },
+    {
+      "sira": 435,
+      "il": "ORDU",
+      "yer": "Ordu Merkez Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0452) 225 43 58"
+    },
+    {
+      "sira": 436,
+      "il": "ORDU",
+      "yer": "RAMADA Resort By Wyndham Ünye",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0452) 323 16 66"
+    },
+    {
+      "sira": 437,
+      "il": "ORDU",
+      "yer": "Anemon Kent Otel Ordu",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0452) 213 15 74"
+    },
+    {
+      "sira": 438,
+      "il": "ORDU",
+      "yer": "Sinema Hotel Ordu",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0549) 260 22 52"
+    },
+    {
+      "sira": 439,
+      "il": "OSMANİYE",
+      "yer": "Büyük Osmaniye Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0328) 777 00 00"
+    },
+    {
+      "sira": 440,
+      "il": "OSMANİYE",
+      "yer": "Osmaniye Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0328) 813 87 68"
+    },
+    {
+      "sira": 441,
+      "il": "OSMANİYE",
+      "yer": "Korkut Ata Üniversitesi SKS Sosyal Tesisi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0328) 827 13 45"
+    },
+    {
+      "sira": 442,
+      "il": "RİZE",
+      "yer": "ÇAYKUR Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0464) 213 02 11"
+    },
+    {
+      "sira": 443,
+      "il": "RİZE",
+      "yer": "Rize Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0464) 226 09 16"
+    },
+    {
+      "sira": 444,
+      "il": "RİZE",
+      "yer": "Hotel Milano",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0505) 877 51 50"
+    },
+    {
+      "sira": 445,
+      "il": "SAKARYA",
+      "yer": "Hampton By Hilton Sakarya",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0264) 529 00 54"
+    },
+    {
+      "sira": 446,
+      "il": "SAKARYA",
+      "yer": "RAMADA By Wyndham Sakarya",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0264) 666 22 44"
+    },
+    {
+      "sira": 447,
+      "il": "SAMSUN",
+      "yer": "Grand Atakum Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0362) 439 05 55"
+    },
+    {
+      "sira": 448,
+      "il": "SAMSUN",
+      "yer": "Neba Royal Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0362) 333 33 04"
+    },
+    {
+      "sira": 449,
+      "il": "SAMSUN",
+      "yer": "Damla Panaroma Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0362) 228 15 55"
+    },
+    {
+      "sira": 450,
+      "il": "SAMSUN",
+      "yer": "DSİ Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0362) 437 17 83"
+    },
+    {
+      "sira": 451,
+      "il": "SAMSUN",
+      "yer": "Samsun Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0362) 432 38 36"
+    },
+    {
+      "sira": 452,
+      "il": "SAMSUN",
+      "yer": "BM Hotel City",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0362) 210 00 00"
+    },
+    {
+      "sira": 453,
+      "il": "SİİRT",
+      "yer": "Siirt Polisevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0484) 223 70 83"
+    },
+    {
+      "sira": 454,
+      "il": "SİİRT",
+      "yer": "Siirt Öğretmenevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0484) 223 12 54"
+    },
+    {
+      "sira": 455,
+      "il": "SİİRT",
+      "yer": "Barden Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0545) 840 85 70"
+    },
+    {
+      "sira": 456,
+      "il": "SİNOP",
+      "yer": "Sinop Polisevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0368) 261 29 90"
+    },
+    {
+      "sira": 457,
+      "il": "SİVAS",
+      "yer": "Sivas Keykavus Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0346) 215 08 88"
+    },
+    {
+      "sira": 458,
+      "il": "SİVAS",
+      "yer": "Büyük Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0346) 225 47 63"
+    },
+    {
+      "sira": 459,
+      "il": "SİVAS",
+      "yer": "The Green Park Hotels&Resorts",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0346) 858 00 00"
+    },
+    {
+      "sira": 460,
+      "il": "ŞANLIURFA",
+      "yer": "Şanlıurfa İl Sağlık Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0414) 318 71 60"
+    },
+    {
+      "sira": 461,
+      "il": "ŞANLIURFA",
+      "yer": "Tarım ve Orman Bakanlığı Şanlıurfa Sosyal Tesisleri",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0414) 316 66 46"
+    },
+    {
+      "sira": 462,
+      "il": "ŞANLIURFA",
+      "yer": "Vilayetler Evi Hotels Şanlıurfa",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0414) 217 06 63"
+    },
+    {
+      "sira": 463,
+      "il": "ŞANLIURFA",
+      "yer": "Şanlıurfa Polisevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0414) 313 62 44"
+    },
+    {
+      "sira": 464,
+      "il": "ŞANLIURFA",
+      "yer": "DSİ 15. Bölge Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0414) 317 50 35"
+    },
+    {
+      "sira": 465,
+      "il": "ŞANLIURFA",
+      "yer": "Nevali Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0414) 318 80 00"
+    },
+    {
+      "sira": 466,
+      "il": "ŞANLIURFA",
+      "yer": "Babacan Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0534) 452 73 19"
+    },
+    {
+      "sira": 467,
+      "il": "ŞANLIURFA",
+      "yer": "Dedeman Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0414) 318 25 00"
+    },
+    {
+      "sira": 468,
+      "il": "ŞANLIURFA",
+      "yer": "TİGEM Ceylanpınar Tarım İşletmesi Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0414) 471 49 74"
+    },
+    {
+      "sira": 469,
+      "il": "ŞIRNAK",
+      "yer": "Şırnak İl Sağlık Müdürlüğü Sosyal Tesisleri",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0486) 216 18 30"
+    },
+    {
+      "sira": 470,
+      "il": "ŞIRNAK",
+      "yer": "Şehr-i Nuh Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0486) 216 36 36"
+    },
+    {
+      "sira": 471,
+      "il": "TEKİRDAĞ",
+      "yer": "Süleymanpaşa Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0282) 260 42 30"
+    },
+    {
+      "sira": 472,
+      "il": "TEKİRDAĞ",
+      "yer": "DES Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0282) 262 20 00"
+    },
+    {
+      "sira": 473,
+      "il": "TEKİRDAĞ",
+      "yer": "Karadeniz Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0282) 651 75 83"
+    },
+    {
+      "sira": 474,
+      "il": "TEKİRDAĞ",
+      "yer": "Goldhan Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0282) 445 44 45"
+    },
+    {
+      "sira": 475,
+      "il": "TOKAT",
+      "yer": "Tokat İl Sağlık Müdürlüğü Eğitim ve Dinlenme Tesisi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0356) 214 93 83"
+    },
+    {
+      "sira": 476,
+      "il": "TOKAT",
+      "yer": "Dedeman Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0356) 228 66 00"
+    },
+    {
+      "sira": 477,
+      "il": "TRABZON",
+      "yer": "Trabzon Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0462) 322 36 57 / (0462) 322 36 58"
+    },
+    {
+      "sira": 478,
+      "il": "TRABZON",
+      "yer": "Karayolları Genel Müdürlüğü 10. Bölge Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0462) 230 22 14"
+    },
+    {
+      "sira": 479,
+      "il": "TRABZON",
+      "yer": "İlbank Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0462) 334 55 83"
+    },
+    {
+      "sira": 480,
+      "il": "TRABZON",
+      "yer": "DSİ 22. Bölge Müdürlüğü Sosyal Tesisleri",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0462) 334 11 05"
+    },
+    {
+      "sira": 481,
+      "il": "TRABZON",
+      "yer": "Yol İş Holiday Trabzon",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0462) 400 61 44"
+    },
+    {
+      "sira": 482,
+      "il": "TUNCELİ",
+      "yer": "Tunceli İl Sağlık Müdürlüğü Misafirhanesi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0428) 213 22 87"
+    },
+    {
+      "sira": 483,
+      "il": "UŞAK",
+      "yer": "Nest Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0543) 808 88 64"
+    },
+    {
+      "sira": 484,
+      "il": "UŞAK",
+      "yer": "Hotel Akdağ",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0276) 227 77 63"
+    },
+    {
+      "sira": 485,
+      "il": "VAN",
+      "yer": "Montana Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0432) 503 05 05"
+    },
+    {
+      "sira": 486,
+      "il": "VAN",
+      "yer": "Haldi Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0432) 214 96 95"
+    },
+    {
+      "sira": 487,
+      "il": "VAN",
+      "yer": "Edremit Evliya Çelebi Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0432) 217 89 64"
+    },
+    {
+      "sira": 488,
+      "il": "VAN",
+      "yer": "Şişli Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0530) 310 84 38"
+    },
+    {
+      "sira": 489,
+      "il": "YALOVA",
+      "yer": "Yalova Termal Kaplıcaları",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0226) 675 74 00"
+    },
+    {
+      "sira": 490,
+      "il": "YALOVA",
+      "yer": "Şaban Temuge Mesleki ve Teknik Anadolu Lisesi Uygulama Oteli",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0226) 811 59 07"
+    },
+    {
+      "sira": 491,
+      "il": "YOZGAT",
+      "yer": "Yozgat Polisevi",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0354) 212 91 40"
+    },
+    {
+      "sira": 492,
+      "il": "YOZGAT",
+      "yer": "Yozgat Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0354) 212 80 37"
+    },
+    {
+      "sira": 493,
+      "il": "YOZGAT",
+      "yer": "Çamlık Hotel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0354) 217 53 00"
+    },
+    {
+      "sira": 494,
+      "il": "ZONGULDAK",
+      "yer": "Kdz. Ereğli Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0372) 322 24 11"
+    },
+    {
+      "sira": 495,
+      "il": "ZONGULDAK",
+      "yer": "Keleşler Park Otel",
+      "konsept": "-",
+      "kisi": "-",
+      "telefon": "(0372) 310 01 00"
+    }
+  ]
+}
