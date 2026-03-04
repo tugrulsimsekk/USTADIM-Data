@@ -4,7 +4,7 @@
       "belgeNo": "1",
       "kod": "4a",
       "aciklama": "Hizmet Akdi İle Tüm Sigorta Kollarına Tabi Çalışanlar (4/a)",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "kisaVadeli": 0.0,
         "uzunVadeli": 0.09,
         "gss": 0.05,
@@ -27,7 +27,7 @@
       "belgeNo": "1",
       "kod": "4a",
       "aciklama": "Hizmet Akdi İle Tüm Sigorta Kollarına Tabi Çalışanlar (4/a)",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "kisaVadeli": 0.0,
         "uzunVadeli": 0.09,
         "gss": 0.05,
@@ -50,7 +50,7 @@
       "belgeNo": "2",
       "kod": "SGDP",
       "aciklama": "Sosyal Güvenlik Destek Primine Tabi Çalışanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "sgdpPrimi": 0.075,
         "kisaVadeli": 0.0,
         "toplam": 0.075
@@ -69,7 +69,7 @@
       "belgeNo": "2",
       "kod": "SGDP",
       "aciklama": "Sosyal Güvenlik Destek Primine Tabi Çalışanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "sgdpPrimi": 0.075,
         "kisaVadeli": 0.0,
         "toplam": 0.075
@@ -88,7 +88,7 @@
       "belgeNo": "7",
       "kod": "ADAY_CIRAK",
       "aciklama": "3308 Sayılı Kanunda Belirtilen Aday Çırak, Çırak ve İşletmelerde Mesleki Eğitim Gören Öğrencilerden Bakmakla Yükümlü Olunanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0.0
       },
       "isverenHissesi": {
@@ -104,7 +104,7 @@
       "belgeNo": "7",
       "kod": "ADAY_CIRAK",
       "aciklama": "3308 Sayılı Kanunda Belirtilen Aday Çırak, Çırak ve İşletmelerde Mesleki Eğitim Gören Öğrencilerden Bakmakla Yükümlü Olunanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0
       },
       "isverenHissesi": {
@@ -120,7 +120,7 @@
       "belgeNo": "12",
       "kod": "GECICI_20",
       "aciklama": "Geçici 20. Maddeye Tabi Olanlar (Sandık, Oda, Borsa ve Birlik)",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "issizlik": 0.01,
         "toplam": 0.01
       },
@@ -137,7 +137,7 @@
       "belgeNo": "12",
       "kod": "GECICI_20",
       "aciklama": "Geçici 20. Maddeye Tabi Olanlar (Sandık, Oda, Borsa ve Birlik)",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "issizlik": 0.01,
         "toplam": 0.01
       },
@@ -154,7 +154,7 @@
       "belgeNo": "13",
       "kod": "ISSIZLIK_MUAF",
       "aciklama": "Tüm Sigorta Kollarına Tabi Olup İşsizlik Sigortası Primi Kesilmeyenler",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "kisaVadeli": 0.0,
         "uzunVadeli": 0.09,
         "gss": 0.05,
@@ -175,7 +175,7 @@
       "belgeNo": "13",
       "kod": "ISSIZLIK_MUAF",
       "aciklama": "Tüm Sigorta Kollarına Tabi Olup İşsizlik Sigortası Primi Kesilmeyenler",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "kisaVadeli": 0.0,
         "uzunVadeli": 0.09,
         "gss": 0.05,
@@ -196,7 +196,7 @@
       "belgeNo": "14",
       "kod": "LIBYA",
       "aciklama": "Libya'da Çalışanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "kisaVadeli": 0.0,
         "uzunVadeli": 0.09,
         "gss": 0.05,
@@ -219,7 +219,7 @@
       "belgeNo": "14",
       "kod": "LIBYA",
       "aciklama": "Libya'da Çalışanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "kisaVadeli": 0.0,
         "uzunVadeli": 0.09,
         "gss": 0.05,
@@ -242,7 +242,7 @@
       "belgeNo": "19",
       "kod": "CEZA_INFAZ",
       "aciklama": "Ceza İnfaz Kurumları ile Tutukevleri Bünyesinde Oluşturulan Tesis Atölye ve Benzeri Ünitelerde Çalıştırılan Hükümlü ve Tutuklular",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0.0
       },
       "isverenHissesi": {
@@ -258,7 +258,7 @@
       "belgeNo": "19",
       "kod": "CEZA_INFAZ",
       "aciklama": "Ceza İnfaz Kurumları ile Tutukevleri Bünyesinde Oluşturulan Tesis Atölye ve Benzeri Ünitelerde Çalıştırılan Hükümlü ve Tutuklular",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0
       },
       "isverenHissesi": {
@@ -274,7 +274,7 @@
       "belgeNo": "21",
       "kod": "5g",
       "aciklama": "Türk İşverenler Tarafından Sosyal Güvenlik Sözleşmesi İmzalanmamış Ülkelere Götürülerek Çalıştırılan Türk İşçileri (5/g)",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "gss": 0.05,
         "toplam": 0.05
       },
@@ -292,7 +292,7 @@
       "belgeNo": "21",
       "kod": "5g",
       "aciklama": "Türk İşverenler Tarafından Sosyal Güvenlik Sözleşmesi İmzalanmamış Ülkelere Götürülerek Çalıştırılan Türk İşçileri (5/g)",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "gss": 0.05,
         "toplam": 0.05
       },
@@ -310,7 +310,7 @@
       "belgeNo": "22",
       "kod": "STAJYER_BURSLU",
       "aciklama": "Meslek Liselerinde Okumakta İken veya Yüksek Öğrenimleri Sırasında Staja Tabi Tutulan Öğrenciler, Kamu Kurum ve Kuruluşları Tarafından Desteklenen Projelerde Görevli Bursiyerler ile 2547 Sayılı Kanun Uyarınca Üniversitelerde Kısmi Zamanlı Çalıştırılan Öğrencilerden Bakmakla Yükümlü Olunanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0.0
       },
       "isverenHissesi": {
@@ -326,7 +326,7 @@
       "belgeNo": "22",
       "kod": "STAJYER_BURSLU",
       "aciklama": "Meslek Liselerinde Okumakta İken veya Yüksek Öğrenimleri Sırasında Staja Tabi Tutulan Öğrenciler, Kamu Kurum ve Kuruluşları Tarafından Desteklenen Projelerde Görevli Bursiyerler ile 2547 Sayılı Kanun Uyarınca Üniversitelerde Kısmi Zamanlı Çalıştırılan Öğrencilerden Bakmakla Yükümlü Olunanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0
       },
       "isverenHissesi": {
@@ -342,7 +342,7 @@
       "belgeNo": "42",
       "kod": "ADAY_CIRAK_MUAF",
       "aciklama": "3308 Sayılı Kanunda Belirtilen Aday Çırak, Çırak ve İşletmelerde Mesleki Eğitim Gören Öğrencilerden Bakmakla Yükümlü Olunmayanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0.0
       },
       "isverenHissesi": {
@@ -359,7 +359,7 @@
       "belgeNo": "42",
       "kod": "ADAY_CIRAK_MUAF",
       "aciklama": "3308 Sayılı Kanunda Belirtilen Aday Çırak, Çırak ve İşletmelerde Mesleki Eğitim Gören Öğrencilerden Bakmakla Yükümlü Olunmayanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0
       },
       "isverenHissesi": {
@@ -376,7 +376,7 @@
       "belgeNo": "43",
       "kod": "STAJYER_MUAF",
       "aciklama": "Meslek Liselerinde Okumakta İken veya Yüksek Öğrenimleri Sırasında Staja Tabi Tutulan Öğrenciler, Kamu Kurum ve Kuruluşları Tarafından Desteklenen Projelerde Görevli Bursiyerler ile 2547 Sayılı Kanun Uyarınca Üniversitelerde Kısmi Zamanlı Çalıştırılan Öğrencilerden Bakmakla Yükümlü Olunmayanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0.0
       },
       "isverenHissesi": {
@@ -393,7 +393,7 @@
       "belgeNo": "43",
       "kod": "STAJYER_MUAF",
       "aciklama": "Meslek Liselerinde Okumakta İken veya Yüksek Öğrenimleri Sırasında Staja Tabi Tutulan Öğrenciler, Kamu Kurum ve Kuruluşları Tarafından Desteklenen Projelerde Görevli Bursiyerler ile 2547 Sayılı Kanun Uyarınca Üniversitelerde Kısmi Zamanlı Çalıştırılan Öğrencilerden Bakmakla Yükümlü Olunmayanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0
       },
       "isverenHissesi": {
@@ -410,7 +410,7 @@
       "belgeNo": "46",
       "kod": "ISKUR_KURSIYER",
       "aciklama": "Türkiye İş Kurumu Tarafından Düzenlenen Eğitimlere Katılan Kursiyerler",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0.0
       },
       "isverenHissesi": {
@@ -427,7 +427,7 @@
       "belgeNo": "46",
       "kod": "ISKUR_KURSIYER",
       "aciklama": "Türkiye İş Kurumu Tarafından Düzenlenen Eğitimlere Katılan Kursiyerler",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0
       },
       "isverenHissesi": {
@@ -444,7 +444,7 @@
       "belgeNo": "47",
       "kod": "DOGUM_EVLAT_ODENEGI",
       "aciklama": "Doğum ve Evlat Edinme Sonrası Yarım Çalışma Ödeneği",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "uzunVadeli": 0.09,
         "gss": 0.05,
         "toplam": 0.14
@@ -463,7 +463,7 @@
       "belgeNo": "47",
       "kod": "DOGUM_EVLAT_ODENEGI",
       "aciklama": "Doğum ve Evlat Edinme Sonrası Yarım Çalışma Ödeneği",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "uzunVadeli": 0.09,
         "gss": 0.05,
         "toplam": 0.14
@@ -482,7 +482,7 @@
       "belgeNo": "49",
       "kod": "MESLEKI_TEKNIK_ORTA",
       "aciklama": "Mesleki ve Teknik Ortaöğretim Sırasında Tamamlayıcı Eğitim ya da Alan Eğitimi Gören Öğrencilerden Bakmakla Yükümlü Olunanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0.0
       },
       "isverenHissesi": {
@@ -498,7 +498,7 @@
       "belgeNo": "49",
       "kod": "MESLEKI_TEKNIK_ORTA",
       "aciklama": "Mesleki ve Teknik Ortaöğretim Sırasında Tamamlayıcı Eğitim ya da Alan Eğitimi Gören Öğrencilerden Bakmakla Yükümlü Olunanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0
       },
       "isverenHissesi": {
@@ -514,7 +514,7 @@
       "belgeNo": "50",
       "kod": "MESLEKI_TEKNIK_MUAF",
       "aciklama": "Mesleki ve Teknik Ortaöğretim Sırasında Tamamlayıcı Eğitim ya da Alan Eğitimi Gören Öğrencilerden Bakmakla Yükümlü Olunmayanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0.0
       },
       "isverenHissesi": {
@@ -531,7 +531,7 @@
       "belgeNo": "50",
       "kod": "MESLEKI_TEKNIK_MUAF",
       "aciklama": "Mesleki ve Teknik Ortaöğretim Sırasında Tamamlayıcı Eğitim ya da Alan Eğitimi Gören Öğrencilerden Bakmakla Yükümlü Olunmayanlar",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0
       },
       "isverenHissesi": {
@@ -548,7 +548,7 @@
       "belgeNo": "51",
       "kod": "GUVENLIK_KORUCUSU",
       "aciklama": "5510 Sayılı Kanunun Ek 15 inci Maddesi Kapsamındaki Güvenlik Korucuları",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0.0
       },
       "isverenHissesi": {
@@ -565,7 +565,7 @@
       "belgeNo": "51",
       "kod": "GUVENLIK_KORUCUSU",
       "aciklama": "5510 Sayılı Kanunun Ek 15 inci Maddesi Kapsamındaki Güvenlik Korucuları",
-      "sigortalıHissesi": {
+      "sigortaliHissesi": {
         "toplam": 0
       },
       "isverenHissesi": {
