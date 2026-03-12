@@ -1,6 +1,10 @@
 {
   "tasitKartiIstisnalari": {
     "gelirVergisi": {
+      "2026": {
+        "tutar": 158.0,
+        "aciklama": "KDV DAHİL"
+      },
       "2025": {
         "tutar": 151.2,
         "aciklama": "KDV DAHİL"
