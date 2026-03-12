@@ -1,0 +1,20 @@
+{
+  "rayicBedeller": [
+    {"il": "Adana", "yil": 2026, "dosya": "adana.2026.pdf"},
+    {"il": "Ankara", "yil": 2026, "dosya": "ankara.2026.pdf"},
+    {"il": "Antalya", "yil": 2026, "dosya": "antalya.2026.pdf"},
+    {"il": "Balıkesir", "yil": 2026, "dosya": "balikesir.2026_2.pdf"},
+    {"il": "Balıkesir", "yil": 2026, "dosya": "balikesir.2026_3.pdf"},
+    {"il": "Bursa", "yil": 2026, "dosya": "bursa.2026.pdf"},
+    {"il": "Eskişehir", "yil": 2026, "dosya": "eskisehir.2026.pdf"},
+    {"il": "İstanbul", "yil": 2025, "dosya": "istanbul.2025_1.pdf"},
+    {"il": "İstanbul", "yil": 2025, "dosya": "istanbul.2025_2.pdf"},
+    {"il": "İstanbul", "yil": 2026, "dosya": "istanbul.2026.pdf"},
+    {"il": "Kocaeli", "yil": 2026, "dosya": "kocaeli.2026.pdf"},
+    {"il": "Manisa", "yil": 2026, "dosya": "manisa.2026.pdf"},
+    {"il": "Sinop", "yil": 2025, "dosya": "sinop.2025.pdf"},
+    {"il": "Şanlıurfa", "yil": 2026, "dosya": "sanliurfa.2026.pdf"},
+    {"il": "Trabzon", "yil": 2025, "dosya": "trabzon.2025.pdf"},
+    {"il": "Zonguldak", "yil": 2026, "dosya": "zonguldak.2026.pdf"}
+  ]
+}
