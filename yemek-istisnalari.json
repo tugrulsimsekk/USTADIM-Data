@@ -99,6 +99,10 @@
     },
     "gelirVergisi": {
       "2025": {
+        "tutar": 300,
+        "aciklama": "KDV DAHİL"
+      },
+      "2025": {
         "tutar": 264,
         "aciklama": "KDV DAHİL"
       },
@@ -112,7 +116,7 @@
       },
       "2022": {
         "tutar": 34,
-        "aciklama": "Yıllık ortalama"
+        "aciklama": ""
       },
       "2021": {
         "tutar": 25,
