@@ -1,39 +1,9 @@
 {
   "harcirahTutarlari": [
-    {
-      "yil": 2017,
-      "avansLimitiDosya": "avanslimiti.2017.pdf",
-      "gundelikDosya": "gundelik.2017.pdf",
-      "harcirah": 0,
-      "konaklama": 0
-    },
-    {
-      "yil": 2022,
-      "avansLimitiDosya": "avanslimiti.2022.pdf",
-      "gundelikDosya": "gundelik.2022.pdf",
-      "harcirah": 0,
-      "konaklama": 0
-    },
-    {
-      "yil": 2023,
-      "avansLimitiDosya": "avanslimiti.2023.pdf",
-      "gundelikDosya": "gundelik.2023.pdf",
-      "harcirah": 0,
-      "konaklama": 0
-    },
-    {
-      "yil": 2025,
-      "avansLimitiDosya": "gundelik.2025.pdf",
-      "gundelikDosya": "gundelik.2025.pdf",
-      "harcirah": 500,
-      "konaklama": 750
-    },
-    {
-      "yil": 2026,
-      "avansLimitiDosya": "avanslimiti.2026.pdf",
-      "gundelikDosya": "gundelik.2026.pdf",
-      "harcirah": 1000,
-      "konaklama": 1500
-    }
+    {"yil": 2026, "avansLimitiDosya": "avanslimiti.2026.pdf", "gundelikDosya": "gundelik.2026.pdf", "harcirah": 1000, "konaklama": 1500},
+    {"yil": 2025, "avansLimitiDosya": "", "gundelikDosya": "gundelik.2025.pdf", "harcirah": 500, "konaklama": 750},
+    {"yil": 2023, "avansLimitiDosya": "avanslimiti.2023.pdf", "gundelikDosya": "", "harcirah": 0, "konaklama": 0},
+    {"yil": 2022, "avansLimitiDosya": "avanslimiti.2022.pdf", "gundelikDosya": "", "harcirah": 0, "konaklama": 0},
+    {"yil": 2017, "avansLimitiDosya": "avanslimiti.2017.pdf", "gundelikDosya": "", "harcirah": 0, "konaklama": 0}
   ]
 }
