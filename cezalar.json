@@ -8,7 +8,9 @@
       "katsayi": 1.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/a-1\n\n8 inci maddesinin birinci fıkrası ile 61 inci maddede belirtilen bildirgeyi, bu Kanunda belirtilen süre içinde ya da Kurumca belirlenen şekle ve usûle uygun vermeyenler veya Kurumca internet, elektronik veya benzeri ortamda göndermekle zorunlu tutulduğu hâlde anılan ortamda göndermeyenler hakkında her bir sigortalı için asgari ücret tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 2):\n\n• İşyeri: 13/1/2006 tarihinde kanun kapsamına alınmış\n• Sigortalı (B): 17/11/2009 tarihinde işe başlamış\n• Bildirim tarihi: 23/11/2009 (yasal süre: 16/11/2009'da dolmuş)\n• Fiil tarihi asgari ücreti: 693,00 TL\n────────────────────\nCeza = 693,00 × 1 = 693,00 TL\n(Her bir sigortalı için 1 × asgari ücret)"
     },
     {
       "kod": "a.2.",
@@ -18,7 +20,9 @@
       "katsayi": 2.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/a-2\n\n8 inci maddenin birinci fıkrasında belirtilen bildirgenin verilmediğinin, mahkeme kararından veya Kurumun denetim ve kontrolle görevli memurlarınca yapılan tespitlerden ya da diğer kamu idarelerinin denetim elemanlarının kendi mevzuatları gereğince yapacakları soruşturma, denetim ve incelemelerden veya bankalar, döner sermayeli kuruluşlar, kamu idareleri ile kanunla kurulan kurum ve kuruluşlardan alınan bilgi ve belgelerden anlaşılması halinde bildirgeyi vermekle yükümlü olanlar hakkında her bir sigortalı için asgari ücretin iki katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 3):\n\n• İşyeri: 18/11/2006 tarihinde kanun kapsamına alınmış\n• Sigortalı (C): 15/9/2009 tarihinde işe başlamış\n• Tespit: Kurumun denetim memurlarınca yapıldı\n• Fiil tarihi asgari ücreti: 693,00 TL\n────────────────────\nCeza = 693,00 × 2 = 1.386,00 TL\n(Müfettiş tespiti → asgari ücretin 2 katı, her bir sigortalı için)"
     },
     {
       "kod": "a.3.",
@@ -28,7 +32,9 @@
       "katsayi": 5.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/a-3\n\nİşyeri esas alınmak suretiyle bildirgenin verilmediğine ilişkin; mahkemenin karar tarihinden, Kurumun denetim ve kontrolle görevli memurlarının tespit tarihinden, diğer kamu kurum ve kuruluşlarının denetim elemanlarının rapor tarihinden, bankalar, döner sermayeli kuruluşlar, kamu idareleri ile kanunla kurulan kurum ve kuruluşlardan alınan bilgi veya belgelerin Kuruma intikal tarihinden itibaren bir yıl içinde bu bendin (2) numaralı alt bendinde sayılan durumlardan biriyle tekrar bildirge verilmediğinin anlaşılması halinde, bildirgeyi vermekle yükümlü olanlar hakkında bu defa her bir sigortalı için asgari ücretin beş katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 4):\n\n• İşyerinde daha önce bildirim verilmemesinden dolayı 666,00 × 2 = 1.332,00 TL ceza uygulanmıştı\n• Aynı işyerinde 19/8/2009'da işe alınan (E) ve (F) sigortalıları için bildirim verilmediği 22/10/2009'da tespit edildi (1 yıl içinde tekrar)\n• Fiil tarihi asgari ücreti: 693,00 TL\n────────────────────\nCeza = 693,00 × 5 × 2 sigortalı = 6.930,00 TL\n(1 yıl içinde tekrar → asgari ücretin 5 katı × sigortalı sayısı)"
     },
     {
       "kod": "b.1.",
@@ -38,7 +44,9 @@
       "katsayi": 3.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/b-1\n\n11 inci maddesinde belirtilen bildirgeyi, Kurumca belirlenen şekle ve usûle uygun vermeyenler veya Kurumca internet, elektronik veya benzeri ortamda göndermekle zorunlu tutulduğu halde anılan ortamda göndermeyenler veya bu Kanunda belirtilen süre içinde Kuruma vermeyenlere;\n\nKamu idareleri ile bilânço esasına göre defter tutmak zorunda olanlar için asgari ücretin üç katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 3):\n\n• (B) Limited Şirketi 25/10/2017'de nev'i değiştirerek anonim şirkete dönüştü\n• Ticaret sicil gazetesinde 3/11/2017'de yayımlandı\n• İşyeri bildirgesini 13/11/2017 tarihine kadar vermedi\n• Bilanço esasına göre defter tutuyor\n• 13/11/2017 tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 3 = 5.332,50 TL\n(Kamu/bilanço → asgari ücretin 3 katı)"
     },
     {
       "kod": "b.2.",
@@ -48,7 +56,9 @@
       "katsayi": 2.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/b-2\n\n11 inci maddesinde belirtilen bildirgeyi, Kurumca belirlenen şekle ve usûle uygun vermeyenler veya Kurumca internet, elektronik veya benzeri ortamda göndermekle zorunlu tutulduğu halde anılan ortamda göndermeyenler veya bu Kanunda belirtilen süre içinde Kuruma vermeyenlere;\n\nDiğer defterleri tutmak zorunda olanlar için asgari ücretin iki katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 12):\n\n• Kurumun denetim memurlarınca 11/5/2017 tarihinde sigortalı çalıştığı tespit edilen işyeri\n• İşletme hesabına göre (diğer defterler) defter tutuyor\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 2 = 3.555,00 TL\n(Diğer defterler → asgari ücretin 2 katı)"
     },
     {
       "kod": "b.3.",
@@ -58,7 +68,9 @@
       "katsayi": 1.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/b-3\n\n11 inci maddesinde belirtilen bildirgeyi, Kurumca belirlenen şekle ve usûle uygun vermeyenler veya Kurumca internet, elektronik veya benzeri ortamda göndermekle zorunlu tutulduğu halde anılan ortamda göndermeyenler veya bu Kanunda belirtilen süre içinde Kuruma vermeyenlere;\n\nDefter tutmakla yükümlü olmayanlar için bir aylık asgari ücret tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA:\n\n• Defter tutmakla yükümlü olmayan bir işveren\n• İşyeri tescil bildirgesi yasal süresinde verilmedi\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 1 = 1.777,50 TL\n(Defter tutmayanlar → 1 aylık asgari ücret)"
     },
     {
       "kod": "c.1.",
@@ -68,7 +80,9 @@
       "katsayi": 0.2,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 2.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/c-1\n\n86 ncı maddesinin birinci fıkrası uyarınca verilmesi gereken belgeleri, Kurumca belirlenen şekilde ve usûlde vermeyenler ya da Kurumca internet, elektronik veya benzeri ortamda göndermekle zorunlu tutulduğu halde anılan ortamda göndermeyenler veya belirlenen süre içinde vermeyenlere her bir fiil için;\n\nBelgenin asıl olması halinde aylık asgari ücretin iki katını geçmemek kaydıyla belgede kayıtlı sigortalı sayısı başına, aylık asgari ücretin beşte biri tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• (A) Limited Şirketi, 2017/Eylül ayına ilişkin asıl APHB'yi yasal süre dışında verdi\n• Belgede kayıtlı sigortalı sayısı: 3\n• Fiil tarihi (23/10/2017) asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 / 5 × 3 = 1.066,50 TL ≈ 1.066,00 TL\n(Üst sınır: 1.777,50 × 2 = 3.555,00 TL → aşılmadı)"
     },
     {
       "kod": "c.2.",
@@ -78,7 +92,9 @@
       "katsayi": 0.125,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 2.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/c-2\n\n86 ncı maddesinin birinci fıkrası uyarınca verilmesi gereken belgeleri, Kurumca belirlenen şekilde ve usûlde vermeyenler ya da Kurumca internet, elektronik veya benzeri ortamda göndermekle zorunlu tutulduğu halde anılan ortamda göndermeyenler veya belirlenen süre içinde vermeyenlere her bir fiil için;\n\nBelgenin ek olması halinde, aylık asgari ücretin iki katını geçmemek kaydıyla her bir ek belgede kayıtlı sigortalı sayısı başına, aylık asgari ücretin sekizde biri tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 2):\n\n• (B) gerçek kişisi, 2017/Eylül ayına ilişkin ek APHB'yi yasal süre dışında verdi\n• Belgede kayıtlı sigortalı sayısı: 9\n• Fiil tarihi (23/10/2017) asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 / 8 × 9 = 1.999,69 TL ≈ 1.999,00 TL\n(Üst sınır: 1.777,50 × 2 = 3.555,00 TL → aşılmadı)"
     },
     {
       "kod": "c.3.",
@@ -88,7 +104,9 @@
       "katsayi": 0.5,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 2.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/c-3\n\n86 ncı maddesinin birinci fıkrası uyarınca verilmesi gereken belgeleri, Kurumca belirlenen şekilde ve usûlde vermeyenler ya da Kurumca internet, elektronik veya benzeri ortamda göndermekle zorunlu tutulduğu halde anılan ortamda göndermeyenler veya belirlenen süre içinde vermeyenlere her bir fiil için;\n\nEk belgenin 86 ncı maddenin beşinci fıkrasına istinaden Kurumca re'sen düzenlenmesi durumunda, aylık asgari ücretin iki katını geçmemek kaydıyla her bir ek belgede kayıtlı sigortalı sayısı başına, aylık asgari ücretin yarısı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 3):\n\n• (D) A.Ş., 2017/Eylül ayına ilişkin asıl APHB'yi yasal süre dışında verdi\n• Belgede kayıtlı sigortalı sayısı: 15\n• Fiil tarihi (23/10/2017) asgari ücreti: 1.777,50 TL\n────────────────────\nHesaplanan: 1.777,50 / 2 × 15 = 13.331,25 TL\n→ Üst sınırı (1.777,50 × 2 = 3.555,00 TL) aştığından:\nCeza = 3.555,00 TL (üst sınır uygulandı)"
     },
     {
       "kod": "c.4.",
@@ -98,7 +116,9 @@
       "katsayi": 2.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/c-4\n\n86 ncı maddesinin birinci fıkrası uyarınca verilmesi gereken belgelerin; mahkeme kararı, Kurumun denetim ve kontrol ile görevlendirilmiş memurlarınca yapılan tespitler veya diğer kamu idarelerinin denetim elemanlarınca kendi mevzuatları gereğince yapacakları soruşturma, denetim ve incelemeler neticesinde ya da bankalar, döner sermayeli kuruluşlar, kamu idareleri ile kanunla kurulan kurum ve kuruluşlardan alınan bilgi ve belgelerden, hizmetleri veya kazançları Kuruma bildirilmediği veya eksik bildirildiği anlaşılan sigortalılarla ilgili olması halinde, belgenin asıl veya ek nitelikte olup olmadığı, işverence düzenlenip düzenlenmediği dikkate alınmaksızın, aylık asgari ücretin iki katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• Sigortalı (A)'nın 2017/Ağustos ayındaki 300,00 TL brüt ücreti Kuruma eksik bildirildi\n• Kurumun denetim memurlarınca tespit edildi\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 2 = 3.555,00 TL\n(Müfettiş tespiti → asıl/ek ayrımı yapılmaksızın asgari ücretin 2 katı)"
     },
     {
       "kod": "d.",
@@ -108,7 +128,9 @@
       "katsayi": 2.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/d\n\n59 uncu maddesi uyarınca Kurumun defter ve belge incelemeye yetkili denetim ve kontrolle görevlendirilmiş memurları tarafından veya 59 uncu maddesinin beşinci fıkrasında belirtilen serbest muhasebeci malî müşavirler ile yeminli malî müşavirlerce düzenlenen raporlara istinaden, Kuruma bildirilmediği tespit edilen eksik işçilik tutarının mal edildiği her bir ay için, aylık asgari ücretin iki katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• Fark işçilik tutarı 2017/Eylül ve 2017/Ekim aylarına mal edildi\n• 2017/Eylül asgari ücreti: 1.777,50 TL\n• 2017/Ekim asgari ücreti: 1.777,50 TL\n────────────────────\nd bendi (her ay için):\n  2017/Eylül: 1.777,50 × 2 = 3.555,00 TL\n  2017/Ekim:  1.777,50 × 2 = 3.555,00 TL\ne/4 bendi (defter geçersizliği her ay için):\n  2017/Eylül: 1.777,50 / 2 = 888,00 TL\n  2017/Ekim:  1.777,50 / 2 = 888,00 TL\n─────────────────────────────────────\nToplam: 3.555 + 3.555 + 888 + 888 = 8.886,00 TL"
     },
     {
       "kod": "e.1.",
@@ -118,7 +140,9 @@
       "katsayi": 12.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/e-1\n\n86 ncı maddesinin ikinci fıkrasındaki yükümlülüğü Kurumca yapılan yazılı ihtara rağmen onbeş gün içinde mücbir sebep olmaksızın tam olarak yerine getirmeyenlere;\n\nBilânço esasına göre defter tutmakla yükümlü olanlar için, aylık asgari ücretin oniki katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• Bilanço esasına göre defter tutan (A) Limited Şirketi\n• Kurumca 10/5/2017 tarihinde tebligat yapıldı\n• 15 günlük süre geçirildi (son gün: 25/5/2017)\n• Defterleri 30/5/2017'de ibraz etti\n• 25/5/2017 tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 12 = 21.330,00 TL\n(Bilanço esası → asgari ücretin 12 katı)"
     },
     {
       "kod": "e.2.",
@@ -128,7 +152,9 @@
       "katsayi": 6.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/e-2\n\n86 ncı maddesinin ikinci fıkrasındaki yükümlülüğü Kurumca yapılan yazılı ihtara rağmen onbeş gün içinde mücbir sebep olmaksızın tam olarak yerine getirmeyenlere;\n\nDiğer defterleri tutmakla yükümlü olanlar için, aylık asgari ücretin altı katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA:\n\n• Diğer defterleri tutan işveren\n• Kurumca yazılı ihtara rağmen 15 gün içinde defter ibraz edilmedi\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 6 = 10.665,00 TL\n(Diğer defterler → asgari ücretin 6 katı)"
     },
     {
       "kod": "e.3.",
@@ -138,7 +164,9 @@
       "katsayi": 3.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/e-3\n\n86 ncı maddesinin ikinci fıkrasındaki yükümlülüğü Kurumca yapılan yazılı ihtara rağmen onbeş gün içinde mücbir sebep olmaksızın tam olarak yerine getirmeyenlere;\n\nDefter tutmakla yükümlü değil iseler, asgari ücretin üç katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA:\n\n• Defter tutmakla yükümlü olmayan işveren\n• Kurumca yazılı ihtara rağmen 15 gün içinde kayıt ibraz edilmedi\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 3 = 5.332,50 TL\n(Defter tutmayanlar → asgari ücretin 3 katı)"
     },
     {
       "kod": "e.4.",
@@ -148,7 +176,9 @@
       "katsayi": 0.5,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/e-4 (Defter Geçersizliği)\n\nTutmakla yükümlü bulunulan defter ve belgelerin ibraz edilmemesi nedeniyle verilmesi gereken ceza tutarını aşmamak kaydıyla; defter ve belgelerin tümünü verilen süre içinde ibraz etmekle birlikte;\n• Kanunî tasdik süresi geçtikten sonra tasdik ettirilmiş olan defterlerin tasdik tarihinden önceki kısmı,\n• İşçilikle ilgili giderlerin işlenmemiş olduğu tespit edilen defterler,\n• Sigorta primleri hesabına esas tutulan kazançların kesin olarak tespitine imkân vermeyecek şekilde usulsüz veya noksan tutulmuş defterler,\n• Herhangi bir ay için sigorta primleri hesabına esas tutulması gereken kazançların o aya ait defter kayıtlarına işlenmemiş olması\n\nhalinde, o aya ait defter kayıtları geçerli sayılmaz ve bu geçersizlik hallerinin gerçekleştiği her bir takvim ayı için, aylık asgari ücretin yarısı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 4):\n\n• (T) Kooperatifinin defterleri incelendi\n• 2016/Aralık ve 2017/Ocak ayları için primlerin tespitine imkân vermeyecek şekilde usulsüz tutulmuş\n────────────────────\n2016/Aralık: 1.647,00 / 2 = 823,00 TL\n2017/Ocak:   1.777,50 / 2 = 888,00 TL\n─────────────────\nToplam: 823,00 + 888,00 = 1.711,00 TL"
     },
     {
       "kod": "e.5.",
@@ -158,7 +188,9 @@
       "katsayi": 0.5,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/e-5 (Bordro Geçersizliği)\n\nİşverenler tarafından ibraz edilen aylık ücret tediye bordrosunda; işyerinin sicil numarası, bordronun ilişkin olduğu ay, sigortalının adı, soyadı, sigortalının sosyal güvenlik sicil numarası, ücret ödenen gün sayısı, sigortalının ücreti, ödenen ücret tutarı ve ücretin alındığına dair sigortalının imzasının bulunması zorunludur.\n\nBelirtilen unsurlardan herhangi birini ihtiva etmeyen ücret tediye bordroları geçerli sayılmaz ve her bir geçersiz ücret tediye bordrosu için aylık asgari ücretin yarısı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 3):\n\n• (B) Limited Şirketi, (A), (B), (C) sigortalıları için 2017/Mart ayına ait ücret tediye bordrosunda sigortalıların imzası yok\n• 3 sigortalı için tek bordro düzenlenmiş\n• 2017/Mart asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 / 2 = 888,00 TL\n(Her bir geçersiz bordro için → asgari ücretin 1/2'si)\nNot: Aynı ayda birden fazla geçersiz bordro varsa her biri için ayrı ceza uygulanır."
     },
     {
       "kod": "f.",
@@ -168,7 +200,9 @@
       "katsayi": 2.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/f\n\n85 inci maddesinin beşinci fıkrasında belirtilen yükümlülükleri belirtilen sürede yerine getirmeyenlere, aylık asgari ücretin iki katı tutarında idari para cezası uygulanır.\n\n(Asgari işçilik uygulaması kapsamında ihale makamlarının bilgi ve belge verme yükümlülüğü)",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• (A) kamu idaresine gönderilen yazı 8/8/2017'de tebliğ edildi\n• En geç 8/9/2017 tarihine kadar (1 aylık süre) bilgi verilmedi\n• 8/9/2017 tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 2 = 3.555,00 TL\nNot: Aynı yazıya ilişkin tekrar tebligat yapılsa dahi ikinci kez ceza uygulanmaz."
     },
     {
       "kod": "h.",
@@ -178,7 +212,9 @@
       "katsayi": 1.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/h\n\n11 inci maddesinin üçüncü fıkrasında belirtilen bildirim yükümlülüğünü yasal süresi içinde yerine getirmeyen ticaret sicili memurlukları ile aynı maddenin altıncı fıkrasında belirtilen yükümlülüğü yasal süresi içinde yerine getirmeyen kurum ve kuruluşlara yerine getirilmeyen her bir bildirim yükümlülüğü için aylık asgari ücret tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 2):\n\n• Şirket kuruluşu 18/6/2019 tarihinde ticaret sicilince tescil edildi\n• En geç 28/6/2019 tarihine kadar Kuruma bildirim yapılması gerekiyordu\n• Bildirim süresi geçirildi\n• 28/6/2019 tarihi asgari ücreti: 2.558,40 TL\n────────────────────\nCeza = 2.558,40 × 1 = 2.558,40 TL\n(Her bir bildirim yükümlülüğü için 1 aylık asgari ücret)"
     },
     {
       "kod": "ı.1",
@@ -188,7 +224,9 @@
       "katsayi": 5.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/ı-1\n\nKurumun denetim ve kontrolle görevlendirilmiş memurlarının bu Kanunun uygulanmasından doğan inceleme ve soruşturma görevlerini yerine getirmeleri sırasında işverenler, sigortalılar, işyeri sahipleri ve bu işle ilgili diğer kişiler görevlerini yapmasına engel olamazlar; engel olanlar hakkında eylemleri başka bir suç oluştursa dahi, asgari ücretin beş katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• 17/11/2017 tarihinde A işyerinde Kurumun denetim memurunun denetimi engellendi\n• 17/11/2017 tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 5 = 8.887,50 TL ≈ 8.887,00 TL\nNot: Birden fazla kişi engelliyorsa her birine ayrı ayrı ceza uygulanır."
     },
     {
       "kod": "ı.2",
@@ -198,7 +236,9 @@
       "katsayi": 10.0,
       "altSinirKatsayi": 1.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/ı-2\n\nKurumun denetim ve kontrolle görevlendirilmiş memurlarının görevlerini yapmasını engellemek amacıyla cebir ve tehdit kullanan işverenler, sigortalılar, işyeri sahipleri ve bu işle ilgili diğer kişiler fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil etmediği takdirde Türk Ceza Kanununun 265 inci maddesinin ikinci fıkrasına göre cezalandırılır.\n\nBu suçu işleyenler hakkında ayrıca asgari ücretin on katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• Denetim memuruna karşı cebir kullanıldı\n• 17/11/2017 tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nİPC: 1.777,50 × 10 = 17.775,00 TL\n+ TCK 265/2 kapsamında ayrıca cezai yaptırım uygulanır."
     },
     {
       "kod": "i.1",
@@ -208,7 +248,9 @@
       "katsayi": 5.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/i-1\n\nKurum tarafından bu Kanunun 100 üncü maddesi kapsamında istenen bilgi ve belgeleri belirlenen süre içinde mücbir sebep olmaksızın vermeyen kamu idareleri, bankalar, döner sermayeli kuruluşlar, kanunla kurulmuş kurum ve kuruluşlar ile diğer gerçek ve tüzel kişiler hakkında, aylık asgari ücretin beş katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA:\n\n• Kurum, 100. madde kapsamında bilgi/belge istedi\n• Belirlenen süre içinde (mücbir sebep olmaksızın) verilmedi\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 5 = 8.887,50 TL"
     },
     {
       "kod": "i.2",
@@ -218,7 +260,9 @@
       "katsayi": 2.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/i-2\n\nKurum tarafından bu Kanunun 100 üncü maddesi kapsamında istenen bilgi ve belgelerin geç verilmesi halinde aylık asgari ücretin iki katı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA:\n\n• Kurum, 100. madde kapsamında bilgi/belge istedi\n• Belirlenen süre geçirildi, geç verildi\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 2 = 3.555,00 TL"
     },
     {
       "kod": "i.3",
@@ -228,7 +272,9 @@
       "katsayi": 0.1,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/i-3\n\n4 üncü maddenin birinci fıkrasının (a) bendi kapsamındaki sigortalılara geçici iş göremezlik ödeneği ödemelerinde 100 üncü maddeye istinaden Kurumca işverenlerden istenilen bildirimlerin belirlenen süre içerisinde ve elektronik ortamda yapılmaması halinde sigortalı başına aylık asgari ücretin onda biri tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• İş göremezlik ödeneği için bildirim belirlenen süre içinde elektronik ortamda yapılmadı\n• Sigortalı sayısı: 3 kişi\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 / 10 × 3 = 533,25 TL\n(Her bir sigortalı için asgari ücretin 1/10'u)"
     },
     {
       "kod": "i.4",
@@ -238,7 +284,9 @@
       "katsayi": 0.5,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/i-4\n\n4 üncü maddenin birinci fıkrasının (a) bendi kapsamındaki sigortalılara geçici iş göremezlik ödeneği ödemelerinde 100 üncü maddeye istinaden Kurumca işverenlerden istenilen bildirimlerin hiç yapılmaması halinde sigortalı başına aylık asgari ücretin yarısı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA:\n\n• İş göremezlik ödeneği için bildirim hiç yapılmadı\n• Sigortalı sayısı: 3 kişi\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 / 2 × 3 = 2.666,25 TL\n(Her bir sigortalı için asgari ücretin 1/2'si)"
     },
     {
       "kod": "j.",
@@ -248,7 +296,9 @@
       "katsayi": 0.1,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 9999.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/j\n\n9 uncu maddesinin birinci fıkrasının (a) bendine göre sigortalılığı sona erenlere ilişkin bildirim ile 506 sayılı Kanunun geçici 20 nci maddesinde yer alan sandıklara, sandık iştirakçiliğinin başlama veya sona ermesine ilişkin bildirimi, süresi içinde ya da Kurumca belirlenen şekle ve usule uygun olarak yapmayanlar veya Kurumca internet, elektronik veya benzeri ortamda göndermekle zorunlu tutulduğu halde anılan ortamda göndermeyenler hakkında, bir takvim ayında işlenen bu fiillerden dolayı tutmakla yükümlü bulunulan defter ve belgelerin ibraz edilmemesi nedeniyle verilmesi gereken ceza tutarını aşmamak kaydıyla her bir sigortalı veya sandık iştirakçisi için asgari ücretin onda biri tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• 12/3/2012 tarihinde işten ayrılan sigortalı\n• Bildirim son tarihi: 22/3/2012\n• Geç verilen tarih: 27/3/2012\n• Fiil tarihi asgari ücreti: 886,50 TL\n────────────────────\nCeza = 886,50 × 1/10 = 88,65 TL ≈ 88,00 TL\n(Her bir sigortalı için asgari ücretin 1/10'u)\n\nÖrnek 2 (Üst sınır):\n• 150 sigortalı için geç bildirim, bilanço esası defter\n• Hesaplanan: 88,65 × 150 = 13.297,50 TL\n• Bilanço üst sınırı: 886,50 × 12 = 10.638,00 TL\n• Ceza: 10.638,00 TL (üst sınır uygulandı)"
     },
     {
       "kod": "m.1.",
@@ -258,7 +308,9 @@
       "katsayi": 0.2,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 2.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/m-1\n\nKurumun prim tahakkukuna ve sigortalıların sosyal güvenlik haklarına dayanak teşkil eden 86 ncı maddesinin on üçüncü fıkrası uyarınca verilmesi gereken beyannamedeki sigortalıların, prime esas kazançlarının veya hizmetlerinin bildirilmediği, eksik ya da geç bildirildiği anlaşılan her bir işyeri için;\n\nBeyannamenin asıl olması hâlinde, aylık asgari ücretin iki katını geçmemek kaydıyla beyannamede kayıtlı sigortalı sayısı başına, aylık asgari ücretin beşte biri tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• (C) işverenine ait (A) işyeri: 5 sigortalı → asıl beyanname\n• (C) işverenine ait (B) işyeri: 11 sigortalı → asıl beyanname\n• 2017/Ekim ayı beyannameleri yasal sürede verilmedi\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\n(A) işyeri: 1.777,50 / 5 × 5 = 1.777,50 TL\n(B) işyeri: 1.777,50 / 5 × 11 = 3.910,50 TL → üst sınırı (3.555,00) aştı\n→ (B) için ceza: 1.777,50 × 2 = 3.555,00 TL"
     },
     {
       "kod": "m.2.",
@@ -268,7 +320,9 @@
       "katsayi": 0.125,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 2.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/m-2\n\nKurumun prim tahakkukuna ve sigortalıların sosyal güvenlik haklarına dayanak teşkil eden 86 ncı maddesinin on üçüncü fıkrası uyarınca verilmesi gereken beyannamedeki sigortalıların, prime esas kazançlarının veya hizmetlerinin bildirilmediği, eksik ya da geç bildirildiği anlaşılan her bir işyeri için;\n\nBeyannamenin ek olması hâlinde, aylık asgari ücretin iki katını geçmemek kaydıyla her bir ek beyannamede kayıtlı sigortalı sayısı başına, aylık asgari ücretin sekizde biri tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• (B) işyerinde 2017/Ekim ayı için 8 sigortalıya ait ek beyanname 24/11/2017'de verildi\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 / 8 × 8 = 1.777,50 TL ≈ 1.777,00 TL\n(Üst sınır: 1.777,50 × 2 = 3.555,00 TL → aşılmadı)"
     },
     {
       "kod": "m.3.",
@@ -278,7 +332,9 @@
       "katsayi": 0.5,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 2.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/m-3\n\nKurumun prim tahakkukuna ve sigortalıların sosyal güvenlik haklarına dayanak teşkil eden 86 ncı maddesinin on üçüncü fıkrası uyarınca verilmesi gereken beyannamedeki sigortalıların, prime esas kazançlarının veya hizmetlerinin bildirilmediği, eksik ya da geç bildirildiği anlaşılan her bir işyeri için;\n\nEk beyannamenin, 86 ncı maddenin beşinci fıkrasına istinaden Kurumca resen düzenlenmesi durumunda, aylık asgari ücretin iki katını geçmemek kaydıyla her bir ek beyannamede kayıtlı sigortalı sayısı başına, aylık asgari ücretin yarısı tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• (A) Limited Şirketi, 2019/Eylül asıl beyannamesinde 3 sigortalının eksik günleri Kurumca geçersiz sayıldı\n• Ek beyanname tebellüğ tarihinden itibaren 1 aylık süre dışında verildi\n• Fiil tarihi asgari ücreti: 2.558,40 TL\n────────────────────\nCeza = 2.558,40 / 2 × 3 = 3.837,60 TL ≈ 3.837,00 TL\n(Resen düzenleme: sigortalı başına asgari ücretin 1/2'si)"
     },
     {
       "kod": "m.4.a",
@@ -288,7 +344,9 @@
       "katsayi": 1.0,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 3.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/m-4a\n\nBeyannamenin mahkeme kararı, Kurumun denetim ve kontrol ile görevlendirilmiş memurlarınca yapılan tespitler veya diğer kamu idarelerinin denetim elemanlarınca kendi mevzuatları gereğince yapacakları soruşturma, denetim ve incelemeler neticesinde ya da bankalar, döner sermayeli kuruluşlar, kamu idareleri ile kanunla kurulan kurum ve kuruluşlardan alınan bilgi ve belgelerden, hizmetleri ve kazançları Kuruma bildirilmediği veya eksik bildirildiği anlaşılan sigortalılarla ilgili olması hâlinde;\n\nKamu idareleri ile 213 sayılı Vergi Usul Kanunu uyarınca bilanço esasına göre defter tutmak zorunda olanlar hakkında asgari ücretin üç katını geçmemek üzere sigortalı başına aylık asgari ücret tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• Bilanço esasına göre defter tutan (A) Limited Şirketi, (B) işyerinde\n• 2 sigortalının (D, E) 2017/Kasım hizmet ve kazançları bildirilmedi\n• Müfettiş tespiti\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 2 = 3.555,00 TL\n(2 sigortalı × 1 AU = 2 AU, üst sınır 3 AU = 5.332,50 TL → sınır aşılmadı)\n\nÖrnek 2 (5 sigortalı):\n5 × 1.777,50 = 8.887,50 → üst sınırı (3 AU = 5.332,00 TL) aştı\nCeza = 1.777,50 × 3 = 5.332,00 TL"
     },
     {
       "kod": "m.4.b",
@@ -298,7 +356,9 @@
       "katsayi": 0.5,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 2.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/m-4b\n\nBeyannamenin mahkeme kararı, Kurumun denetim ve kontrol ile görevlendirilmiş memurlarınca yapılan tespitler veya diğer kamu idarelerinin denetim elemanlarınca kendi mevzuatları gereğince yapacakları soruşturma, denetim ve incelemeler neticesinde ya da bankalar, döner sermayeli kuruluşlar, kamu idareleri ile kanunla kurulan kurum ve kuruluşlardan alınan bilgi ve belgelerden, hizmetleri ve kazançları Kuruma bildirilmediği veya eksik bildirildiği anlaşılan sigortalılarla ilgili olması hâlinde;\n\nDiğer defterleri tutmak zorunda olanlar hakkında asgari ücretin iki katını geçmemek üzere sigortalı başına yarım asgari ücret tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 7):\n\n• İşletme esasına göre defter tutan (B) işyerinde sigortalı (F)'nin 2017/Eylül hizmet ve kazancı hiç bildirilmedi\n• Müfettiş tespiti (9/11/2017)\n• Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 0,5 × 1 = 888,75 TL\n(Üst sınır: 1.777,50 × 2 = 3.555,00 TL → aşılmadı)"
     },
     {
       "kod": "m.4.c",
@@ -308,7 +368,9 @@
       "katsayi": 0.34,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 1.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/m-4c\n\nBeyannamenin mahkeme kararı, Kurumun denetim ve kontrol ile görevlendirilmiş memurlarınca yapılan tespitler veya diğer kamu idarelerinin denetim elemanlarınca kendi mevzuatları gereğince yapacakları soruşturma, denetim ve incelemeler neticesinde ya da bankalar, döner sermayeli kuruluşlar, kamu idareleri ile kanunla kurulan kurum ve kuruluşlardan alınan bilgi ve belgelerden, hizmetleri ve kazançları Kuruma bildirilmediği veya eksik bildirildiği anlaşılan sigortalılarla ilgili olması hâlinde;\n\nDefter tutmakla yükümlü olmayanlar hakkında aylık asgari ücreti geçmemek üzere sigortalı başına asgari ücretin üçte biri tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA:\n\n• Defter tutmakla yükümlü olmayan işyerinde sigortalı hizmet/kazancı bildirilmedi\n• Müfettiş tespiti\n• Sigortalı sayısı: 3, Fiil tarihi asgari ücreti: 1.777,50 TL\n────────────────────\nCeza = 1.777,50 × 1/3 × 3 = 1.777,50 TL\n(Üst sınır: 1.777,50 × 1 = 1.777,50 TL → tam sınırda)"
     },
     {
       "kod": "m.4.ç",
@@ -318,7 +380,9 @@
       "katsayi": 1.0,
       "altSinirKatsayi": 0.1,
       "ustSinirKatsayi": 2.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/m-4ç\n\nBeyannamedeki her bir işyerinden bildirilen sigortalıların sadece prime esas kazançlarının eksik bildirildiğinin anlaşılması hâlinde ise beyannamenin asıl veya ek nitelikte olup olmadığı, işverence düzenlenip düzenlenmediği dikkate alınmaksızın, aylık asgari ücretin onda birinden az, iki katından fazla olmamak üzere tespit edilen prime esas kazanç tutarında idari para cezası uygulanır.",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• Bilanço esası (A) Ltd., (B) işyerinde 3 sigortalının 2017/Eylül prime esas kazancı\n• Eksik bildirilen tutar: 1.000,50 TL\n• Alt sınır (AU/10): 1.777,50/10 = 177,75 TL\n• Üst sınır (2×AU): 1.777,50×2 = 3.555,00 TL\n────────────────────\n177,75 ≤ 1.000,50 ≤ 3.555,00 → Ceza = 1.000,00 TL\n\nÖrnek 2 (100,75 TL eksik):\n100,75 < 177,75 → Alt sınır uygulanır: Ceza = 177,00 TL\n\nÖrnek 3 (4.000 TL eksik):\n4.000 > 3.555,00 → Üst sınır uygulanır: Ceza = 3.555,00 TL"
     },
     {
       "kod": "n.",
@@ -328,7 +392,9 @@
       "katsayi": 0.1,
       "altSinirKatsayi": 0.0,
       "ustSinirKatsayi": 1.0,
-      "kanun": "5510"
+      "kanun": "5510",
+      "kanunMetni": "5510 Sayılı Kanun - Madde 102/n\n\nMuhtasar ve prim hizmet beyannamesinde, sigortalıların işyerlerinde fiilen yaptıkları işe uygun meslek adı ve kodunu, gerçeğe aykırı bildiren her bir işyeri için aylık asgari ücreti geçmemek üzere meslek adı ve kodu gerçeğe aykırı bildirilen sigortalı başına asgari ücretin onda biri tutarında idari para cezası uygulanır.\n\n(Bu hükmün yürürlük tarihi 1/1/2018'dir.)",
+      "hesaplamaOrnegi": "ÖRNEK HESAPLAMA (Genelge Örnek 1):\n\n• Kırşehir'deki işyerinde 4 sigortalı + İstanbul'daki işyerinde 2 sigortalı\n• 2018/Şubat beyannamesi: 6 sigortalının meslek adı/kodu gerçeğe aykırı bildirildi\n• Fiil tarihi asgari ücreti: 2.029,50 TL\n────────────────────\nCeza = 2.029,50 / 10 × 6 = 1.217,70 TL ≈ 1.217,00 TL\n(Üst sınır: 2.029,50 × 1 = 2.029,50 TL → aşılmadı)\n\nÖrnek 2 (9 sigortalı + önceki 4 sigortalı):\nÖnceki ceza: 2.029,50/10×4 = 811,00 TL\n9 sigortalı için: 2.029,50/10×9 = 2.255,00 TL\nToplam: 811+2.255 = 3.066,00 TL > sınır (2.029,50 TL)\n→ 9 sigortalı için: 2.029,50 - 811,00 = 1.218,00 TL"
     }
   ]
 }
