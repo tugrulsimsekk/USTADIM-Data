@@ -336,6 +336,63 @@
       "gelirVergisine": true,
       "damgaVergisine": true,
       "hesaplama": "TAM"
+    },
+    {
+      "kod": "YAKACAK_YARDIMI",
+      "ad": "Yakacak Yardımı",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "TEMIZLIK_YARDIMI",
+      "ad": "Temizlik Yardımı",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "AYDINLATMA_YARDIMI",
+      "ad": "Aydınlatma Yardımı",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "MESKEN_YARDIMI",
+      "ad": "Mesken Yardımı",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "TAHSIL_YARDIMI",
+      "ad": "Tahsil (Eğitim) Yardımı",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "ILAVE_TEDIYE",
+      "ad": "İlave Tediye (6772 sayılı Kanun)",
+      "primeTabi": true,
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "TAM"
+    },
+    {
+      "kod": "KULLANILMAYAN_YILLIK_IZIN",
+      "ad": "Kullanılmayan Yıllık İzin Ücreti",
+      "primeTabi": "KISVA",
+      "gelirVergisine": true,
+      "damgaVergisine": true,
+      "hesaplama": "KISVA_PRIM",
+      "aciklama": "Sadece kısa vadeli sigorta kolları primi kesilir (4857 m.61)"
     }
   ]
 }
