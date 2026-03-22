@@ -130,6 +130,22 @@
       "hesaplama": "YOK"
     },
     {
+      "kod": "IS_SONU_TAZMINATI",
+      "ad": "İş Sonu Tazminatı",
+      "primeTabi": false,
+      "gelirVergisine": false,
+      "damgaVergisine": true,
+      "hesaplama": "YOK"
+    },
+    {
+      "kod": "AYNI_YARDIM",
+      "ad": "Ayni Yardım (Genel)",
+      "primeTabi": false,
+      "gelirVergisine": false,
+      "damgaVergisine": false,
+      "hesaplama": "YOK"
+    },
+    {
       "kod": "IHBAR_TAZMINATI",
       "ad": "İhbar Tazminatı",
       "primeTabi": false,
