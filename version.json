@@ -1,11 +1,11 @@
 {
-  "appVersion": "1.0.0",
-  "downloadUrl": "",
-  "ipc": "23/03/2026",
-  "pek": "23/03/2026",
-  "mevzuat": "23/03/2026",
-  "turne": "14/03/2026",
-  "rehberlik": "28/01/2026",
-  "rapor": "16/01/2026",
-  "cesitliBilgiler": "21/01/2026"
+    "ipc":  "23/03/2026",
+    "pek":  "23/03/2026",
+    "mevzuat":  "23/03/2026",
+    "turne":  "14/03/2026",
+    "rehberlik":  "28/01/2026",
+    "rapor":  "16/01/2026",
+    "cesitliBilgiler":  "21/01/2026",
+    "appVersion":  "1.0.1",
+    "downloadUrl":  "https://github.com/tugrulsimsekk/USTADIM-Data/releases/download/v1.0.1/USTADIM-1.0.1.exe"
 }
