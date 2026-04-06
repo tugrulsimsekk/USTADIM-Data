@@ -1,7 +1,7 @@
 {
   "harcirahTutarlari": [
-    {"yil": 2026, "avansLimitiDosya": "avanslimiti.2026.pdf", "gundelikDosya": "gundelik.2026.pdf", "harcirah": 1157,00, "konaklama": 2198,30},
-    {"yil": 2025, "avansLimitiDosya": "", "gundelikDosya": "gundelik.2025.pdf", "harcirah": 884,00, "konaklama": 1547,00},
+    {"yil": 2026, "avansLimitiDosya": "avanslimiti.2026.pdf", "gundelikDosya": "gundelik.2026.pdf", "harcirah": 1157, "konaklama": 2198},
+    {"yil": 2025, "avansLimitiDosya": "", "gundelikDosya": "gundelik.2025.pdf", "harcirah": 884, "konaklama": 1547},
     {"yil": 2023, "avansLimitiDosya": "avanslimiti.2023.pdf", "gundelikDosya": "", "harcirah": 0, "konaklama": 0},
     {"yil": 2022, "avansLimitiDosya": "avanslimiti.2022.pdf", "gundelikDosya": "", "harcirah": 0, "konaklama": 0},
     {"yil": 2017, "avansLimitiDosya": "avanslimiti.2017.pdf", "gundelikDosya": "", "harcirah": 0, "konaklama": 0}
