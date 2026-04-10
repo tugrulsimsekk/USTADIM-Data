@@ -1,0 +1,228 @@
+test2/* =====================================================
+   ÜSTADIM - Merkezi Stil Dosyası (global.css)
+   Bu dosyadan tüm uygulama stilleri yönetilir.
+   Admin panelindeki Tema Editörü üzerinden değiştirilebilir.
+   ===================================================== */
+
+/* ---- RENK PALETİ (Değiştirmek istediğiniz yerler burası) ---- */
+.root {
+    -primary-color: #1565C0;
+    -primary-dark:  #0D47A1;
+    -success-color: #2e7d32;
+    -danger-color:  #c62828;
+    -neutral-color: #546e7a;
+    -bg-color:      #f0f2f5;
+    -card-bg:       white;
+    -text-muted:    #666;
+    -text-light:    #999;
+    -border-radius: 6px;
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+    -fx-background-color: -bg-color;
+}
+
+/* ---- SAYFA ARKA PLANI ---- */
+.root-container {
+    -fx-background-color: -bg-color;
+}
+
+/* ---- KART (Ana Sayfa Menü Kartları) ---- */
+.card {
+    -fx-background-color: -card-bg;
+    -fx-background-radius: -border-radius;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.08), 10, 0, 0, 2);
+    -fx-padding: 15 40 15 40;
+}
+
+.card:hover {
+    -fx-effect: dropshadow(gaussian, rgba(21,101,192,0.18), 14, 0, 0, 4);
+}
+
+/* ---- ANA MENÜ BUTONLARI ---- */
+.card-button {
+    -fx-background-color: -primary-color;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-background-radius: -border-radius;
+    -fx-cursor: hand;
+    -fx-padding: 14 40 14 40;
+    -fx-pref-height: 50;
+}
+
+.card-button:hover {
+    -fx-background-color: -primary-dark;
+}
+
+/* ---- PRIMARY BUTON ---- */
+.btn-primary {
+    -fx-background-color: -primary-color;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: -border-radius;
+    -fx-cursor: hand;
+    -fx-padding: 8 18 8 18;
+}
+
+.btn-primary:hover {
+    -fx-background-color: -primary-dark;
+}
+
+.btn-primary:selected {
+    -fx-background-color: -primary-dark;
+    -fx-border-color: -primary-dark;
+    -fx-border-width: 2;
+    -fx-border-radius: -border-radius;
+}
+
+/* ---- SECONDARY BUTON (Geri Dön) ---- */
+.btn-secondary {
+    -fx-background-color: transparent;
+    -fx-text-fill: -primary-color;
+    -fx-border-color: -primary-color;
+    -fx-border-width: 1;
+    -fx-border-radius: -border-radius;
+    -fx-background-radius: -border-radius;
+    -fx-cursor: hand;
+    -fx-padding: 6 16 6 16;
+}
+
+.btn-secondary:hover {
+    -fx-background-color: derive(-primary-color, 90%);
+}
+
+/* ---- SUCCESS BUTON ---- */
+.btn-success {
+    -fx-background-color: -success-color;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: -border-radius;
+    -fx-cursor: hand;
+    -fx-padding: 8 18 8 18;
+}
+
+.btn-success:hover {
+    -fx-background-color: derive(-success-color, -15%);
+}
+
+/* ---- DANGER BUTON ---- */
+.btn-danger {
+    -fx-background-color: -danger-color;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: -border-radius;
+    -fx-cursor: hand;
+    -fx-padding: 8 18 8 18;
+}
+
+.btn-danger:hover {
+    -fx-background-color: derive(-danger-color, -15%);
+}
+
+/* ---- SAYDAM LINK BUTONU ---- */
+.btn-link {
+    -fx-background-color: transparent;
+    -fx-text-fill: -primary-color;
+    -fx-font-size: 11px;
+    -fx-cursor: hand;
+    -fx-underline: true;
+}
+
+.btn-link-muted {
+    -fx-background-color: transparent;
+    -fx-text-fill: -text-muted;
+    -fx-font-size: 11px;
+    -fx-cursor: hand;
+    -fx-underline: true;
+}
+
+/* ---- BAŞLIK LABEL ---- */
+.page-title {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #222;
+}
+
+.app-title {
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+    -fx-text-fill: -primary-color;
+}
+
+/* ---- FORM KART (Login, Şifre Değiştir) ---- */
+.form-card {
+    -fx-background-color: -card-bg;
+    -fx-padding: 30;
+    -fx-background-radius: -border-radius;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.1), 10, 0, 0, 2);
+}
+
+/* ---- TEXT FIELD / PASSWORD FIELD ---- */
+.text-field, .password-field {
+    -fx-padding: 8;
+    -fx-background-radius: 4;
+    -fx-border-radius: 4;
+    -fx-border-color: #ddd;
+    -fx-border-width: 1;
+}
+
+.text-field:focused, .password-field:focused {
+    -fx-border-color: -primary-color;
+}
+
+/* ---- ETIKET STİLLERİ ---- */
+.label-bold {
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+}
+
+.label-muted {
+    -fx-text-fill: -text-muted;
+    -fx-font-size: 11px;
+}
+
+.label-error {
+    -fx-text-fill: -danger-color;
+    -fx-font-size: 11px;
+}
+
+.label-success {
+    -fx-text-fill: -success-color;
+    -fx-font-size: 11px;
+}
+
+/* ---- TABLO ---- */
+.table-view {
+    -fx-background-color: -card-bg;
+    -fx-border-color: #e0e0e0;
+    -fx-border-width: 1;
+    -fx-background-radius: 4;
+}
+
+.table-view .column-header {
+    -fx-background-color: derive(-primary-color, 85%);
+    -fx-font-weight: bold;
+}
+
+/* ---- TAB PANE ---- */
+.tab-pane .tab-header-area .tab:selected {
+    -fx-background-color: -primary-color;
+}
+
+.tab-pane .tab-header-area .tab:selected .tab-label {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+/* ---- SCROLLBAR İNCELTME ---- */
+.scroll-bar:vertical .track {
+    -fx-background-color: transparent;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #ccc;
+    -fx-background-radius: 4;
+}
+
+.scroll-bar:vertical .thumb:hover {
+    -fx-background-color: #aaa;
+}
