@@ -1,20 +1,35 @@
 /* =====================================================
-   ÜSTADIM - global.css
-   Renk değişkenleri burada tanımlanır.
-   Modena teması korunur — hiçbir bileşen override edilmez.
+   ÜSTADIM - global.css  |  Tema: Slate & Amber
    ===================================================== */
 .root {
-    -primary-color:  #1565C0;
-    -primary-dark:   #0D47A1;
-    -primary-light:  #E3F2FD;
-    -success-color:  #2e7d32;
-    -danger-color:   #c62828;
-    -warning-color:  #E65100;
-    -neutral-color:  #546e7a;
-    -bg-color:       #f0f2f5;
-    -card-bg:        white;
-    -text-primary:   #212121;
-    -text-muted:     #666;
-    -border-color:   #e0e0e0;
-    -border-radius:  6px;
+    -primary-color:  #37474F;
+    -primary-dark:   #263238;
+    -primary-light:  #ECEFF1;
+    -success-color:  #388E3C;
+    -danger-color:   #C62828;
+    -warning-color:  #F57F17;
+    -neutral-color:  #78909C;
+    -bg-color:       #F5F6F7;
+    -card-bg:        #FFFFFF;
+    -text-primary:   #263238;
+    -text-muted:     #78909C;
+    -border-color:   #CFD8DC;
+    -border-radius:  8px;
+}
+
+.page-title {
+    -fx-font-size:   20px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Segoe UI Semibold", "Arial", sans-serif;
+}
+
+.transparent-area {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+.transparent-area .viewport {
+    -fx-background-color: transparent;
+}
+.transparent-area .content {
+    -fx-background-color: transparent;
 }
