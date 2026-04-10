@@ -1,26 +1,26 @@
 /* =====================================================
-   ÜSTADIM - global.css  |  Tema: Slate & Amber
+   ÜSTADIM - global.css  |  Tema: Indigo & Warm
    ===================================================== */
 .root {
-    -primary-color:  #37474F;
-    -primary-dark:   #263238;
-    -primary-light:  #ECEFF1;
-    -success-color:  #388E3C;
-    -danger-color:   #C62828;
-    -warning-color:  #F57F17;
-    -neutral-color:  #78909C;
-    -bg-color:       #F5F6F7;
-    -card-bg:        #FFFFFF;
-    -text-primary:   #263238;
-    -text-muted:     #78909C;
-    -border-color:   #CFD8DC;
-    -border-radius:  8px;
+    -primary-color:  #3949AB;
+    -primary-dark:   #283593;
+    -primary-light:  #E8EAF6;
+    -success-color:  #2E7D32;
+    -danger-color:   #B71C1C;
+    -warning-color:  #E65100;
+    -neutral-color:  #607D8B;
+    -bg-color:       #F8F7F4;
+    -card-bg:        #FEFEFE;
+    -text-primary:   #1A1A2E;
+    -text-muted:     #757575;
+    -border-color:   #E0E0E0;
+    -border-radius:  10px;
 }
 
 .page-title {
     -fx-font-size:   20px;
     -fx-font-weight: bold;
-    -fx-font-family: "Segoe UI Semibold", "Arial", sans-serif;
+    -fx-font-family: "Segoe UI", "Arial", sans-serif;
 }
 
 .transparent-area {
