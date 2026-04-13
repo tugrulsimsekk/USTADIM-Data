@@ -1,15 +1,272 @@
+/* =====================================================
+   ÜSTADIM - global.css
+   Tüm component stilleri burada tanımlanır.
+   Admin panelinden sadece .root değişkenleri override edilir.
+   ===================================================== */
+
 .root {
-    -primary-color:  #37474F;
-    -primary-dark:   #263238;
-    -primary-light:  #ECEFF1;
-    -success-color:  #388E3C;
-    -danger-color:   #C62828;
-    -warning-color:  #F57F17;
-    -neutral-color:  #78909C;
-    -bg-color:       #F5F6F7;
-    -card-bg:        #FFFFFF;
-    -text-primary:   #263238;
-    -text-muted:     #78909C;
-    -border-color:   #CFD8DC;
-    -border-radius:  8px;
+    -primary-color:  #1565C0;
+    -primary-dark:   #0D47A1;
+    -primary-light:  #E3F2FD;
+    -success-color:  #2e7d32;
+    -danger-color:   #c62828;
+    -warning-color:  #E65100;
+    -neutral-color:  #546e7a;
+    -bg-color:       #f0f2f5;
+    -card-bg:        white;
+    -text-primary:   #212121;
+    -text-muted:     #666;
+    -border-color:   #e0e0e0;
+    -border-radius:  6px;
+}
+
+.page-title {
+    -fx-font-size:   20px;
+    -fx-font-weight: bold;
+}
+
+/* ---- KART (Ana Sayfa Menü Kartları) ---- */
+.card {
+    -fx-background-color: -card-bg;
+    -fx-background-radius: -border-radius;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.08), 10, 0, 0, 2);
+    -fx-padding: 15 40 15 40;
+}
+
+.card:hover {
+    -fx-effect: dropshadow(gaussian, rgba(21,101,192,0.18), 14, 0, 0, 4);
+}
+
+/* ---- ANA MENÜ BUTONLARI ---- */
+.card-button {
+    -fx-background-color: -primary-color;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-background-radius: -border-radius;
+    -fx-cursor: hand;
+    -fx-padding: 14 40 14 40;
+    -fx-pref-height: 50;
+}
+
+.card-button:hover {
+    -fx-background-color: -primary-dark;
+}
+
+/* ---- PRIMARY BUTON ---- */
+.btn-primary {
+    -fx-background-color: -primary-color;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: -border-radius;
+    -fx-cursor: hand;
+    -fx-padding: 8 18 8 18;
+}
+
+.btn-primary:hover {
+    -fx-background-color: -primary-dark;
+}
+
+.btn-primary:selected {
+    -fx-background-color: -primary-dark;
+    -fx-border-color: -primary-dark;
+    -fx-border-width: 2;
+    -fx-border-radius: -border-radius;
+}
+
+/* ---- SECONDARY BUTON ---- */
+.btn-secondary {
+    -fx-background-color: transparent;
+    -fx-text-fill: -primary-color;
+    -fx-border-color: -primary-color;
+    -fx-border-width: 1;
+    -fx-border-radius: -border-radius;
+    -fx-background-radius: -border-radius;
+    -fx-cursor: hand;
+    -fx-padding: 6 16 6 16;
+}
+
+.btn-secondary:hover {
+    -fx-background-color: derive(-primary-color, 90%);
+}
+
+/* ---- SUCCESS BUTON ---- */
+.btn-success {
+    -fx-background-color: -success-color;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: -border-radius;
+    -fx-cursor: hand;
+    -fx-padding: 8 18 8 18;
+}
+
+.btn-success:hover {
+    -fx-background-color: derive(-success-color, -15%);
+}
+
+/* ---- DANGER BUTON ---- */
+.btn-danger {
+    -fx-background-color: -danger-color;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: -border-radius;
+    -fx-cursor: hand;
+    -fx-padding: 8 18 8 18;
+}
+
+.btn-danger:hover {
+    -fx-background-color: derive(-danger-color, -15%);
+}
+
+/* ---- EXPORT BUTON ---- */
+.btn-export {
+    -fx-background-color: -success-color;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: -border-radius;
+    -fx-cursor: hand;
+    -fx-padding: 8 18 8 18;
+}
+
+.btn-export:hover {
+    -fx-background-color: derive(-success-color, -15%);
+}
+
+/* ---- TABLO AKSIYON BUTON ---- */
+.btn-table-action {
+    -fx-background-color: -primary-color;
+    -fx-text-fill: white;
+    -fx-font-size: 11px;
+    -fx-padding: 3 8 3 8;
+    -fx-background-radius: 4;
+    -fx-cursor: hand;
+}
+
+.btn-table-action:hover {
+    -fx-background-color: -primary-dark;
+}
+
+/* ---- LINK BUTON ---- */
+.btn-link {
+    -fx-background-color: transparent;
+    -fx-text-fill: -primary-color;
+    -fx-font-size: 11px;
+    -fx-cursor: hand;
+    -fx-underline: true;
+}
+
+/* ---- BAŞLIK LABEL ---- */
+.app-title {
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+    -fx-text-fill: -primary-color;
+}
+
+/* ---- SECTION TITLE ---- */
+.section-title {
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-text-fill: -primary-color;
+}
+
+/* ---- FIELD LABEL ---- */
+.field-label {
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+}
+
+/* ---- ETİKET STİLLERİ ---- */
+.label-bold {
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+}
+
+.label-muted {
+    -fx-text-fill: -text-muted;
+    -fx-font-size: 11px;
+}
+
+.label-error {
+    -fx-text-fill: -danger-color;
+    -fx-font-size: 11px;
+}
+
+.label-success {
+    -fx-text-fill: -success-color;
+    -fx-font-size: 11px;
+}
+
+.label-warning {
+    -fx-text-fill: -warning-color;
+    -fx-font-size: 11px;
+}
+
+/* ---- FORM KART ---- */
+.form-card {
+    -fx-background-color: -card-bg;
+    -fx-padding: 30;
+    -fx-background-radius: -border-radius;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.1), 10, 0, 0, 2);
+}
+
+/* ---- TEXT FIELD ---- */
+.text-field, .password-field {
+    -fx-padding: 8;
+    -fx-background-radius: 4;
+    -fx-border-radius: 4;
+    -fx-border-color: #ddd;
+    -fx-border-width: 1;
+}
+
+.text-field:focused, .password-field:focused {
+    -fx-border-color: -primary-color;
+}
+
+/* ---- TABLO ---- */
+.table-view {
+    -fx-background-color: -card-bg;
+    -fx-border-color: #e0e0e0;
+    -fx-border-width: 1;
+    -fx-background-radius: 4;
+}
+
+.table-view .column-header {
+    -fx-background-color: derive(-primary-color, 85%);
+    -fx-font-weight: bold;
+}
+
+/* ---- TAB PANE ---- */
+.tab-pane .tab-header-area .tab:selected {
+    -fx-background-color: -primary-color;
+}
+
+.tab-pane .tab-header-area .tab:selected .tab-label {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+/* ---- SCROLLBAR ---- */
+.scroll-bar:vertical .track {
+    -fx-background-color: transparent;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #ccc;
+    -fx-background-radius: 4;
+}
+
+.scroll-bar:vertical .thumb:hover {
+    -fx-background-color: #aaa;
+}
+
+/* ---- TRANSPARENT AREA ---- */
+.transparent-area {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+.transparent-area .viewport {
+    -fx-background-color: transparent;
+}
+.transparent-area .content {
+    -fx-background-color: transparent;
 }
