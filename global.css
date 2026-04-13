@@ -1,31 +1,3 @@
 .root {
-    -primary-color:  #E53935;
-    -primary-dark:   #B71C1C;
-    -primary-light:  #FFEBEE;
-    -success-color:  #2E7D32;
-    -danger-color:   #B71C1C;
-    -warning-color:  #E65100;
-    -neutral-color:  #607D8B;
-    -bg-color:       #FFF8F8;
-    -card-bg:        #FFFFFF;
-    -text-primary:   #1A1A2E;
-    -text-muted:     #757575;
-    -border-color:   #FFCDD2;
-    -border-radius:  8px;
-}
-
-.page-title {
-    -fx-font-size:   20px;
-    -fx-font-weight: bold;
-}
-
-.transparent-area {
-    -fx-background-color: transparent;
-    -fx-border-color: transparent;
-}
-.transparent-area .viewport {
-    -fx-background-color: transparent;
-}
-.transparent-area .content {
-    -fx-background-color: transparent;
+    -fx-background-color: red;
 }
