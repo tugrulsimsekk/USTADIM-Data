@@ -1,3 +1,15 @@
 .root {
-    -fx-background-color: red;
+    -primary-color:  #37474F;
+    -primary-dark:   #263238;
+    -primary-light:  #ECEFF1;
+    -success-color:  #388E3C;
+    -danger-color:   #C62828;
+    -warning-color:  #F57F17;
+    -neutral-color:  #78909C;
+    -bg-color:       #F5F6F7;
+    -card-bg:        #FFFFFF;
+    -text-primary:   #263238;
+    -text-muted:     #78909C;
+    -border-color:   #CFD8DC;
+    -border-radius:  8px;
 }
