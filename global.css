@@ -53,8 +53,11 @@
     -fx-background-color: -primary-dark;
 }
 
-/* ---- PRIMARY BUTON ---- */
-.btn-primary {
+/* ---- TÜM BUTONLAR AYNI STİL ---- */
+.btn-primary,
+.btn-success,
+.btn-danger,
+.btn-export {
     -fx-background-color: -primary-color;
     -fx-text-fill: white;
     -fx-font-weight: bold;
@@ -63,7 +66,10 @@
     -fx-padding: 8 18 8 18;
 }
 
-.btn-primary:hover {
+.btn-primary:hover,
+.btn-success:hover,
+.btn-danger:hover,
+.btn-export:hover {
     -fx-background-color: -primary-dark;
 }
 
@@ -88,48 +94,6 @@
 
 .btn-secondary:hover {
     -fx-background-color: derive(-primary-color, 90%);
-}
-
-/* ---- SUCCESS BUTON ---- */
-.btn-success {
-    -fx-background-color: -success-color;
-    -fx-text-fill: white;
-    -fx-font-weight: bold;
-    -fx-background-radius: -border-radius;
-    -fx-cursor: hand;
-    -fx-padding: 8 18 8 18;
-}
-
-.btn-success:hover {
-    -fx-background-color: derive(-success-color, -15%);
-}
-
-/* ---- DANGER BUTON ---- */
-.btn-danger {
-    -fx-background-color: -danger-color;
-    -fx-text-fill: white;
-    -fx-font-weight: bold;
-    -fx-background-radius: -border-radius;
-    -fx-cursor: hand;
-    -fx-padding: 8 18 8 18;
-}
-
-.btn-danger:hover {
-    -fx-background-color: derive(-danger-color, -15%);
-}
-
-/* ---- EXPORT BUTON ---- */
-.btn-export {
-    -fx-background-color: -success-color;
-    -fx-text-fill: white;
-    -fx-font-weight: bold;
-    -fx-background-radius: -border-radius;
-    -fx-cursor: hand;
-    -fx-padding: 8 18 8 18;
-}
-
-.btn-export:hover {
-    -fx-background-color: derive(-success-color, -15%);
 }
 
 /* ---- TABLO AKSIYON BUTON ---- */
