@@ -1,7 +1,8 @@
 /* =====================================================
    ÜSTADIM - global.css
-   Tüm component stilleri burada tanımlanır.
-   Admin panelinden sadece .root değişkenleri override edilir.
+   Renk değişkenleri ve temel stiller burada tanımlanır.
+   Butonlar Modena default'ta bırakılmıştır.
+   Tema editöründen istediğiniz stili ekleyebilirsiniz.
    ===================================================== */
 
 .root {
@@ -25,126 +26,7 @@
     -fx-font-weight: bold;
 }
 
-/* ---- KART (Ana Sayfa Menü Kartları) ---- */
-.card {
-    -fx-background-color: -card-bg;
-    -fx-background-radius: -border-radius;
-    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.08), 10, 0, 0, 2);
-    -fx-padding: 15 40 15 40;
-}
-
-.card:hover {
-    -fx-effect: dropshadow(gaussian, rgba(21,101,192,0.18), 14, 0, 0, 4);
-}
-
-/* ---- ANA MENÜ BUTONLARI ---- */
-.card-button {
-    -fx-background-color: -primary-color;
-    -fx-text-fill: white;
-    -fx-font-size: 14px;
-    -fx-font-weight: bold;
-    -fx-background-radius: -border-radius;
-    -fx-cursor: hand;
-    -fx-padding: 14 40 14 40;
-    -fx-pref-height: 50;
-}
-
-.card-button:hover {
-    -fx-background-color: -primary-dark;
-}
-
-/* ---- TÜM BUTONLAR AYNI STİL ---- */
-.btn-primary,
-.btn-success,
-.btn-danger,
-.btn-export {
-    -fx-background-color: -primary-color;
-    -fx-text-fill: white;
-    -fx-font-weight: bold;
-    -fx-background-radius: -border-radius;
-    -fx-cursor: hand;
-    -fx-padding: 8 18 8 18;
-}
-
-.btn-primary:hover,
-.btn-success:hover,
-.btn-danger:hover,
-.btn-export:hover {
-    -fx-background-color: -primary-dark;
-}
-
-.btn-primary:selected {
-    -fx-background-color: -primary-dark;
-    -fx-border-color: -primary-dark;
-    -fx-border-width: 2;
-    -fx-border-radius: -border-radius;
-}
-
-/* ---- SECONDARY BUTON ---- */
-.btn-secondary {
-    -fx-background-color: transparent;
-    -fx-text-fill: -primary-color;
-    -fx-border-color: -primary-color;
-    -fx-border-width: 1;
-    -fx-border-radius: -border-radius;
-    -fx-background-radius: -border-radius;
-    -fx-cursor: hand;
-    -fx-padding: 6 16 6 16;
-}
-
-.btn-secondary:hover {
-    -fx-background-color: derive(-primary-color, 90%);
-}
-
-/* ---- TABLO AKSIYON BUTON ---- */
-.btn-table-action {
-    -fx-background-color: -primary-color;
-    -fx-text-fill: white;
-    -fx-font-size: 11px;
-    -fx-padding: 3 8 3 8;
-    -fx-background-radius: 4;
-    -fx-cursor: hand;
-}
-
-.btn-table-action:hover {
-    -fx-background-color: -primary-dark;
-}
-
-/* ---- LINK BUTON ---- */
-.btn-link {
-    -fx-background-color: transparent;
-    -fx-text-fill: -primary-color;
-    -fx-font-size: 11px;
-    -fx-cursor: hand;
-    -fx-underline: true;
-}
-
-/* ---- BAŞLIK LABEL ---- */
-.app-title {
-    -fx-font-size: 28px;
-    -fx-font-weight: bold;
-    -fx-text-fill: -primary-color;
-}
-
-/* ---- SECTION TITLE ---- */
-.section-title {
-    -fx-font-size: 13px;
-    -fx-font-weight: bold;
-    -fx-text-fill: -primary-color;
-}
-
-/* ---- FIELD LABEL ---- */
-.field-label {
-    -fx-font-weight: bold;
-    -fx-font-size: 12px;
-}
-
 /* ---- ETİKET STİLLERİ ---- */
-.label-bold {
-    -fx-font-weight: bold;
-    -fx-font-size: 12px;
-}
-
 .label-muted {
     -fx-text-fill: -text-muted;
     -fx-font-size: 11px;
@@ -165,47 +47,23 @@
     -fx-font-size: 11px;
 }
 
-/* ---- FORM KART ---- */
-.form-card {
-    -fx-background-color: -card-bg;
-    -fx-padding: 30;
-    -fx-background-radius: -border-radius;
-    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.1), 10, 0, 0, 2);
+.field-label {
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
 }
 
-/* ---- TEXT FIELD ---- */
-.text-field, .password-field {
-    -fx-padding: 8;
-    -fx-background-radius: 4;
-    -fx-border-radius: 4;
-    -fx-border-color: #ddd;
-    -fx-border-width: 1;
-}
-
-.text-field:focused, .password-field:focused {
-    -fx-border-color: -primary-color;
-}
-
-/* ---- TABLO ---- */
-.table-view {
-    -fx-background-color: -card-bg;
-    -fx-border-color: #e0e0e0;
-    -fx-border-width: 1;
-    -fx-background-radius: 4;
-}
-
-.table-view .column-header {
-    -fx-background-color: derive(-primary-color, 85%);
+.section-title {
+    -fx-font-size: 13px;
     -fx-font-weight: bold;
 }
 
-/* ---- TAB PANE ---- */
-.tab-pane .tab-header-area .tab:selected {
-    -fx-background-color: -primary-color;
+.app-title {
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
 }
 
-.tab-pane .tab-header-area .tab:selected .tab-label {
-    -fx-text-fill: white;
+/* ---- TABLO ---- */
+.table-view .column-header {
     -fx-font-weight: bold;
 }
 
