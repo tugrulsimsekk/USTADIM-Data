@@ -1,23 +1,22 @@
 .root {
-    -primary-color:  #3949AB;
-    -primary-dark:   #283593;
-    -primary-light:  #E8EAF6;
+    -primary-color:  #E53935;
+    -primary-dark:   #B71C1C;
+    -primary-light:  #FFEBEE;
     -success-color:  #2E7D32;
     -danger-color:   #B71C1C;
     -warning-color:  #E65100;
     -neutral-color:  #607D8B;
-    -bg-color:       #F0F1F8;
+    -bg-color:       #FFF8F8;
     -card-bg:        #FFFFFF;
     -text-primary:   #1A1A2E;
     -text-muted:     #757575;
-    -border-color:   #D1D5F0;
+    -border-color:   #FFCDD2;
     -border-radius:  8px;
 }
 
 .page-title {
     -fx-font-size:   20px;
     -fx-font-weight: bold;
-    -fx-font-family: "Segoe UI", "Arial", sans-serif;
 }
 
 .transparent-area {
