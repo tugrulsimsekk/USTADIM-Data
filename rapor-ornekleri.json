@@ -1,0 +1,111 @@
+{
+  "raporlar": [
+    {
+      "tur": "cevapli-teftis",
+      "baslik": "Örnek Cevaplı Teftiş Raporu 1",
+      "detay": "İşveren cevaplarına yer verilen örnek rapor",
+      "dosyaPdf": "raporlar/cevapli-teftis-1.pdf",
+      "dosyaWord": "raporlar/cevapli-teftis-1.docx"
+    },
+    {
+      "tur": "genel-durum",
+      "baslik": "Örnek Genel Durum Raporu 1",
+      "detay": "Genel durum tespiti içeren örnek",
+      "dosyaPdf": "raporlar/genel-durum-1.pdf",
+      "dosyaWord": "raporlar/genel-durum-1.docx"
+    },
+    {
+      "tur": "inceleme-iskazasi",
+      "baslik": "İnşaattan Düşme - İş Kazası İnceleme",
+      "detay": "Yüksekten düşme sonucu yaralanma",
+      "dosyaPdf": "raporlar/inceleme-iskazasi-1.pdf",
+      "dosyaWord": "raporlar/inceleme-iskazasi-1.docx"
+    },
+    {
+      "tur": "inceleme-meslekhastaligi",
+      "baslik": "Tansiyon - Meslek Hastalığı İnceleme",
+      "detay": "Mesleki strese bağlı tansiyon vakası",
+      "dosyaPdf": "raporlar/inceleme-meslekhastaligi-1.pdf",
+      "dosyaWord": "raporlar/inceleme-meslekhastaligi-1.docx"
+    },
+    {
+      "tur": "personel-performans",
+      "baslik": "Örnek Personel Performans Raporu",
+      "detay": "Yıllık performans değerlendirme örneği",
+      "dosyaPdf": "raporlar/personel-performans-1.pdf",
+      "dosyaWord": "raporlar/personel-performans-1.docx"
+    },
+    {
+      "tur": "sorusturma-personel",
+      "baslik": "Personel Soruşturma Örneği",
+      "detay": "Disiplin soruşturması örneği",
+      "dosyaPdf": "raporlar/sorusturma-personel-1.pdf",
+      "dosyaWord": "raporlar/sorusturma-personel-1.docx"
+    },
+    {
+      "tur": "sorusturma-hastane",
+      "baslik": "Hastane Soruşturma Örneği",
+      "detay": "Anlaşmalı hastane usulsüzlük örneği",
+      "dosyaPdf": "raporlar/sorusturma-hastane-1.pdf",
+      "dosyaWord": "raporlar/sorusturma-hastane-1.docx"
+    },
+    {
+      "tur": "oninceleme",
+      "baslik": "Örnek Ön İnceleme Raporu",
+      "detay": "Memur hakkında ön inceleme",
+      "dosyaPdf": "raporlar/oninceleme-1.pdf",
+      "dosyaWord": "raporlar/oninceleme-1.docx"
+    },
+    {
+      "tur": "aii-insaat",
+      "baslik": "İnşaat Asgari İşçilik İncelemesi",
+      "detay": "Konut inşaatı asgari işçilik tespiti",
+      "dosyaPdf": "raporlar/aii-insaat-1.pdf",
+      "dosyaWord": "raporlar/aii-insaat-1.docx"
+    },
+    {
+      "tur": "aii-ihale",
+      "baslik": "İhale Konusu Asgari İşçilik İncelemesi",
+      "detay": "Kamu ihalesi kapsamında asgari işçilik",
+      "dosyaPdf": "raporlar/aii-ihale-1.pdf",
+      "dosyaWord": "raporlar/aii-ihale-1.docx"
+    }
+  ],
+  "yazilar": [
+    {
+      "tur": "inceleme-iskazasi",
+      "baslik": "İfadeye Davet Yazısı",
+      "detay": "Tanık ifadesi için davet metni",
+      "dosyaPdf": "yazilar/iskazasi-ifadeye-davet.pdf",
+      "dosyaWord": "yazilar/iskazasi-ifadeye-davet.docx"
+    },
+    {
+      "tur": "inceleme-iskazasi",
+      "baslik": "Bilgi ve Belge Talebi",
+      "detay": "İşverenden belge talep yazısı",
+      "dosyaPdf": "yazilar/iskazasi-bilgi-belge.pdf",
+      "dosyaWord": "yazilar/iskazasi-bilgi-belge.docx"
+    },
+    {
+      "tur": "sorusturma-hastane",
+      "baslik": "Hastane Bilgi Talebi",
+      "detay": "Anlaşmalı hastaneden bilgi talebi",
+      "dosyaPdf": "yazilar/sorusturma-hastane-bilgi.pdf",
+      "dosyaWord": "yazilar/sorusturma-hastane-bilgi.docx"
+    },
+    {
+      "tur": "aii-insaat",
+      "baslik": "İnşaat Aİİ Davet Yazısı",
+      "detay": "İnşaat işvereni için davet",
+      "dosyaPdf": "yazilar/aii-insaat-davet.pdf",
+      "dosyaWord": "yazilar/aii-insaat-davet.docx"
+    },
+    {
+      "tur": "cevapli-teftis",
+      "baslik": "Cevaplı Teftiş Davet Yazısı",
+      "detay": "Cevap için işveren daveti",
+      "dosyaPdf": "yazilar/cevapli-teftis-davet.pdf",
+      "dosyaWord": "yazilar/cevapli-teftis-davet.docx"
+    }
+  ]
+}
